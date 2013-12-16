@@ -17,7 +17,7 @@
 #include "teams.h"
 #include <unistd.h>
 #include "SDL/SDL_mixer.h"
-
+#include "photon_arch1.h"
 
 sprite_group_t *mech_group;
 sprite_group_t *bullet_group;
@@ -862,6 +862,8 @@ void connect_frame(){
 
 int main(int argc, char *argv[])
 {
+	// printf("%d\n", SampleAddInt(1, 2));
+	NotifyPhotonServer();
 	int res;
 
 	if (argc == 5)

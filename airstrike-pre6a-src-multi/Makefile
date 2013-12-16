@@ -1,18 +1,22 @@
-
+SH_LIB_PATH=../../Photon_libs
+# export LD_LIBRARY_PATH=$(SH_LIB_PATH):$LD_LIBRARY_PATH
 # always regenerate
 .PHONY: airstrike airstrike-sound
 
-all: airstrike airstrike-sound
-
+all: photon airstrike airstrike-sound
 
 airstrike:
 	$(MAKE) -C src OPTIONS=-DUSE_SOUND airstrike
 	mv src/airstrike .
 
 # note: do 'make clean' between sound changing
+
 airstrike-sound:
 	$(MAKE) -C src OPTIONS=-DUSE_SOUND airstrike-sound
 	mv src/airstrike-sound airstrike
+
+photon:
+	$(MAKE) -C src photon
 
 clean:
 	$(RM) $(shell find . -name '*.[od]' -o -name '*~')

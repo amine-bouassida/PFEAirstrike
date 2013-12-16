@@ -1,0 +1,570 @@
+1	Starting the game	0	30 Sun Nov  3 21:22:41 2013
+1	4 players; 2 teams; load 0 Bytes each 0ms	0	30 Sun Nov  3 21:22:41 2013
+2	Listening on port	1234	30 Sun Nov  3 21:22:41 2013
+5	Total Output	0	1050 Sun Nov  3 21:22:42 2013
+6	Total Input	0	1050 Sun Nov  3 21:22:42 2013
+3	Output	0	1050 Sun Nov  3 21:22:42 2013
+4	Input	0	1050 Sun Nov  3 21:22:42 2013
+12	fps	32	1050 Sun Nov  3 21:22:42 2013
+13	Clients	0	1050 Sun Nov  3 21:22:42 2013
+11	CPU %	0	1050 Sun Nov  3 21:22:42 2013
+5	Total Output	0	2070 Sun Nov  3 21:22:43 2013
+6	Total Input	0	2070 Sun Nov  3 21:22:43 2013
+3	Output	0	2070 Sun Nov  3 21:22:43 2013
+4	Input	0	2070 Sun Nov  3 21:22:43 2013
+12	fps	32	2070 Sun Nov  3 21:22:43 2013
+13	Clients	0	2070 Sun Nov  3 21:22:43 2013
+11	CPU %	1	2070 Sun Nov  3 21:22:43 2013
+5	Total Output	0	3090 Sun Nov  3 21:22:44 2013
+6	Total Input	0	3090 Sun Nov  3 21:22:44 2013
+3	Output	0	3090 Sun Nov  3 21:22:44 2013
+4	Input	0	3090 Sun Nov  3 21:22:44 2013
+12	fps	32	3090 Sun Nov  3 21:22:44 2013
+13	Clients	0	3090 Sun Nov  3 21:22:44 2013
+11	CPU %	1	3090 Sun Nov  3 21:22:44 2013
+5	Total Output	0	4110 Sun Nov  3 21:22:45 2013
+6	Total Input	0	4110 Sun Nov  3 21:22:45 2013
+3	Output	0	4110 Sun Nov  3 21:22:45 2013
+4	Input	0	4110 Sun Nov  3 21:22:45 2013
+12	fps	32	4110 Sun Nov  3 21:22:45 2013
+13	Clients	0	4110 Sun Nov  3 21:22:45 2013
+11	CPU %	1	4110 Sun Nov  3 21:22:45 2013
+5	Total Output	0	5130 Sun Nov  3 21:22:46 2013
+6	Total Input	0	5130 Sun Nov  3 21:22:46 2013
+3	Output	0	5130 Sun Nov  3 21:22:46 2013
+4	Input	0	5130 Sun Nov  3 21:22:46 2013
+12	fps	32	5130 Sun Nov  3 21:22:46 2013
+13	Clients	0	5130 Sun Nov  3 21:22:46 2013
+11	CPU %	1	5130 Sun Nov  3 21:22:46 2013
+5	Total Output	0	6150 Sun Nov  3 21:22:47 2013
+6	Total Input	0	6150 Sun Nov  3 21:22:47 2013
+3	Output	0	6150 Sun Nov  3 21:22:47 2013
+4	Input	0	6150 Sun Nov  3 21:22:47 2013
+12	fps	32	6150 Sun Nov  3 21:22:47 2013
+13	Clients	0	6150 Sun Nov  3 21:22:47 2013
+11	CPU %	0	6150 Sun Nov  3 21:22:47 2013
+5	Total Output	0	7170 Sun Nov  3 21:22:48 2013
+6	Total Input	0	7170 Sun Nov  3 21:22:48 2013
+3	Output	0	7170 Sun Nov  3 21:22:48 2013
+4	Input	0	7170 Sun Nov  3 21:22:48 2013
+12	fps	32	7170 Sun Nov  3 21:22:48 2013
+13	Clients	0	7170 Sun Nov  3 21:22:48 2013
+11	CPU %	2	7170 Sun Nov  3 21:22:48 2013
+5	Total Output	0	8190 Sun Nov  3 21:22:49 2013
+6	Total Input	0	8190 Sun Nov  3 21:22:49 2013
+3	Output	0	8190 Sun Nov  3 21:22:49 2013
+4	Input	0	8190 Sun Nov  3 21:22:49 2013
+12	fps	32	8190 Sun Nov  3 21:22:49 2013
+13	Clients	0	8190 Sun Nov  3 21:22:49 2013
+11	CPU %	1	8190 Sun Nov  3 21:22:49 2013
+5	Total Output	0	9210 Sun Nov  3 21:22:50 2013
+6	Total Input	0	9210 Sun Nov  3 21:22:50 2013
+3	Output	0	9210 Sun Nov  3 21:22:50 2013
+4	Input	0	9210 Sun Nov  3 21:22:50 2013
+12	fps	32	9210 Sun Nov  3 21:22:50 2013
+13	Clients	0	9210 Sun Nov  3 21:22:50 2013
+11	CPU %	1	9210 Sun Nov  3 21:22:50 2013
+5	Total Output	0	10230 Sun Nov  3 21:22:51 2013
+6	Total Input	0	10230 Sun Nov  3 21:22:51 2013
+3	Output	0	10230 Sun Nov  3 21:22:51 2013
+4	Input	0	10230 Sun Nov  3 21:22:51 2013
+12	fps	32	10230 Sun Nov  3 21:22:51 2013
+13	Clients	0	10230 Sun Nov  3 21:22:51 2013
+11	CPU %	0	10230 Sun Nov  3 21:22:51 2013
+5	Total Output	0	11250 Sun Nov  3 21:22:52 2013
+6	Total Input	0	11250 Sun Nov  3 21:22:52 2013
+3	Output	0	11250 Sun Nov  3 21:22:52 2013
+4	Input	0	11250 Sun Nov  3 21:22:52 2013
+12	fps	32	11250 Sun Nov  3 21:22:52 2013
+13	Clients	0	11250 Sun Nov  3 21:22:52 2013
+11	CPU %	2	11250 Sun Nov  3 21:22:52 2013
+5	Total Output	0	12270 Sun Nov  3 21:22:53 2013
+6	Total Input	0	12270 Sun Nov  3 21:22:53 2013
+3	Output	0	12270 Sun Nov  3 21:22:53 2013
+4	Input	0	12270 Sun Nov  3 21:22:53 2013
+12	fps	32	12270 Sun Nov  3 21:22:53 2013
+13	Clients	0	12270 Sun Nov  3 21:22:53 2013
+11	CPU %	1	12270 Sun Nov  3 21:22:53 2013
+5	Total Output	0	13290 Sun Nov  3 21:22:54 2013
+6	Total Input	0	13290 Sun Nov  3 21:22:54 2013
+3	Output	0	13290 Sun Nov  3 21:22:54 2013
+4	Input	0	13290 Sun Nov  3 21:22:54 2013
+12	fps	32	13290 Sun Nov  3 21:22:54 2013
+13	Clients	0	13290 Sun Nov  3 21:22:54 2013
+11	CPU %	1	13290 Sun Nov  3 21:22:54 2013
+5	Total Output	0	14310 Sun Nov  3 21:22:55 2013
+6	Total Input	0	14310 Sun Nov  3 21:22:55 2013
+3	Output	0	14310 Sun Nov  3 21:22:55 2013
+4	Input	0	14310 Sun Nov  3 21:22:55 2013
+12	fps	32	14310 Sun Nov  3 21:22:55 2013
+13	Clients	0	14310 Sun Nov  3 21:22:55 2013
+11	CPU %	0	14310 Sun Nov  3 21:22:55 2013
+5	Total Output	0	15330 Sun Nov  3 21:22:56 2013
+6	Total Input	0	15330 Sun Nov  3 21:22:56 2013
+3	Output	0	15330 Sun Nov  3 21:22:56 2013
+4	Input	0	15330 Sun Nov  3 21:22:56 2013
+12	fps	32	15330 Sun Nov  3 21:22:56 2013
+13	Clients	0	15330 Sun Nov  3 21:22:56 2013
+11	CPU %	1	15330 Sun Nov  3 21:22:56 2013
+5	Total Output	0	16350 Sun Nov  3 21:22:57 2013
+6	Total Input	0	16350 Sun Nov  3 21:22:57 2013
+3	Output	0	16350 Sun Nov  3 21:22:57 2013
+4	Input	0	16350 Sun Nov  3 21:22:57 2013
+12	fps	32	16350 Sun Nov  3 21:22:57 2013
+13	Clients	0	16350 Sun Nov  3 21:22:57 2013
+11	CPU %	1	16350 Sun Nov  3 21:22:57 2013
+5	Total Output	0	17370 Sun Nov  3 21:22:59 2013
+6	Total Input	0	17370 Sun Nov  3 21:22:59 2013
+3	Output	0	17370 Sun Nov  3 21:22:59 2013
+4	Input	0	17370 Sun Nov  3 21:22:59 2013
+12	fps	32	17370 Sun Nov  3 21:22:59 2013
+13	Clients	0	17370 Sun Nov  3 21:22:59 2013
+11	CPU %	1	17370 Sun Nov  3 21:22:59 2013
+5	Total Output	0	18390 Sun Nov  3 21:23:00 2013
+6	Total Input	0	18390 Sun Nov  3 21:23:00 2013
+3	Output	0	18390 Sun Nov  3 21:23:00 2013
+4	Input	0	18390 Sun Nov  3 21:23:00 2013
+12	fps	32	18390 Sun Nov  3 21:23:00 2013
+13	Clients	0	18390 Sun Nov  3 21:23:00 2013
+11	CPU %	1	18390 Sun Nov  3 21:23:00 2013
+5	Total Output	0	19410 Sun Nov  3 21:23:01 2013
+6	Total Input	0	19410 Sun Nov  3 21:23:01 2013
+3	Output	0	19410 Sun Nov  3 21:23:01 2013
+4	Input	0	19410 Sun Nov  3 21:23:01 2013
+12	fps	32	19410 Sun Nov  3 21:23:01 2013
+13	Clients	0	19410 Sun Nov  3 21:23:01 2013
+11	CPU %	1	19410 Sun Nov  3 21:23:01 2013
+5	Total Output	0	20430 Sun Nov  3 21:23:02 2013
+6	Total Input	0	20430 Sun Nov  3 21:23:02 2013
+3	Output	0	20430 Sun Nov  3 21:23:02 2013
+4	Input	0	20430 Sun Nov  3 21:23:02 2013
+12	fps	32	20430 Sun Nov  3 21:23:02 2013
+13	Clients	0	20430 Sun Nov  3 21:23:02 2013
+11	CPU %	1	20430 Sun Nov  3 21:23:02 2013
+5	Total Output	0	21450 Sun Nov  3 21:23:03 2013
+6	Total Input	0	21450 Sun Nov  3 21:23:03 2013
+3	Output	0	21450 Sun Nov  3 21:23:03 2013
+4	Input	0	21450 Sun Nov  3 21:23:03 2013
+12	fps	32	21450 Sun Nov  3 21:23:03 2013
+13	Clients	0	21450 Sun Nov  3 21:23:03 2013
+11	CPU %	1	21450 Sun Nov  3 21:23:03 2013
+5	Total Output	0	22470 Sun Nov  3 21:23:04 2013
+6	Total Input	0	22470 Sun Nov  3 21:23:04 2013
+3	Output	0	22470 Sun Nov  3 21:23:04 2013
+4	Input	0	22470 Sun Nov  3 21:23:04 2013
+12	fps	32	22470 Sun Nov  3 21:23:04 2013
+13	Clients	0	22470 Sun Nov  3 21:23:04 2013
+11	CPU %	1	22470 Sun Nov  3 21:23:04 2013
+5	Total Output	0	23490 Sun Nov  3 21:23:05 2013
+6	Total Input	0	23490 Sun Nov  3 21:23:05 2013
+3	Output	0	23490 Sun Nov  3 21:23:05 2013
+4	Input	0	23490 Sun Nov  3 21:23:05 2013
+12	fps	32	23490 Sun Nov  3 21:23:05 2013
+13	Clients	0	23490 Sun Nov  3 21:23:05 2013
+11	CPU %	1	23490 Sun Nov  3 21:23:05 2013
+5	Total Output	0	24510 Sun Nov  3 21:23:06 2013
+6	Total Input	0	24510 Sun Nov  3 21:23:06 2013
+3	Output	0	24510 Sun Nov  3 21:23:06 2013
+4	Input	0	24510 Sun Nov  3 21:23:06 2013
+12	fps	32	24510 Sun Nov  3 21:23:06 2013
+13	Clients	0	24510 Sun Nov  3 21:23:06 2013
+11	CPU %	0	24510 Sun Nov  3 21:23:06 2013
+5	Total Output	0	25530 Sun Nov  3 21:23:07 2013
+6	Total Input	0	25530 Sun Nov  3 21:23:07 2013
+3	Output	0	25530 Sun Nov  3 21:23:07 2013
+4	Input	0	25530 Sun Nov  3 21:23:07 2013
+12	fps	32	25530 Sun Nov  3 21:23:07 2013
+13	Clients	0	25530 Sun Nov  3 21:23:07 2013
+11	CPU %	2	25530 Sun Nov  3 21:23:07 2013
+5	Total Output	0	26550 Sun Nov  3 21:23:08 2013
+6	Total Input	0	26550 Sun Nov  3 21:23:08 2013
+3	Output	0	26550 Sun Nov  3 21:23:08 2013
+4	Input	0	26550 Sun Nov  3 21:23:08 2013
+12	fps	32	26550 Sun Nov  3 21:23:08 2013
+13	Clients	0	26550 Sun Nov  3 21:23:08 2013
+11	CPU %	0	26550 Sun Nov  3 21:23:08 2013
+5	Total Output	0	27570 Sun Nov  3 21:23:09 2013
+6	Total Input	0	27570 Sun Nov  3 21:23:09 2013
+3	Output	0	27570 Sun Nov  3 21:23:09 2013
+4	Input	0	27570 Sun Nov  3 21:23:09 2013
+12	fps	32	27570 Sun Nov  3 21:23:09 2013
+13	Clients	0	27570 Sun Nov  3 21:23:09 2013
+11	CPU %	2	27570 Sun Nov  3 21:23:09 2013
+5	Total Output	0	28590 Sun Nov  3 21:23:10 2013
+6	Total Input	0	28590 Sun Nov  3 21:23:10 2013
+3	Output	0	28590 Sun Nov  3 21:23:10 2013
+4	Input	0	28590 Sun Nov  3 21:23:10 2013
+12	fps	32	28590 Sun Nov  3 21:23:10 2013
+13	Clients	0	28590 Sun Nov  3 21:23:10 2013
+11	CPU %	0	28590 Sun Nov  3 21:23:10 2013
+5	Total Output	0	29610 Sun Nov  3 21:23:11 2013
+6	Total Input	0	29610 Sun Nov  3 21:23:11 2013
+3	Output	0	29610 Sun Nov  3 21:23:11 2013
+4	Input	0	29610 Sun Nov  3 21:23:11 2013
+12	fps	32	29610 Sun Nov  3 21:23:11 2013
+13	Clients	0	29610 Sun Nov  3 21:23:11 2013
+11	CPU %	1	29610 Sun Nov  3 21:23:11 2013
+5	Total Output	0	30630 Sun Nov  3 21:23:12 2013
+6	Total Input	0	30630 Sun Nov  3 21:23:12 2013
+3	Output	0	30630 Sun Nov  3 21:23:12 2013
+4	Input	0	30630 Sun Nov  3 21:23:12 2013
+12	fps	32	30630 Sun Nov  3 21:23:12 2013
+13	Clients	0	30630 Sun Nov  3 21:23:12 2013
+11	CPU %	1	30630 Sun Nov  3 21:23:12 2013
+5	Total Output	0	31650 Sun Nov  3 21:23:13 2013
+6	Total Input	0	31650 Sun Nov  3 21:23:13 2013
+3	Output	0	31650 Sun Nov  3 21:23:13 2013
+4	Input	0	31650 Sun Nov  3 21:23:13 2013
+12	fps	32	31650 Sun Nov  3 21:23:13 2013
+13	Clients	0	31650 Sun Nov  3 21:23:13 2013
+11	CPU %	1	31650 Sun Nov  3 21:23:13 2013
+5	Total Output	0	32670 Sun Nov  3 21:23:14 2013
+6	Total Input	0	32670 Sun Nov  3 21:23:14 2013
+3	Output	0	32670 Sun Nov  3 21:23:14 2013
+4	Input	0	32670 Sun Nov  3 21:23:14 2013
+12	fps	32	32670 Sun Nov  3 21:23:14 2013
+13	Clients	0	32670 Sun Nov  3 21:23:14 2013
+11	CPU %	1	32670 Sun Nov  3 21:23:14 2013
+5	Total Output	0	33690 Sun Nov  3 21:23:15 2013
+6	Total Input	0	33690 Sun Nov  3 21:23:15 2013
+3	Output	0	33690 Sun Nov  3 21:23:15 2013
+4	Input	0	33690 Sun Nov  3 21:23:15 2013
+12	fps	32	33690 Sun Nov  3 21:23:15 2013
+13	Clients	0	33690 Sun Nov  3 21:23:15 2013
+11	CPU %	1	33690 Sun Nov  3 21:23:15 2013
+5	Total Output	0	34710 Sun Nov  3 21:23:16 2013
+6	Total Input	0	34710 Sun Nov  3 21:23:16 2013
+3	Output	0	34710 Sun Nov  3 21:23:16 2013
+4	Input	0	34710 Sun Nov  3 21:23:16 2013
+12	fps	32	34710 Sun Nov  3 21:23:16 2013
+13	Clients	0	34710 Sun Nov  3 21:23:16 2013
+11	CPU %	0	34710 Sun Nov  3 21:23:16 2013
+5	Total Output	0	35730 Sun Nov  3 21:23:17 2013
+6	Total Input	0	35730 Sun Nov  3 21:23:17 2013
+3	Output	0	35730 Sun Nov  3 21:23:17 2013
+4	Input	0	35730 Sun Nov  3 21:23:17 2013
+12	fps	32	35730 Sun Nov  3 21:23:17 2013
+13	Clients	0	35730 Sun Nov  3 21:23:17 2013
+11	CPU %	1	35730 Sun Nov  3 21:23:17 2013
+5	Total Output	0	36750 Sun Nov  3 21:23:18 2013
+6	Total Input	0	36750 Sun Nov  3 21:23:18 2013
+3	Output	0	36750 Sun Nov  3 21:23:18 2013
+4	Input	0	36750 Sun Nov  3 21:23:18 2013
+12	fps	32	36750 Sun Nov  3 21:23:18 2013
+13	Clients	0	36750 Sun Nov  3 21:23:18 2013
+11	CPU %	1	36750 Sun Nov  3 21:23:18 2013
+5	Total Output	0	37770 Sun Nov  3 21:23:19 2013
+6	Total Input	0	37770 Sun Nov  3 21:23:19 2013
+3	Output	0	37770 Sun Nov  3 21:23:19 2013
+4	Input	0	37770 Sun Nov  3 21:23:19 2013
+12	fps	32	37770 Sun Nov  3 21:23:19 2013
+13	Clients	0	37770 Sun Nov  3 21:23:19 2013
+11	CPU %	1	37770 Sun Nov  3 21:23:19 2013
+5	Total Output	0	38790 Sun Nov  3 21:23:21 2013
+6	Total Input	0	38790 Sun Nov  3 21:23:21 2013
+3	Output	0	38790 Sun Nov  3 21:23:21 2013
+4	Input	0	38790 Sun Nov  3 21:23:21 2013
+12	fps	32	38790 Sun Nov  3 21:23:21 2013
+13	Clients	0	38790 Sun Nov  3 21:23:21 2013
+11	CPU %	1	38790 Sun Nov  3 21:23:21 2013
+5	Total Output	0	39810 Sun Nov  3 21:23:22 2013
+6	Total Input	0	39810 Sun Nov  3 21:23:22 2013
+3	Output	0	39810 Sun Nov  3 21:23:22 2013
+4	Input	0	39810 Sun Nov  3 21:23:22 2013
+12	fps	32	39810 Sun Nov  3 21:23:22 2013
+13	Clients	0	39810 Sun Nov  3 21:23:22 2013
+11	CPU %	1	39810 Sun Nov  3 21:23:22 2013
+5	Total Output	0	40830 Sun Nov  3 21:23:23 2013
+6	Total Input	0	40830 Sun Nov  3 21:23:23 2013
+3	Output	0	40830 Sun Nov  3 21:23:23 2013
+4	Input	0	40830 Sun Nov  3 21:23:23 2013
+12	fps	32	40830 Sun Nov  3 21:23:23 2013
+13	Clients	0	40830 Sun Nov  3 21:23:23 2013
+11	CPU %	1	40830 Sun Nov  3 21:23:23 2013
+5	Total Output	0	41850 Sun Nov  3 21:23:24 2013
+6	Total Input	0	41850 Sun Nov  3 21:23:24 2013
+3	Output	0	41850 Sun Nov  3 21:23:24 2013
+4	Input	0	41850 Sun Nov  3 21:23:24 2013
+12	fps	32	41850 Sun Nov  3 21:23:24 2013
+13	Clients	0	41850 Sun Nov  3 21:23:24 2013
+11	CPU %	1	41850 Sun Nov  3 21:23:24 2013
+5	Total Output	0	42870 Sun Nov  3 21:23:25 2013
+6	Total Input	0	42870 Sun Nov  3 21:23:25 2013
+3	Output	0	42870 Sun Nov  3 21:23:25 2013
+4	Input	0	42870 Sun Nov  3 21:23:25 2013
+12	fps	32	42870 Sun Nov  3 21:23:25 2013
+13	Clients	0	42870 Sun Nov  3 21:23:25 2013
+11	CPU %	1	42870 Sun Nov  3 21:23:25 2013
+5	Total Output	0	43890 Sun Nov  3 21:23:26 2013
+6	Total Input	0	43890 Sun Nov  3 21:23:26 2013
+3	Output	0	43890 Sun Nov  3 21:23:26 2013
+4	Input	0	43890 Sun Nov  3 21:23:26 2013
+12	fps	32	43890 Sun Nov  3 21:23:26 2013
+13	Clients	0	43890 Sun Nov  3 21:23:26 2013
+11	CPU %	1	43890 Sun Nov  3 21:23:26 2013
+5	Total Output	0	44910 Sun Nov  3 21:23:27 2013
+6	Total Input	0	44910 Sun Nov  3 21:23:27 2013
+3	Output	0	44910 Sun Nov  3 21:23:27 2013
+4	Input	0	44910 Sun Nov  3 21:23:27 2013
+12	fps	32	44910 Sun Nov  3 21:23:27 2013
+13	Clients	0	44910 Sun Nov  3 21:23:27 2013
+11	CPU %	1	44910 Sun Nov  3 21:23:27 2013
+5	Total Output	0	45930 Sun Nov  3 21:23:28 2013
+6	Total Input	0	45930 Sun Nov  3 21:23:28 2013
+3	Output	0	45930 Sun Nov  3 21:23:28 2013
+4	Input	0	45930 Sun Nov  3 21:23:28 2013
+12	fps	32	45930 Sun Nov  3 21:23:28 2013
+13	Clients	0	45930 Sun Nov  3 21:23:28 2013
+11	CPU %	0	45930 Sun Nov  3 21:23:28 2013
+5	Total Output	0	46950 Sun Nov  3 21:23:29 2013
+6	Total Input	0	46950 Sun Nov  3 21:23:29 2013
+3	Output	0	46950 Sun Nov  3 21:23:29 2013
+4	Input	0	46950 Sun Nov  3 21:23:29 2013
+12	fps	32	46950 Sun Nov  3 21:23:29 2013
+13	Clients	0	46950 Sun Nov  3 21:23:29 2013
+11	CPU %	1	46950 Sun Nov  3 21:23:29 2013
+5	Total Output	0	47970 Sun Nov  3 21:23:30 2013
+6	Total Input	0	47970 Sun Nov  3 21:23:30 2013
+3	Output	0	47970 Sun Nov  3 21:23:30 2013
+4	Input	0	47970 Sun Nov  3 21:23:30 2013
+12	fps	32	47970 Sun Nov  3 21:23:30 2013
+13	Clients	0	47970 Sun Nov  3 21:23:30 2013
+11	CPU %	1	47970 Sun Nov  3 21:23:30 2013
+5	Total Output	0	48990 Sun Nov  3 21:23:31 2013
+6	Total Input	0	48990 Sun Nov  3 21:23:31 2013
+3	Output	0	48990 Sun Nov  3 21:23:31 2013
+4	Input	0	48990 Sun Nov  3 21:23:31 2013
+12	fps	32	48990 Sun Nov  3 21:23:31 2013
+13	Clients	0	48990 Sun Nov  3 21:23:31 2013
+11	CPU %	1	48990 Sun Nov  3 21:23:31 2013
+5	Total Output	0	50010 Sun Nov  3 21:23:32 2013
+6	Total Input	0	50010 Sun Nov  3 21:23:32 2013
+3	Output	0	50010 Sun Nov  3 21:23:32 2013
+4	Input	0	50010 Sun Nov  3 21:23:32 2013
+12	fps	32	50010 Sun Nov  3 21:23:32 2013
+13	Clients	0	50010 Sun Nov  3 21:23:32 2013
+11	CPU %	2	50010 Sun Nov  3 21:23:32 2013
+5	Total Output	0	51030 Sun Nov  3 21:23:33 2013
+6	Total Input	0	51030 Sun Nov  3 21:23:33 2013
+3	Output	0	51030 Sun Nov  3 21:23:33 2013
+4	Input	0	51030 Sun Nov  3 21:23:33 2013
+12	fps	32	51030 Sun Nov  3 21:23:33 2013
+13	Clients	0	51030 Sun Nov  3 21:23:33 2013
+11	CPU %	1	51030 Sun Nov  3 21:23:33 2013
+5	Total Output	0	52050 Sun Nov  3 21:23:34 2013
+6	Total Input	0	52050 Sun Nov  3 21:23:34 2013
+3	Output	0	52050 Sun Nov  3 21:23:34 2013
+4	Input	0	52050 Sun Nov  3 21:23:34 2013
+12	fps	32	52050 Sun Nov  3 21:23:34 2013
+13	Clients	0	52050 Sun Nov  3 21:23:34 2013
+11	CPU %	0	52050 Sun Nov  3 21:23:34 2013
+5	Total Output	0	53070 Sun Nov  3 21:23:35 2013
+6	Total Input	0	53070 Sun Nov  3 21:23:35 2013
+3	Output	0	53070 Sun Nov  3 21:23:35 2013
+4	Input	0	53070 Sun Nov  3 21:23:35 2013
+12	fps	32	53070 Sun Nov  3 21:23:35 2013
+13	Clients	0	53070 Sun Nov  3 21:23:35 2013
+11	CPU %	2	53070 Sun Nov  3 21:23:35 2013
+5	Total Output	0	54090 Sun Nov  3 21:23:36 2013
+6	Total Input	0	54090 Sun Nov  3 21:23:36 2013
+3	Output	0	54090 Sun Nov  3 21:23:36 2013
+4	Input	0	54090 Sun Nov  3 21:23:36 2013
+12	fps	32	54090 Sun Nov  3 21:23:36 2013
+13	Clients	0	54090 Sun Nov  3 21:23:36 2013
+11	CPU %	0	54090 Sun Nov  3 21:23:36 2013
+5	Total Output	0	55110 Sun Nov  3 21:23:37 2013
+6	Total Input	0	55110 Sun Nov  3 21:23:37 2013
+3	Output	0	55110 Sun Nov  3 21:23:37 2013
+4	Input	0	55110 Sun Nov  3 21:23:37 2013
+12	fps	32	55110 Sun Nov  3 21:23:37 2013
+13	Clients	0	55110 Sun Nov  3 21:23:37 2013
+11	CPU %	1	55110 Sun Nov  3 21:23:37 2013
+5	Total Output	0	56130 Sun Nov  3 21:23:38 2013
+6	Total Input	0	56130 Sun Nov  3 21:23:38 2013
+3	Output	0	56130 Sun Nov  3 21:23:38 2013
+4	Input	0	56130 Sun Nov  3 21:23:38 2013
+12	fps	32	56130 Sun Nov  3 21:23:38 2013
+13	Clients	0	56130 Sun Nov  3 21:23:38 2013
+11	CPU %	2	56130 Sun Nov  3 21:23:38 2013
+5	Total Output	0	57150 Sun Nov  3 21:23:39 2013
+6	Total Input	0	57150 Sun Nov  3 21:23:39 2013
+3	Output	0	57150 Sun Nov  3 21:23:39 2013
+4	Input	0	57150 Sun Nov  3 21:23:39 2013
+12	fps	32	57150 Sun Nov  3 21:23:39 2013
+13	Clients	0	57150 Sun Nov  3 21:23:39 2013
+11	CPU %	0	57150 Sun Nov  3 21:23:39 2013
+5	Total Output	0	58170 Sun Nov  3 21:23:40 2013
+6	Total Input	0	58170 Sun Nov  3 21:23:40 2013
+3	Output	0	58170 Sun Nov  3 21:23:40 2013
+4	Input	0	58170 Sun Nov  3 21:23:40 2013
+12	fps	32	58170 Sun Nov  3 21:23:40 2013
+13	Clients	0	58170 Sun Nov  3 21:23:40 2013
+11	CPU %	2	58170 Sun Nov  3 21:23:40 2013
+5	Total Output	0	59190 Sun Nov  3 21:23:42 2013
+6	Total Input	0	59190 Sun Nov  3 21:23:42 2013
+3	Output	0	59190 Sun Nov  3 21:23:42 2013
+4	Input	0	59190 Sun Nov  3 21:23:42 2013
+12	fps	32	59190 Sun Nov  3 21:23:42 2013
+13	Clients	0	59190 Sun Nov  3 21:23:42 2013
+11	CPU %	0	59190 Sun Nov  3 21:23:42 2013
+5	Total Output	0	60210 Sun Nov  3 21:23:43 2013
+6	Total Input	0	60210 Sun Nov  3 21:23:43 2013
+3	Output	0	60210 Sun Nov  3 21:23:43 2013
+4	Input	0	60210 Sun Nov  3 21:23:43 2013
+12	fps	32	60210 Sun Nov  3 21:23:43 2013
+13	Clients	0	60210 Sun Nov  3 21:23:43 2013
+11	CPU %	1	60210 Sun Nov  3 21:23:43 2013
+5	Total Output	0	61230 Sun Nov  3 21:23:44 2013
+6	Total Input	0	61230 Sun Nov  3 21:23:44 2013
+3	Output	0	61230 Sun Nov  3 21:23:44 2013
+4	Input	0	61230 Sun Nov  3 21:23:44 2013
+12	fps	32	61230 Sun Nov  3 21:23:44 2013
+13	Clients	0	61230 Sun Nov  3 21:23:44 2013
+11	CPU %	1	61230 Sun Nov  3 21:23:44 2013
+5	Total Output	0	62250 Sun Nov  3 21:23:45 2013
+6	Total Input	0	62250 Sun Nov  3 21:23:45 2013
+3	Output	0	62250 Sun Nov  3 21:23:45 2013
+4	Input	0	62250 Sun Nov  3 21:23:45 2013
+12	fps	32	62250 Sun Nov  3 21:23:45 2013
+13	Clients	0	62250 Sun Nov  3 21:23:45 2013
+11	CPU %	1	62250 Sun Nov  3 21:23:45 2013
+5	Total Output	0	63270 Sun Nov  3 21:23:46 2013
+6	Total Input	0	63270 Sun Nov  3 21:23:46 2013
+3	Output	0	63270 Sun Nov  3 21:23:46 2013
+4	Input	0	63270 Sun Nov  3 21:23:46 2013
+12	fps	32	63270 Sun Nov  3 21:23:46 2013
+13	Clients	0	63270 Sun Nov  3 21:23:46 2013
+11	CPU %	1	63270 Sun Nov  3 21:23:46 2013
+5	Total Output	0	64290 Sun Nov  3 21:23:47 2013
+6	Total Input	0	64290 Sun Nov  3 21:23:47 2013
+3	Output	0	64290 Sun Nov  3 21:23:47 2013
+4	Input	0	64290 Sun Nov  3 21:23:47 2013
+12	fps	32	64290 Sun Nov  3 21:23:47 2013
+13	Clients	0	64290 Sun Nov  3 21:23:47 2013
+11	CPU %	1	64290 Sun Nov  3 21:23:47 2013
+5	Total Output	0	65310 Sun Nov  3 21:23:48 2013
+6	Total Input	0	65310 Sun Nov  3 21:23:48 2013
+3	Output	0	65310 Sun Nov  3 21:23:48 2013
+4	Input	0	65310 Sun Nov  3 21:23:48 2013
+12	fps	32	65310 Sun Nov  3 21:23:48 2013
+13	Clients	0	65310 Sun Nov  3 21:23:48 2013
+11	CPU %	1	65310 Sun Nov  3 21:23:48 2013
+5	Total Output	0	66330 Sun Nov  3 21:23:49 2013
+6	Total Input	0	66330 Sun Nov  3 21:23:49 2013
+3	Output	0	66330 Sun Nov  3 21:23:49 2013
+4	Input	0	66330 Sun Nov  3 21:23:49 2013
+12	fps	32	66330 Sun Nov  3 21:23:49 2013
+13	Clients	0	66330 Sun Nov  3 21:23:49 2013
+11	CPU %	1	66330 Sun Nov  3 21:23:49 2013
+5	Total Output	0	67350 Sun Nov  3 21:23:50 2013
+6	Total Input	0	67350 Sun Nov  3 21:23:50 2013
+3	Output	0	67350 Sun Nov  3 21:23:50 2013
+4	Input	0	67350 Sun Nov  3 21:23:50 2013
+12	fps	32	67350 Sun Nov  3 21:23:50 2013
+13	Clients	0	67350 Sun Nov  3 21:23:50 2013
+11	CPU %	1	67350 Sun Nov  3 21:23:50 2013
+5	Total Output	0	68370 Sun Nov  3 21:23:51 2013
+6	Total Input	0	68370 Sun Nov  3 21:23:51 2013
+3	Output	0	68370 Sun Nov  3 21:23:51 2013
+4	Input	0	68370 Sun Nov  3 21:23:51 2013
+12	fps	32	68370 Sun Nov  3 21:23:51 2013
+13	Clients	0	68370 Sun Nov  3 21:23:51 2013
+11	CPU %	0	68370 Sun Nov  3 21:23:51 2013
+5	Total Output	0	69390 Sun Nov  3 21:23:52 2013
+6	Total Input	0	69390 Sun Nov  3 21:23:52 2013
+3	Output	0	69390 Sun Nov  3 21:23:52 2013
+4	Input	0	69390 Sun Nov  3 21:23:52 2013
+12	fps	32	69390 Sun Nov  3 21:23:52 2013
+13	Clients	0	69390 Sun Nov  3 21:23:52 2013
+11	CPU %	2	69390 Sun Nov  3 21:23:52 2013
+5	Total Output	0	70410 Sun Nov  3 21:23:53 2013
+6	Total Input	0	70410 Sun Nov  3 21:23:53 2013
+3	Output	0	70410 Sun Nov  3 21:23:53 2013
+4	Input	0	70410 Sun Nov  3 21:23:53 2013
+12	fps	32	70410 Sun Nov  3 21:23:53 2013
+13	Clients	0	70410 Sun Nov  3 21:23:53 2013
+11	CPU %	1	70410 Sun Nov  3 21:23:53 2013
+5	Total Output	0	71430 Sun Nov  3 21:23:54 2013
+6	Total Input	0	71430 Sun Nov  3 21:23:54 2013
+3	Output	0	71430 Sun Nov  3 21:23:54 2013
+4	Input	0	71430 Sun Nov  3 21:23:54 2013
+12	fps	32	71430 Sun Nov  3 21:23:54 2013
+13	Clients	0	71430 Sun Nov  3 21:23:54 2013
+11	CPU %	0	71430 Sun Nov  3 21:23:54 2013
+5	Total Output	0	72450 Sun Nov  3 21:23:55 2013
+6	Total Input	0	72450 Sun Nov  3 21:23:55 2013
+3	Output	0	72450 Sun Nov  3 21:23:55 2013
+4	Input	0	72450 Sun Nov  3 21:23:55 2013
+12	fps	32	72450 Sun Nov  3 21:23:55 2013
+13	Clients	0	72450 Sun Nov  3 21:23:55 2013
+11	CPU %	2	72450 Sun Nov  3 21:23:55 2013
+5	Total Output	0	73470 Sun Nov  3 21:23:56 2013
+6	Total Input	0	73470 Sun Nov  3 21:23:56 2013
+3	Output	0	73470 Sun Nov  3 21:23:56 2013
+4	Input	0	73470 Sun Nov  3 21:23:56 2013
+12	fps	32	73470 Sun Nov  3 21:23:56 2013
+13	Clients	0	73470 Sun Nov  3 21:23:56 2013
+11	CPU %	0	73470 Sun Nov  3 21:23:56 2013
+5	Total Output	0	74490 Sun Nov  3 21:23:57 2013
+6	Total Input	0	74490 Sun Nov  3 21:23:57 2013
+3	Output	0	74490 Sun Nov  3 21:23:57 2013
+4	Input	0	74490 Sun Nov  3 21:23:57 2013
+12	fps	32	74490 Sun Nov  3 21:23:57 2013
+13	Clients	0	74490 Sun Nov  3 21:23:57 2013
+11	CPU %	1	74490 Sun Nov  3 21:23:57 2013
+5	Total Output	0	75510 Sun Nov  3 21:23:58 2013
+6	Total Input	0	75510 Sun Nov  3 21:23:58 2013
+3	Output	0	75510 Sun Nov  3 21:23:58 2013
+4	Input	0	75510 Sun Nov  3 21:23:58 2013
+12	fps	32	75510 Sun Nov  3 21:23:58 2013
+13	Clients	0	75510 Sun Nov  3 21:23:58 2013
+11	CPU %	1	75510 Sun Nov  3 21:23:58 2013
+5	Total Output	0	76530 Sun Nov  3 21:23:59 2013
+6	Total Input	0	76530 Sun Nov  3 21:23:59 2013
+3	Output	0	76530 Sun Nov  3 21:23:59 2013
+4	Input	0	76530 Sun Nov  3 21:23:59 2013
+12	fps	32	76530 Sun Nov  3 21:23:59 2013
+13	Clients	0	76530 Sun Nov  3 21:23:59 2013
+11	CPU %	1	76530 Sun Nov  3 21:23:59 2013
+5	Total Output	0	77550 Sun Nov  3 21:24:00 2013
+6	Total Input	0	77550 Sun Nov  3 21:24:00 2013
+3	Output	0	77550 Sun Nov  3 21:24:00 2013
+4	Input	0	77550 Sun Nov  3 21:24:00 2013
+12	fps	32	77550 Sun Nov  3 21:24:00 2013
+13	Clients	0	77550 Sun Nov  3 21:24:00 2013
+11	CPU %	1	77550 Sun Nov  3 21:24:00 2013
+5	Total Output	0	78570 Sun Nov  3 21:24:01 2013
+6	Total Input	0	78570 Sun Nov  3 21:24:01 2013
+3	Output	0	78570 Sun Nov  3 21:24:01 2013
+4	Input	0	78570 Sun Nov  3 21:24:01 2013
+12	fps	32	78570 Sun Nov  3 21:24:01 2013
+13	Clients	0	78570 Sun Nov  3 21:24:01 2013
+11	CPU %	1	78570 Sun Nov  3 21:24:01 2013
+5	Total Output	0	79590 Sun Nov  3 21:24:02 2013
+6	Total Input	0	79590 Sun Nov  3 21:24:02 2013
+3	Output	0	79590 Sun Nov  3 21:24:02 2013
+4	Input	0	79590 Sun Nov  3 21:24:02 2013
+12	fps	31	79590 Sun Nov  3 21:24:02 2013
+13	Clients	0	79590 Sun Nov  3 21:24:02 2013
+11	CPU %	1	79590 Sun Nov  3 21:24:02 2013
+5	Total Output	0	80610 Sun Nov  3 21:24:04 2013
+6	Total Input	0	80610 Sun Nov  3 21:24:04 2013
+3	Output	0	80610 Sun Nov  3 21:24:04 2013
+4	Input	0	80610 Sun Nov  3 21:24:04 2013
+12	fps	31	80610 Sun Nov  3 21:24:04 2013
+13	Clients	0	80610 Sun Nov  3 21:24:04 2013
+11	CPU %	1	80610 Sun Nov  3 21:24:04 2013
+5	Total Output	0	81630 Sun Nov  3 21:24:05 2013
+6	Total Input	0	81630 Sun Nov  3 21:24:05 2013
+3	Output	0	81630 Sun Nov  3 21:24:05 2013
+4	Input	0	81630 Sun Nov  3 21:24:05 2013
+12	fps	31	81630 Sun Nov  3 21:24:05 2013
+13	Clients	0	81630 Sun Nov  3 21:24:05 2013
+11	CPU %	1	81630 Sun Nov  3 21:24:05 2013
+5	Total Output	0	82650 Sun Nov  3 21:24:06 2013
+6	Total Input	0	82650 Sun Nov  3 21:24:06 2013
+3	Output	0	82650 Sun Nov  3 21:24:06 2013
+4	Input	0	82650 Sun Nov  3 21:24:06 2013
+12	fps	32	82650 Sun Nov  3 21:24:06 2013
+13	Clients	0	82650 Sun Nov  3 21:24:06 2013
+11	CPU %	1	82650 Sun Nov  3 21:24:06 2013
