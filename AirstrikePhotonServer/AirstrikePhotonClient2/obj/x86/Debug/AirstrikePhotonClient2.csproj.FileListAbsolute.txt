@@ -1,0 +1,7 @@
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\bin\Debug\AirstrikePhotonClient2.exe
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\bin\Debug\AirstrikePhotonClient2.pdb
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\bin\Debug\Photon3DotNet.dll
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\bin\Debug\Photon3DotNet.pdb
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\bin\Debug\Photon3DotNet.xml
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\obj\x86\Debug\AirstrikePhotonClient2.exe
+c:\users\mohamed amine\documents\visual studio 2010\Projects\AirstrikePhotonServer\AirstrikePhotonClient2\obj\x86\Debug\AirstrikePhotonClient2.pdb
