@@ -3,7 +3,7 @@ SH_LIB_PATH=../../Photon_libs
 # always regenerate
 .PHONY: airstrike airstrike-sound
 
-all: photon airstrike airstrike-sound
+all: airstrike airstrike-sound
 
 airstrike:
 	$(MAKE) -C src OPTIONS=-DUSE_SOUND airstrike

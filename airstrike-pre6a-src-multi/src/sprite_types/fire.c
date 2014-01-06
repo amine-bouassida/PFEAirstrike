@@ -17,10 +17,10 @@ static int setup()
   return 0;
 }
 
-static sprite_t *create(void* v)
+static sprite_t *create()
 {
   sprite_t *s;
-  s = calloc(1, sizeof *s);
+  s = calloc(1,sizeof *s);
   s->animation = anim;
   return s;
 }

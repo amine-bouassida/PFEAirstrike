@@ -1,0 +1,2264 @@
+1	Starting the game	0	30 Mon Jan  6 15:31:48 2014
+1	2 players; 2 teams; load 0 Bytes each 0ms	0	30 Mon Jan  6 15:31:48 2014
+2	Listening on port	1234	30 Mon Jan  6 15:31:48 2014
+5	Total Output	0	1050 Mon Jan  6 15:31:49 2014
+6	Total Input	0	1050 Mon Jan  6 15:31:49 2014
+3	Output	0	1050 Mon Jan  6 15:31:49 2014
+4	Input	0	1050 Mon Jan  6 15:31:49 2014
+12	fps	32	1050 Mon Jan  6 15:31:49 2014
+13	Clients	0	1050 Mon Jan  6 15:31:49 2014
+11	CPU %	0	1050 Mon Jan  6 15:31:49 2014
+5	Total Output	0	2070 Mon Jan  6 15:31:50 2014
+6	Total Input	0	2070 Mon Jan  6 15:31:50 2014
+3	Output	0	2070 Mon Jan  6 15:31:50 2014
+4	Input	0	2070 Mon Jan  6 15:31:50 2014
+12	fps	32	2070 Mon Jan  6 15:31:50 2014
+13	Clients	0	2070 Mon Jan  6 15:31:50 2014
+11	CPU %	3	2070 Mon Jan  6 15:31:50 2014
+5	Total Output	0	3090 Mon Jan  6 15:31:51 2014
+6	Total Input	0	3090 Mon Jan  6 15:31:51 2014
+3	Output	0	3090 Mon Jan  6 15:31:51 2014
+4	Input	0	3090 Mon Jan  6 15:31:51 2014
+12	fps	33	3090 Mon Jan  6 15:31:51 2014
+13	Clients	0	3090 Mon Jan  6 15:31:51 2014
+11	CPU %	1	3090 Mon Jan  6 15:31:51 2014
+5	Total Output	0	4110 Mon Jan  6 15:31:52 2014
+6	Total Input	0	4110 Mon Jan  6 15:31:52 2014
+3	Output	0	4110 Mon Jan  6 15:31:52 2014
+4	Input	0	4110 Mon Jan  6 15:31:52 2014
+12	fps	31	4110 Mon Jan  6 15:31:52 2014
+13	Clients	0	4110 Mon Jan  6 15:31:52 2014
+11	CPU %	1	4110 Mon Jan  6 15:31:52 2014
+5	Total Output	0	5130 Mon Jan  6 15:31:53 2014
+6	Total Input	0	5130 Mon Jan  6 15:31:53 2014
+3	Output	0	5130 Mon Jan  6 15:31:53 2014
+4	Input	0	5130 Mon Jan  6 15:31:53 2014
+12	fps	33	5130 Mon Jan  6 15:31:53 2014
+13	Clients	0	5130 Mon Jan  6 15:31:53 2014
+11	CPU %	0	5130 Mon Jan  6 15:31:53 2014
+5	Total Output	0	6150 Mon Jan  6 15:31:54 2014
+6	Total Input	0	6150 Mon Jan  6 15:31:54 2014
+3	Output	0	6150 Mon Jan  6 15:31:54 2014
+4	Input	0	6150 Mon Jan  6 15:31:54 2014
+12	fps	32	6150 Mon Jan  6 15:31:54 2014
+13	Clients	0	6150 Mon Jan  6 15:31:54 2014
+11	CPU %	1	6150 Mon Jan  6 15:31:54 2014
+5	Total Output	0	7170 Mon Jan  6 15:31:55 2014
+6	Total Input	0	7170 Mon Jan  6 15:31:55 2014
+3	Output	0	7170 Mon Jan  6 15:31:55 2014
+4	Input	0	7170 Mon Jan  6 15:31:55 2014
+12	fps	33	7170 Mon Jan  6 15:31:55 2014
+13	Clients	0	7170 Mon Jan  6 15:31:55 2014
+11	CPU %	2	7170 Mon Jan  6 15:31:55 2014
+5	Total Output	0	8190 Mon Jan  6 15:31:56 2014
+6	Total Input	0	8190 Mon Jan  6 15:31:56 2014
+3	Output	0	8190 Mon Jan  6 15:31:56 2014
+4	Input	0	8190 Mon Jan  6 15:31:56 2014
+12	fps	33	8190 Mon Jan  6 15:31:56 2014
+13	Clients	0	8190 Mon Jan  6 15:31:56 2014
+11	CPU %	1	8190 Mon Jan  6 15:31:56 2014
+5	Total Output	0	9210 Mon Jan  6 15:31:57 2014
+6	Total Input	0	9210 Mon Jan  6 15:31:57 2014
+3	Output	0	9210 Mon Jan  6 15:31:57 2014
+4	Input	0	9210 Mon Jan  6 15:31:57 2014
+12	fps	32	9210 Mon Jan  6 15:31:57 2014
+13	Clients	0	9210 Mon Jan  6 15:31:57 2014
+11	CPU %	2	9210 Mon Jan  6 15:31:57 2014
+5	Total Output	0	10230 Mon Jan  6 15:31:58 2014
+6	Total Input	0	10230 Mon Jan  6 15:31:58 2014
+3	Output	0	10230 Mon Jan  6 15:31:58 2014
+4	Input	0	10230 Mon Jan  6 15:31:58 2014
+12	fps	32	10230 Mon Jan  6 15:31:58 2014
+13	Clients	0	10230 Mon Jan  6 15:31:58 2014
+11	CPU %	0	10230 Mon Jan  6 15:31:58 2014
+5	Total Output	0	11250 Mon Jan  6 15:31:59 2014
+6	Total Input	0	11250 Mon Jan  6 15:31:59 2014
+3	Output	0	11250 Mon Jan  6 15:31:59 2014
+4	Input	0	11250 Mon Jan  6 15:31:59 2014
+12	fps	32	11250 Mon Jan  6 15:31:59 2014
+13	Clients	0	11250 Mon Jan  6 15:31:59 2014
+11	CPU %	1	11250 Mon Jan  6 15:31:59 2014
+5	Total Output	0	12270 Mon Jan  6 15:32:00 2014
+6	Total Input	0	12270 Mon Jan  6 15:32:00 2014
+3	Output	0	12270 Mon Jan  6 15:32:00 2014
+4	Input	0	12270 Mon Jan  6 15:32:00 2014
+12	fps	32	12270 Mon Jan  6 15:32:00 2014
+13	Clients	0	12270 Mon Jan  6 15:32:00 2014
+11	CPU %	1	12270 Mon Jan  6 15:32:00 2014
+5	Total Output	0	13290 Mon Jan  6 15:32:01 2014
+6	Total Input	0	13290 Mon Jan  6 15:32:01 2014
+3	Output	0	13290 Mon Jan  6 15:32:01 2014
+4	Input	0	13290 Mon Jan  6 15:32:01 2014
+12	fps	32	13290 Mon Jan  6 15:32:01 2014
+13	Clients	0	13290 Mon Jan  6 15:32:01 2014
+11	CPU %	2	13290 Mon Jan  6 15:32:01 2014
+5	Total Output	0	14310 Mon Jan  6 15:32:02 2014
+6	Total Input	0	14310 Mon Jan  6 15:32:02 2014
+3	Output	0	14310 Mon Jan  6 15:32:02 2014
+4	Input	0	14310 Mon Jan  6 15:32:02 2014
+12	fps	32	14310 Mon Jan  6 15:32:02 2014
+13	Clients	0	14310 Mon Jan  6 15:32:02 2014
+11	CPU %	2	14310 Mon Jan  6 15:32:02 2014
+5	Total Output	0	15330 Mon Jan  6 15:32:03 2014
+6	Total Input	0	15330 Mon Jan  6 15:32:03 2014
+3	Output	0	15330 Mon Jan  6 15:32:03 2014
+4	Input	0	15330 Mon Jan  6 15:32:03 2014
+12	fps	32	15330 Mon Jan  6 15:32:03 2014
+13	Clients	0	15330 Mon Jan  6 15:32:03 2014
+11	CPU %	1	15330 Mon Jan  6 15:32:03 2014
+5	Total Output	0	16350 Mon Jan  6 15:32:04 2014
+6	Total Input	0	16350 Mon Jan  6 15:32:04 2014
+3	Output	0	16350 Mon Jan  6 15:32:04 2014
+4	Input	0	16350 Mon Jan  6 15:32:04 2014
+12	fps	32	16350 Mon Jan  6 15:32:04 2014
+13	Clients	0	16350 Mon Jan  6 15:32:04 2014
+11	CPU %	1	16350 Mon Jan  6 15:32:04 2014
+5	Total Output	0	17370 Mon Jan  6 15:32:05 2014
+6	Total Input	0	17370 Mon Jan  6 15:32:05 2014
+3	Output	0	17370 Mon Jan  6 15:32:05 2014
+4	Input	0	17370 Mon Jan  6 15:32:05 2014
+12	fps	33	17370 Mon Jan  6 15:32:05 2014
+13	Clients	0	17370 Mon Jan  6 15:32:05 2014
+11	CPU %	0	17370 Mon Jan  6 15:32:05 2014
+5	Total Output	0	18390 Mon Jan  6 15:32:07 2014
+6	Total Input	0	18390 Mon Jan  6 15:32:07 2014
+3	Output	0	18390 Mon Jan  6 15:32:07 2014
+4	Input	0	18390 Mon Jan  6 15:32:07 2014
+12	fps	33	18390 Mon Jan  6 15:32:07 2014
+13	Clients	0	18390 Mon Jan  6 15:32:07 2014
+11	CPU %	1	18390 Mon Jan  6 15:32:07 2014
+5	Total Output	0	19410 Mon Jan  6 15:32:08 2014
+6	Total Input	0	19410 Mon Jan  6 15:32:08 2014
+3	Output	0	19410 Mon Jan  6 15:32:08 2014
+4	Input	0	19410 Mon Jan  6 15:32:08 2014
+12	fps	32	19410 Mon Jan  6 15:32:08 2014
+13	Clients	0	19410 Mon Jan  6 15:32:08 2014
+11	CPU %	0	19410 Mon Jan  6 15:32:08 2014
+5	Total Output	0	20430 Mon Jan  6 15:32:09 2014
+6	Total Input	0	20430 Mon Jan  6 15:32:09 2014
+3	Output	0	20430 Mon Jan  6 15:32:09 2014
+4	Input	0	20430 Mon Jan  6 15:32:09 2014
+12	fps	33	20430 Mon Jan  6 15:32:09 2014
+13	Clients	0	20430 Mon Jan  6 15:32:09 2014
+11	CPU %	1	20430 Mon Jan  6 15:32:09 2014
+5	Total Output	0	21450 Mon Jan  6 15:32:10 2014
+6	Total Input	0	21450 Mon Jan  6 15:32:10 2014
+3	Output	0	21450 Mon Jan  6 15:32:10 2014
+4	Input	0	21450 Mon Jan  6 15:32:10 2014
+12	fps	33	21450 Mon Jan  6 15:32:10 2014
+13	Clients	0	21450 Mon Jan  6 15:32:10 2014
+11	CPU %	1	21450 Mon Jan  6 15:32:10 2014
+5	Total Output	0	22470 Mon Jan  6 15:32:11 2014
+6	Total Input	0	22470 Mon Jan  6 15:32:11 2014
+3	Output	0	22470 Mon Jan  6 15:32:11 2014
+4	Input	0	22470 Mon Jan  6 15:32:11 2014
+12	fps	33	22470 Mon Jan  6 15:32:11 2014
+13	Clients	0	22470 Mon Jan  6 15:32:11 2014
+11	CPU %	1	22470 Mon Jan  6 15:32:11 2014
+5	Total Output	0	23490 Mon Jan  6 15:32:12 2014
+6	Total Input	0	23490 Mon Jan  6 15:32:12 2014
+3	Output	0	23490 Mon Jan  6 15:32:12 2014
+4	Input	0	23490 Mon Jan  6 15:32:12 2014
+12	fps	33	23490 Mon Jan  6 15:32:12 2014
+13	Clients	0	23490 Mon Jan  6 15:32:12 2014
+11	CPU %	2	23490 Mon Jan  6 15:32:12 2014
+5	Total Output	0	24510 Mon Jan  6 15:32:13 2014
+6	Total Input	0	24510 Mon Jan  6 15:32:13 2014
+3	Output	0	24510 Mon Jan  6 15:32:13 2014
+4	Input	0	24510 Mon Jan  6 15:32:13 2014
+12	fps	32	24510 Mon Jan  6 15:32:13 2014
+13	Clients	0	24510 Mon Jan  6 15:32:13 2014
+11	CPU %	3	24510 Mon Jan  6 15:32:13 2014
+5	Total Output	0	25530 Mon Jan  6 15:32:14 2014
+6	Total Input	0	25530 Mon Jan  6 15:32:14 2014
+3	Output	0	25530 Mon Jan  6 15:32:14 2014
+4	Input	0	25530 Mon Jan  6 15:32:14 2014
+12	fps	32	25530 Mon Jan  6 15:32:14 2014
+13	Clients	0	25530 Mon Jan  6 15:32:14 2014
+11	CPU %	1	25530 Mon Jan  6 15:32:14 2014
+5	Total Output	0	26550 Mon Jan  6 15:32:15 2014
+6	Total Input	0	26550 Mon Jan  6 15:32:15 2014
+3	Output	0	26550 Mon Jan  6 15:32:15 2014
+4	Input	0	26550 Mon Jan  6 15:32:15 2014
+12	fps	32	26550 Mon Jan  6 15:32:15 2014
+13	Clients	0	26550 Mon Jan  6 15:32:15 2014
+11	CPU %	1	26550 Mon Jan  6 15:32:15 2014
+5	Total Output	0	27570 Mon Jan  6 15:32:16 2014
+6	Total Input	0	27570 Mon Jan  6 15:32:16 2014
+3	Output	0	27570 Mon Jan  6 15:32:16 2014
+4	Input	0	27570 Mon Jan  6 15:32:16 2014
+12	fps	32	27570 Mon Jan  6 15:32:16 2014
+13	Clients	0	27570 Mon Jan  6 15:32:16 2014
+11	CPU %	1	27570 Mon Jan  6 15:32:16 2014
+5	Total Output	0	28590 Mon Jan  6 15:32:17 2014
+6	Total Input	0	28590 Mon Jan  6 15:32:17 2014
+3	Output	0	28590 Mon Jan  6 15:32:17 2014
+4	Input	0	28590 Mon Jan  6 15:32:17 2014
+12	fps	32	28590 Mon Jan  6 15:32:17 2014
+13	Clients	0	28590 Mon Jan  6 15:32:17 2014
+11	CPU %	2	28590 Mon Jan  6 15:32:17 2014
+5	Total Output	0	29610 Mon Jan  6 15:32:18 2014
+6	Total Input	0	29610 Mon Jan  6 15:32:18 2014
+3	Output	0	29610 Mon Jan  6 15:32:18 2014
+4	Input	0	29610 Mon Jan  6 15:32:18 2014
+12	fps	32	29610 Mon Jan  6 15:32:18 2014
+13	Clients	0	29610 Mon Jan  6 15:32:18 2014
+11	CPU %	2	29610 Mon Jan  6 15:32:18 2014
+5	Total Output	0	30630 Mon Jan  6 15:32:19 2014
+6	Total Input	0	30630 Mon Jan  6 15:32:19 2014
+3	Output	0	30630 Mon Jan  6 15:32:19 2014
+4	Input	0	30630 Mon Jan  6 15:32:19 2014
+12	fps	32	30630 Mon Jan  6 15:32:19 2014
+13	Clients	0	30630 Mon Jan  6 15:32:19 2014
+11	CPU %	0	30630 Mon Jan  6 15:32:19 2014
+5	Total Output	0	31650 Mon Jan  6 15:32:20 2014
+6	Total Input	0	31650 Mon Jan  6 15:32:20 2014
+3	Output	0	31650 Mon Jan  6 15:32:20 2014
+4	Input	0	31650 Mon Jan  6 15:32:20 2014
+12	fps	32	31650 Mon Jan  6 15:32:20 2014
+13	Clients	0	31650 Mon Jan  6 15:32:20 2014
+11	CPU %	1	31650 Mon Jan  6 15:32:20 2014
+5	Total Output	0	32670 Mon Jan  6 15:32:21 2014
+6	Total Input	0	32670 Mon Jan  6 15:32:21 2014
+3	Output	0	32670 Mon Jan  6 15:32:21 2014
+4	Input	0	32670 Mon Jan  6 15:32:21 2014
+12	fps	33	32670 Mon Jan  6 15:32:21 2014
+13	Clients	0	32670 Mon Jan  6 15:32:21 2014
+11	CPU %	0	32670 Mon Jan  6 15:32:21 2014
+5	Total Output	0	33690 Mon Jan  6 15:32:22 2014
+6	Total Input	0	33690 Mon Jan  6 15:32:22 2014
+3	Output	0	33690 Mon Jan  6 15:32:22 2014
+4	Input	0	33690 Mon Jan  6 15:32:22 2014
+12	fps	33	33690 Mon Jan  6 15:32:22 2014
+13	Clients	0	33690 Mon Jan  6 15:32:22 2014
+11	CPU %	1	33690 Mon Jan  6 15:32:22 2014
+5	Total Output	0	34710 Mon Jan  6 15:32:23 2014
+6	Total Input	0	34710 Mon Jan  6 15:32:23 2014
+3	Output	0	34710 Mon Jan  6 15:32:23 2014
+4	Input	0	34710 Mon Jan  6 15:32:23 2014
+12	fps	33	34710 Mon Jan  6 15:32:23 2014
+13	Clients	0	34710 Mon Jan  6 15:32:23 2014
+11	CPU %	2	34710 Mon Jan  6 15:32:23 2014
+5	Total Output	0	35730 Mon Jan  6 15:32:24 2014
+6	Total Input	0	35730 Mon Jan  6 15:32:24 2014
+3	Output	0	35730 Mon Jan  6 15:32:24 2014
+4	Input	0	35730 Mon Jan  6 15:32:24 2014
+12	fps	33	35730 Mon Jan  6 15:32:24 2014
+13	Clients	0	35730 Mon Jan  6 15:32:24 2014
+11	CPU %	0	35730 Mon Jan  6 15:32:24 2014
+5	Total Output	0	36750 Mon Jan  6 15:32:25 2014
+6	Total Input	0	36750 Mon Jan  6 15:32:25 2014
+3	Output	0	36750 Mon Jan  6 15:32:25 2014
+4	Input	0	36750 Mon Jan  6 15:32:25 2014
+12	fps	32	36750 Mon Jan  6 15:32:25 2014
+13	Clients	0	36750 Mon Jan  6 15:32:25 2014
+11	CPU %	1	36750 Mon Jan  6 15:32:25 2014
+5	Total Output	0	37770 Mon Jan  6 15:32:26 2014
+6	Total Input	0	37770 Mon Jan  6 15:32:26 2014
+3	Output	0	37770 Mon Jan  6 15:32:26 2014
+4	Input	0	37770 Mon Jan  6 15:32:26 2014
+12	fps	33	37770 Mon Jan  6 15:32:26 2014
+13	Clients	0	37770 Mon Jan  6 15:32:26 2014
+11	CPU %	2	37770 Mon Jan  6 15:32:26 2014
+5	Total Output	0	38790 Mon Jan  6 15:32:27 2014
+6	Total Input	0	38790 Mon Jan  6 15:32:27 2014
+3	Output	0	38790 Mon Jan  6 15:32:27 2014
+4	Input	0	38790 Mon Jan  6 15:32:27 2014
+12	fps	33	38790 Mon Jan  6 15:32:27 2014
+13	Clients	0	38790 Mon Jan  6 15:32:27 2014
+11	CPU %	1	38790 Mon Jan  6 15:32:27 2014
+5	Total Output	0	39810 Mon Jan  6 15:32:28 2014
+6	Total Input	0	39810 Mon Jan  6 15:32:28 2014
+3	Output	0	39810 Mon Jan  6 15:32:28 2014
+4	Input	0	39810 Mon Jan  6 15:32:28 2014
+12	fps	33	39810 Mon Jan  6 15:32:28 2014
+13	Clients	0	39810 Mon Jan  6 15:32:28 2014
+11	CPU %	0	39810 Mon Jan  6 15:32:28 2014
+5	Total Output	0	40830 Mon Jan  6 15:32:29 2014
+6	Total Input	0	40830 Mon Jan  6 15:32:29 2014
+3	Output	0	40830 Mon Jan  6 15:32:29 2014
+4	Input	0	40830 Mon Jan  6 15:32:29 2014
+12	fps	32	40830 Mon Jan  6 15:32:29 2014
+13	Clients	0	40830 Mon Jan  6 15:32:29 2014
+11	CPU %	2	40830 Mon Jan  6 15:32:29 2014
+5	Total Output	0	41850 Mon Jan  6 15:32:30 2014
+6	Total Input	0	41850 Mon Jan  6 15:32:30 2014
+3	Output	0	41850 Mon Jan  6 15:32:30 2014
+4	Input	0	41850 Mon Jan  6 15:32:30 2014
+12	fps	32	41850 Mon Jan  6 15:32:30 2014
+13	Clients	0	41850 Mon Jan  6 15:32:30 2014
+11	CPU %	0	41850 Mon Jan  6 15:32:30 2014
+5	Total Output	0	42870 Mon Jan  6 15:32:31 2014
+6	Total Input	0	42870 Mon Jan  6 15:32:31 2014
+3	Output	0	42870 Mon Jan  6 15:32:31 2014
+4	Input	0	42870 Mon Jan  6 15:32:31 2014
+12	fps	32	42870 Mon Jan  6 15:32:31 2014
+13	Clients	0	42870 Mon Jan  6 15:32:31 2014
+11	CPU %	1	42870 Mon Jan  6 15:32:31 2014
+5	Total Output	0	43890 Mon Jan  6 15:32:32 2014
+6	Total Input	0	43890 Mon Jan  6 15:32:32 2014
+3	Output	0	43890 Mon Jan  6 15:32:32 2014
+4	Input	0	43890 Mon Jan  6 15:32:32 2014
+12	fps	32	43890 Mon Jan  6 15:32:32 2014
+13	Clients	0	43890 Mon Jan  6 15:32:32 2014
+11	CPU %	2	43890 Mon Jan  6 15:32:32 2014
+5	Total Output	0	44910 Mon Jan  6 15:32:34 2014
+6	Total Input	0	44910 Mon Jan  6 15:32:34 2014
+3	Output	0	44910 Mon Jan  6 15:32:34 2014
+4	Input	0	44910 Mon Jan  6 15:32:34 2014
+12	fps	32	44910 Mon Jan  6 15:32:34 2014
+13	Clients	0	44910 Mon Jan  6 15:32:34 2014
+11	CPU %	3	44910 Mon Jan  6 15:32:34 2014
+5	Total Output	0	45930 Mon Jan  6 15:32:35 2014
+6	Total Input	0	45930 Mon Jan  6 15:32:35 2014
+3	Output	0	45930 Mon Jan  6 15:32:35 2014
+4	Input	0	45930 Mon Jan  6 15:32:35 2014
+12	fps	32	45930 Mon Jan  6 15:32:35 2014
+13	Clients	0	45930 Mon Jan  6 15:32:35 2014
+11	CPU %	0	45930 Mon Jan  6 15:32:35 2014
+5	Total Output	0	46950 Mon Jan  6 15:32:36 2014
+6	Total Input	0	46950 Mon Jan  6 15:32:36 2014
+3	Output	0	46950 Mon Jan  6 15:32:36 2014
+4	Input	0	46950 Mon Jan  6 15:32:36 2014
+12	fps	32	46950 Mon Jan  6 15:32:36 2014
+13	Clients	0	46950 Mon Jan  6 15:32:36 2014
+11	CPU %	2	46950 Mon Jan  6 15:32:36 2014
+5	Total Output	0	47970 Mon Jan  6 15:32:37 2014
+6	Total Input	0	47970 Mon Jan  6 15:32:37 2014
+3	Output	0	47970 Mon Jan  6 15:32:37 2014
+4	Input	0	47970 Mon Jan  6 15:32:37 2014
+12	fps	32	47970 Mon Jan  6 15:32:37 2014
+13	Clients	0	47970 Mon Jan  6 15:32:37 2014
+11	CPU %	1	47970 Mon Jan  6 15:32:37 2014
+5	Total Output	0	48990 Mon Jan  6 15:32:38 2014
+6	Total Input	0	48990 Mon Jan  6 15:32:38 2014
+3	Output	0	48990 Mon Jan  6 15:32:38 2014
+4	Input	0	48990 Mon Jan  6 15:32:38 2014
+12	fps	33	48990 Mon Jan  6 15:32:38 2014
+13	Clients	0	48990 Mon Jan  6 15:32:38 2014
+11	CPU %	5	48990 Mon Jan  6 15:32:38 2014
+5	Total Output	0	50010 Mon Jan  6 15:32:39 2014
+6	Total Input	0	50010 Mon Jan  6 15:32:39 2014
+3	Output	0	50010 Mon Jan  6 15:32:39 2014
+4	Input	0	50010 Mon Jan  6 15:32:39 2014
+12	fps	33	50010 Mon Jan  6 15:32:39 2014
+13	Clients	0	50010 Mon Jan  6 15:32:39 2014
+11	CPU %	1	50010 Mon Jan  6 15:32:39 2014
+5	Total Output	0	51030 Mon Jan  6 15:32:40 2014
+6	Total Input	0	51030 Mon Jan  6 15:32:40 2014
+3	Output	0	51030 Mon Jan  6 15:32:40 2014
+4	Input	0	51030 Mon Jan  6 15:32:40 2014
+12	fps	33	51030 Mon Jan  6 15:32:40 2014
+13	Clients	0	51030 Mon Jan  6 15:32:40 2014
+11	CPU %	1	51030 Mon Jan  6 15:32:40 2014
+5	Total Output	0	52050 Mon Jan  6 15:32:41 2014
+6	Total Input	0	52050 Mon Jan  6 15:32:41 2014
+3	Output	0	52050 Mon Jan  6 15:32:41 2014
+4	Input	0	52050 Mon Jan  6 15:32:41 2014
+12	fps	33	52050 Mon Jan  6 15:32:41 2014
+13	Clients	0	52050 Mon Jan  6 15:32:41 2014
+11	CPU %	2	52050 Mon Jan  6 15:32:41 2014
+5	Total Output	0	53070 Mon Jan  6 15:32:42 2014
+6	Total Input	0	53070 Mon Jan  6 15:32:42 2014
+3	Output	0	53070 Mon Jan  6 15:32:42 2014
+4	Input	0	53070 Mon Jan  6 15:32:42 2014
+12	fps	33	53070 Mon Jan  6 15:32:42 2014
+13	Clients	0	53070 Mon Jan  6 15:32:42 2014
+11	CPU %	2	53070 Mon Jan  6 15:32:42 2014
+5	Total Output	0	54090 Mon Jan  6 15:32:43 2014
+6	Total Input	0	54090 Mon Jan  6 15:32:43 2014
+3	Output	0	54090 Mon Jan  6 15:32:43 2014
+4	Input	0	54090 Mon Jan  6 15:32:43 2014
+12	fps	32	54090 Mon Jan  6 15:32:43 2014
+13	Clients	0	54090 Mon Jan  6 15:32:43 2014
+11	CPU %	0	54090 Mon Jan  6 15:32:43 2014
+5	Total Output	0	55110 Mon Jan  6 15:32:44 2014
+6	Total Input	0	55110 Mon Jan  6 15:32:44 2014
+3	Output	0	55110 Mon Jan  6 15:32:44 2014
+4	Input	0	55110 Mon Jan  6 15:32:44 2014
+12	fps	33	55110 Mon Jan  6 15:32:44 2014
+13	Clients	0	55110 Mon Jan  6 15:32:44 2014
+11	CPU %	3	55110 Mon Jan  6 15:32:44 2014
+5	Total Output	0	56130 Mon Jan  6 15:32:45 2014
+6	Total Input	0	56130 Mon Jan  6 15:32:45 2014
+3	Output	0	56130 Mon Jan  6 15:32:45 2014
+4	Input	0	56130 Mon Jan  6 15:32:45 2014
+12	fps	32	56130 Mon Jan  6 15:32:45 2014
+13	Clients	0	56130 Mon Jan  6 15:32:45 2014
+11	CPU %	0	56130 Mon Jan  6 15:32:45 2014
+5	Total Output	0	57150 Mon Jan  6 15:32:46 2014
+6	Total Input	0	57150 Mon Jan  6 15:32:46 2014
+3	Output	0	57150 Mon Jan  6 15:32:46 2014
+4	Input	0	57150 Mon Jan  6 15:32:46 2014
+12	fps	32	57150 Mon Jan  6 15:32:46 2014
+13	Clients	0	57150 Mon Jan  6 15:32:46 2014
+11	CPU %	2	57150 Mon Jan  6 15:32:46 2014
+5	Total Output	0	58170 Mon Jan  6 15:32:47 2014
+6	Total Input	0	58170 Mon Jan  6 15:32:47 2014
+3	Output	0	58170 Mon Jan  6 15:32:47 2014
+4	Input	0	58170 Mon Jan  6 15:32:47 2014
+12	fps	32	58170 Mon Jan  6 15:32:47 2014
+13	Clients	0	58170 Mon Jan  6 15:32:47 2014
+11	CPU %	1	58170 Mon Jan  6 15:32:47 2014
+5	Total Output	0	59190 Mon Jan  6 15:32:48 2014
+6	Total Input	0	59190 Mon Jan  6 15:32:48 2014
+3	Output	0	59190 Mon Jan  6 15:32:48 2014
+4	Input	0	59190 Mon Jan  6 15:32:48 2014
+12	fps	32	59190 Mon Jan  6 15:32:48 2014
+13	Clients	0	59190 Mon Jan  6 15:32:48 2014
+11	CPU %	2	59190 Mon Jan  6 15:32:48 2014
+5	Total Output	0	60210 Mon Jan  6 15:32:49 2014
+6	Total Input	0	60210 Mon Jan  6 15:32:49 2014
+3	Output	0	60210 Mon Jan  6 15:32:49 2014
+4	Input	0	60210 Mon Jan  6 15:32:49 2014
+12	fps	32	60210 Mon Jan  6 15:32:49 2014
+13	Clients	0	60210 Mon Jan  6 15:32:49 2014
+11	CPU %	2	60210 Mon Jan  6 15:32:49 2014
+5	Total Output	0	61230 Mon Jan  6 15:32:50 2014
+6	Total Input	0	61230 Mon Jan  6 15:32:50 2014
+3	Output	0	61230 Mon Jan  6 15:32:50 2014
+4	Input	0	61230 Mon Jan  6 15:32:50 2014
+12	fps	32	61230 Mon Jan  6 15:32:50 2014
+13	Clients	0	61230 Mon Jan  6 15:32:50 2014
+11	CPU %	1	61230 Mon Jan  6 15:32:50 2014
+5	Total Output	0	62250 Mon Jan  6 15:32:51 2014
+6	Total Input	0	62250 Mon Jan  6 15:32:51 2014
+3	Output	0	62250 Mon Jan  6 15:32:51 2014
+4	Input	0	62250 Mon Jan  6 15:32:51 2014
+12	fps	33	62250 Mon Jan  6 15:32:51 2014
+13	Clients	0	62250 Mon Jan  6 15:32:51 2014
+11	CPU %	0	62250 Mon Jan  6 15:32:51 2014
+5	Total Output	0	63270 Mon Jan  6 15:32:52 2014
+6	Total Input	0	63270 Mon Jan  6 15:32:52 2014
+3	Output	0	63270 Mon Jan  6 15:32:52 2014
+4	Input	0	63270 Mon Jan  6 15:32:52 2014
+12	fps	33	63270 Mon Jan  6 15:32:52 2014
+13	Clients	0	63270 Mon Jan  6 15:32:52 2014
+11	CPU %	1	63270 Mon Jan  6 15:32:52 2014
+5	Total Output	0	64290 Mon Jan  6 15:32:53 2014
+6	Total Input	0	64290 Mon Jan  6 15:32:53 2014
+3	Output	0	64290 Mon Jan  6 15:32:53 2014
+4	Input	0	64290 Mon Jan  6 15:32:53 2014
+12	fps	33	64290 Mon Jan  6 15:32:53 2014
+13	Clients	0	64290 Mon Jan  6 15:32:53 2014
+11	CPU %	0	64290 Mon Jan  6 15:32:53 2014
+5	Total Output	0	65310 Mon Jan  6 15:32:54 2014
+6	Total Input	0	65310 Mon Jan  6 15:32:54 2014
+3	Output	0	65310 Mon Jan  6 15:32:54 2014
+4	Input	0	65310 Mon Jan  6 15:32:54 2014
+12	fps	33	65310 Mon Jan  6 15:32:54 2014
+13	Clients	0	65310 Mon Jan  6 15:32:54 2014
+11	CPU %	2	65310 Mon Jan  6 15:32:54 2014
+5	Total Output	0	66330 Mon Jan  6 15:32:55 2014
+6	Total Input	0	66330 Mon Jan  6 15:32:55 2014
+3	Output	0	66330 Mon Jan  6 15:32:55 2014
+4	Input	0	66330 Mon Jan  6 15:32:55 2014
+12	fps	33	66330 Mon Jan  6 15:32:55 2014
+13	Clients	0	66330 Mon Jan  6 15:32:55 2014
+11	CPU %	1	66330 Mon Jan  6 15:32:55 2014
+5	Total Output	0	67350 Mon Jan  6 15:32:56 2014
+6	Total Input	0	67350 Mon Jan  6 15:32:56 2014
+3	Output	0	67350 Mon Jan  6 15:32:56 2014
+4	Input	0	67350 Mon Jan  6 15:32:56 2014
+12	fps	33	67350 Mon Jan  6 15:32:56 2014
+13	Clients	0	67350 Mon Jan  6 15:32:56 2014
+11	CPU %	1	67350 Mon Jan  6 15:32:56 2014
+5	Total Output	0	68370 Mon Jan  6 15:32:57 2014
+6	Total Input	0	68370 Mon Jan  6 15:32:57 2014
+3	Output	0	68370 Mon Jan  6 15:32:57 2014
+4	Input	0	68370 Mon Jan  6 15:32:57 2014
+12	fps	33	68370 Mon Jan  6 15:32:57 2014
+13	Clients	0	68370 Mon Jan  6 15:32:57 2014
+11	CPU %	1	68370 Mon Jan  6 15:32:57 2014
+5	Total Output	0	69390 Mon Jan  6 15:32:58 2014
+6	Total Input	0	69390 Mon Jan  6 15:32:58 2014
+3	Output	0	69390 Mon Jan  6 15:32:58 2014
+4	Input	0	69390 Mon Jan  6 15:32:58 2014
+12	fps	32	69390 Mon Jan  6 15:32:58 2014
+13	Clients	0	69390 Mon Jan  6 15:32:58 2014
+11	CPU %	2	69390 Mon Jan  6 15:32:58 2014
+5	Total Output	0	70410 Mon Jan  6 15:32:59 2014
+6	Total Input	0	70410 Mon Jan  6 15:32:59 2014
+3	Output	0	70410 Mon Jan  6 15:32:59 2014
+4	Input	0	70410 Mon Jan  6 15:32:59 2014
+12	fps	32	70410 Mon Jan  6 15:32:59 2014
+13	Clients	0	70410 Mon Jan  6 15:32:59 2014
+11	CPU %	0	70410 Mon Jan  6 15:32:59 2014
+5	Total Output	0	71430 Mon Jan  6 15:33:00 2014
+6	Total Input	0	71430 Mon Jan  6 15:33:00 2014
+3	Output	0	71430 Mon Jan  6 15:33:00 2014
+4	Input	0	71430 Mon Jan  6 15:33:00 2014
+12	fps	32	71430 Mon Jan  6 15:33:00 2014
+13	Clients	0	71430 Mon Jan  6 15:33:00 2014
+11	CPU %	3	71430 Mon Jan  6 15:33:00 2014
+5	Total Output	0	72450 Mon Jan  6 15:33:01 2014
+6	Total Input	0	72450 Mon Jan  6 15:33:01 2014
+3	Output	0	72450 Mon Jan  6 15:33:01 2014
+4	Input	0	72450 Mon Jan  6 15:33:01 2014
+12	fps	32	72450 Mon Jan  6 15:33:01 2014
+13	Clients	0	72450 Mon Jan  6 15:33:01 2014
+11	CPU %	2	72450 Mon Jan  6 15:33:01 2014
+5	Total Output	0	73470 Mon Jan  6 15:33:02 2014
+6	Total Input	0	73470 Mon Jan  6 15:33:02 2014
+3	Output	0	73470 Mon Jan  6 15:33:02 2014
+4	Input	0	73470 Mon Jan  6 15:33:02 2014
+12	fps	32	73470 Mon Jan  6 15:33:02 2014
+13	Clients	0	73470 Mon Jan  6 15:33:02 2014
+11	CPU %	1	73470 Mon Jan  6 15:33:02 2014
+5	Total Output	0	74490 Mon Jan  6 15:33:04 2014
+6	Total Input	0	74490 Mon Jan  6 15:33:04 2014
+3	Output	0	74490 Mon Jan  6 15:33:04 2014
+4	Input	0	74490 Mon Jan  6 15:33:04 2014
+12	fps	32	74490 Mon Jan  6 15:33:04 2014
+13	Clients	0	74490 Mon Jan  6 15:33:04 2014
+11	CPU %	2	74490 Mon Jan  6 15:33:04 2014
+5	Total Output	0	75510 Mon Jan  6 15:33:05 2014
+6	Total Input	0	75510 Mon Jan  6 15:33:05 2014
+3	Output	0	75510 Mon Jan  6 15:33:05 2014
+4	Input	0	75510 Mon Jan  6 15:33:05 2014
+12	fps	32	75510 Mon Jan  6 15:33:05 2014
+13	Clients	0	75510 Mon Jan  6 15:33:05 2014
+11	CPU %	2	75510 Mon Jan  6 15:33:05 2014
+5	Total Output	0	76530 Mon Jan  6 15:33:06 2014
+6	Total Input	0	76530 Mon Jan  6 15:33:06 2014
+3	Output	0	76530 Mon Jan  6 15:33:06 2014
+4	Input	0	76530 Mon Jan  6 15:33:06 2014
+12	fps	32	76530 Mon Jan  6 15:33:06 2014
+13	Clients	0	76530 Mon Jan  6 15:33:06 2014
+11	CPU %	1	76530 Mon Jan  6 15:33:06 2014
+5	Total Output	0	77550 Mon Jan  6 15:33:07 2014
+6	Total Input	0	77550 Mon Jan  6 15:33:07 2014
+3	Output	0	77550 Mon Jan  6 15:33:07 2014
+4	Input	0	77550 Mon Jan  6 15:33:07 2014
+12	fps	33	77550 Mon Jan  6 15:33:07 2014
+13	Clients	0	77550 Mon Jan  6 15:33:07 2014
+11	CPU %	0	77550 Mon Jan  6 15:33:07 2014
+5	Total Output	0	78570 Mon Jan  6 15:33:08 2014
+6	Total Input	0	78570 Mon Jan  6 15:33:08 2014
+3	Output	0	78570 Mon Jan  6 15:33:08 2014
+4	Input	0	78570 Mon Jan  6 15:33:08 2014
+12	fps	33	78570 Mon Jan  6 15:33:08 2014
+13	Clients	0	78570 Mon Jan  6 15:33:08 2014
+11	CPU %	1	78570 Mon Jan  6 15:33:08 2014
+5	Total Output	0	79590 Mon Jan  6 15:33:09 2014
+6	Total Input	0	79590 Mon Jan  6 15:33:09 2014
+3	Output	0	79590 Mon Jan  6 15:33:09 2014
+4	Input	0	79590 Mon Jan  6 15:33:09 2014
+12	fps	32	79590 Mon Jan  6 15:33:09 2014
+13	Clients	0	79590 Mon Jan  6 15:33:09 2014
+11	CPU %	1	79590 Mon Jan  6 15:33:09 2014
+5	Total Output	0	80610 Mon Jan  6 15:33:10 2014
+6	Total Input	0	80610 Mon Jan  6 15:33:10 2014
+3	Output	0	80610 Mon Jan  6 15:33:10 2014
+4	Input	0	80610 Mon Jan  6 15:33:10 2014
+12	fps	33	80610 Mon Jan  6 15:33:10 2014
+13	Clients	0	80610 Mon Jan  6 15:33:10 2014
+11	CPU %	1	80610 Mon Jan  6 15:33:10 2014
+5	Total Output	0	81630 Mon Jan  6 15:33:11 2014
+6	Total Input	0	81630 Mon Jan  6 15:33:11 2014
+3	Output	0	81630 Mon Jan  6 15:33:11 2014
+4	Input	0	81630 Mon Jan  6 15:33:11 2014
+12	fps	33	81630 Mon Jan  6 15:33:11 2014
+13	Clients	0	81630 Mon Jan  6 15:33:11 2014
+11	CPU %	1	81630 Mon Jan  6 15:33:11 2014
+5	Total Output	0	82650 Mon Jan  6 15:33:12 2014
+6	Total Input	0	82650 Mon Jan  6 15:33:12 2014
+3	Output	0	82650 Mon Jan  6 15:33:12 2014
+4	Input	0	82650 Mon Jan  6 15:33:12 2014
+12	fps	33	82650 Mon Jan  6 15:33:12 2014
+13	Clients	0	82650 Mon Jan  6 15:33:12 2014
+11	CPU %	1	82650 Mon Jan  6 15:33:12 2014
+5	Total Output	0	83670 Mon Jan  6 15:33:13 2014
+6	Total Input	0	83670 Mon Jan  6 15:33:13 2014
+3	Output	0	83670 Mon Jan  6 15:33:13 2014
+4	Input	0	83670 Mon Jan  6 15:33:13 2014
+12	fps	33	83670 Mon Jan  6 15:33:13 2014
+13	Clients	0	83670 Mon Jan  6 15:33:13 2014
+11	CPU %	1	83670 Mon Jan  6 15:33:13 2014
+5	Total Output	0	84690 Mon Jan  6 15:33:14 2014
+6	Total Input	0	84690 Mon Jan  6 15:33:14 2014
+3	Output	0	84690 Mon Jan  6 15:33:14 2014
+4	Input	0	84690 Mon Jan  6 15:33:14 2014
+12	fps	32	84690 Mon Jan  6 15:33:14 2014
+13	Clients	0	84690 Mon Jan  6 15:33:14 2014
+11	CPU %	1	84690 Mon Jan  6 15:33:14 2014
+5	Total Output	0	85710 Mon Jan  6 15:33:15 2014
+6	Total Input	0	85710 Mon Jan  6 15:33:15 2014
+3	Output	0	85710 Mon Jan  6 15:33:15 2014
+4	Input	0	85710 Mon Jan  6 15:33:15 2014
+12	fps	33	85710 Mon Jan  6 15:33:15 2014
+13	Clients	0	85710 Mon Jan  6 15:33:15 2014
+11	CPU %	2	85710 Mon Jan  6 15:33:15 2014
+5	Total Output	0	86730 Mon Jan  6 15:33:16 2014
+6	Total Input	0	86730 Mon Jan  6 15:33:16 2014
+3	Output	0	86730 Mon Jan  6 15:33:16 2014
+4	Input	0	86730 Mon Jan  6 15:33:16 2014
+12	fps	32	86730 Mon Jan  6 15:33:16 2014
+13	Clients	0	86730 Mon Jan  6 15:33:16 2014
+11	CPU %	2	86730 Mon Jan  6 15:33:16 2014
+5	Total Output	0	87750 Mon Jan  6 15:33:17 2014
+6	Total Input	0	87750 Mon Jan  6 15:33:17 2014
+3	Output	0	87750 Mon Jan  6 15:33:17 2014
+4	Input	0	87750 Mon Jan  6 15:33:17 2014
+12	fps	31	87750 Mon Jan  6 15:33:17 2014
+13	Clients	0	87750 Mon Jan  6 15:33:17 2014
+11	CPU %	2	87750 Mon Jan  6 15:33:17 2014
+5	Total Output	0	88770 Mon Jan  6 15:33:18 2014
+6	Total Input	0	88770 Mon Jan  6 15:33:18 2014
+3	Output	0	88770 Mon Jan  6 15:33:18 2014
+4	Input	0	88770 Mon Jan  6 15:33:18 2014
+12	fps	32	88770 Mon Jan  6 15:33:18 2014
+13	Clients	0	88770 Mon Jan  6 15:33:18 2014
+11	CPU %	2	88770 Mon Jan  6 15:33:18 2014
+5	Total Output	0	89790 Mon Jan  6 15:33:19 2014
+6	Total Input	0	89790 Mon Jan  6 15:33:19 2014
+3	Output	0	89790 Mon Jan  6 15:33:19 2014
+4	Input	0	89790 Mon Jan  6 15:33:19 2014
+12	fps	32	89790 Mon Jan  6 15:33:19 2014
+13	Clients	0	89790 Mon Jan  6 15:33:19 2014
+11	CPU %	2	89790 Mon Jan  6 15:33:19 2014
+5	Total Output	0	90810 Mon Jan  6 15:33:20 2014
+6	Total Input	0	90810 Mon Jan  6 15:33:20 2014
+3	Output	0	90810 Mon Jan  6 15:33:20 2014
+4	Input	0	90810 Mon Jan  6 15:33:20 2014
+12	fps	32	90810 Mon Jan  6 15:33:20 2014
+13	Clients	0	90810 Mon Jan  6 15:33:20 2014
+11	CPU %	1	90810 Mon Jan  6 15:33:20 2014
+5	Total Output	0	91830 Mon Jan  6 15:33:21 2014
+6	Total Input	0	91830 Mon Jan  6 15:33:21 2014
+3	Output	0	91830 Mon Jan  6 15:33:21 2014
+4	Input	0	91830 Mon Jan  6 15:33:21 2014
+12	fps	32	91830 Mon Jan  6 15:33:21 2014
+13	Clients	0	91830 Mon Jan  6 15:33:21 2014
+11	CPU %	1	91830 Mon Jan  6 15:33:21 2014
+5	Total Output	0	92850 Mon Jan  6 15:33:22 2014
+6	Total Input	0	92850 Mon Jan  6 15:33:22 2014
+3	Output	0	92850 Mon Jan  6 15:33:22 2014
+4	Input	0	92850 Mon Jan  6 15:33:22 2014
+12	fps	32	92850 Mon Jan  6 15:33:22 2014
+13	Clients	0	92850 Mon Jan  6 15:33:22 2014
+11	CPU %	0	92850 Mon Jan  6 15:33:22 2014
+5	Total Output	0	93870 Mon Jan  6 15:33:23 2014
+6	Total Input	0	93870 Mon Jan  6 15:33:23 2014
+3	Output	0	93870 Mon Jan  6 15:33:23 2014
+4	Input	0	93870 Mon Jan  6 15:33:23 2014
+12	fps	33	93870 Mon Jan  6 15:33:23 2014
+13	Clients	0	93870 Mon Jan  6 15:33:23 2014
+11	CPU %	1	93870 Mon Jan  6 15:33:23 2014
+5	Total Output	0	94890 Mon Jan  6 15:33:24 2014
+6	Total Input	0	94890 Mon Jan  6 15:33:24 2014
+3	Output	0	94890 Mon Jan  6 15:33:24 2014
+4	Input	0	94890 Mon Jan  6 15:33:24 2014
+12	fps	33	94890 Mon Jan  6 15:33:24 2014
+13	Clients	0	94890 Mon Jan  6 15:33:24 2014
+11	CPU %	1	94890 Mon Jan  6 15:33:24 2014
+5	Total Output	0	95910 Mon Jan  6 15:33:25 2014
+6	Total Input	0	95910 Mon Jan  6 15:33:25 2014
+3	Output	0	95910 Mon Jan  6 15:33:25 2014
+4	Input	0	95910 Mon Jan  6 15:33:25 2014
+12	fps	33	95910 Mon Jan  6 15:33:25 2014
+13	Clients	0	95910 Mon Jan  6 15:33:25 2014
+11	CPU %	2	95910 Mon Jan  6 15:33:25 2014
+5	Total Output	0	96930 Mon Jan  6 15:33:26 2014
+6	Total Input	0	96930 Mon Jan  6 15:33:26 2014
+3	Output	0	96930 Mon Jan  6 15:33:26 2014
+4	Input	0	96930 Mon Jan  6 15:33:26 2014
+12	fps	33	96930 Mon Jan  6 15:33:26 2014
+13	Clients	0	96930 Mon Jan  6 15:33:26 2014
+11	CPU %	0	96930 Mon Jan  6 15:33:26 2014
+5	Total Output	0	97950 Mon Jan  6 15:33:27 2014
+6	Total Input	0	97950 Mon Jan  6 15:33:27 2014
+3	Output	0	97950 Mon Jan  6 15:33:27 2014
+4	Input	0	97950 Mon Jan  6 15:33:27 2014
+12	fps	32	97950 Mon Jan  6 15:33:27 2014
+13	Clients	0	97950 Mon Jan  6 15:33:27 2014
+11	CPU %	2	97950 Mon Jan  6 15:33:27 2014
+5	Total Output	0	98970 Mon Jan  6 15:33:28 2014
+6	Total Input	0	98970 Mon Jan  6 15:33:28 2014
+3	Output	0	98970 Mon Jan  6 15:33:28 2014
+4	Input	0	98970 Mon Jan  6 15:33:28 2014
+12	fps	33	98970 Mon Jan  6 15:33:28 2014
+13	Clients	0	98970 Mon Jan  6 15:33:28 2014
+11	CPU %	2	98970 Mon Jan  6 15:33:28 2014
+5	Total Output	0	99990 Mon Jan  6 15:33:29 2014
+6	Total Input	0	99990 Mon Jan  6 15:33:29 2014
+3	Output	0	99990 Mon Jan  6 15:33:29 2014
+4	Input	0	99990 Mon Jan  6 15:33:29 2014
+12	fps	33	99990 Mon Jan  6 15:33:29 2014
+13	Clients	0	99990 Mon Jan  6 15:33:29 2014
+11	CPU %	2	99990 Mon Jan  6 15:33:29 2014
+5	Total Output	0	101010 Mon Jan  6 15:33:30 2014
+6	Total Input	0	101010 Mon Jan  6 15:33:30 2014
+3	Output	0	101010 Mon Jan  6 15:33:30 2014
+4	Input	0	101010 Mon Jan  6 15:33:30 2014
+12	fps	32	101010 Mon Jan  6 15:33:30 2014
+13	Clients	0	101010 Mon Jan  6 15:33:30 2014
+11	CPU %	6	101040 Mon Jan  6 15:33:30 2014
+5	Total Output	0	102060 Mon Jan  6 15:33:32 2014
+6	Total Input	0	102060 Mon Jan  6 15:33:32 2014
+3	Output	0	102060 Mon Jan  6 15:33:32 2014
+4	Input	0	102060 Mon Jan  6 15:33:32 2014
+12	fps	32	102060 Mon Jan  6 15:33:32 2014
+13	Clients	0	102060 Mon Jan  6 15:33:32 2014
+11	CPU %	2	102060 Mon Jan  6 15:33:32 2014
+5	Total Output	0	103080 Mon Jan  6 15:33:33 2014
+6	Total Input	0	103080 Mon Jan  6 15:33:33 2014
+3	Output	0	103080 Mon Jan  6 15:33:33 2014
+4	Input	0	103080 Mon Jan  6 15:33:33 2014
+12	fps	32	103080 Mon Jan  6 15:33:33 2014
+13	Clients	0	103080 Mon Jan  6 15:33:33 2014
+11	CPU %	1	103080 Mon Jan  6 15:33:33 2014
+5	Total Output	0	104100 Mon Jan  6 15:33:34 2014
+6	Total Input	0	104100 Mon Jan  6 15:33:34 2014
+3	Output	0	104100 Mon Jan  6 15:33:34 2014
+4	Input	0	104100 Mon Jan  6 15:33:34 2014
+12	fps	32	104100 Mon Jan  6 15:33:34 2014
+13	Clients	0	104100 Mon Jan  6 15:33:34 2014
+11	CPU %	1	104100 Mon Jan  6 15:33:34 2014
+5	Total Output	0	105120 Mon Jan  6 15:33:35 2014
+6	Total Input	0	105120 Mon Jan  6 15:33:35 2014
+3	Output	0	105120 Mon Jan  6 15:33:35 2014
+4	Input	0	105120 Mon Jan  6 15:33:35 2014
+12	fps	32	105120 Mon Jan  6 15:33:35 2014
+13	Clients	0	105120 Mon Jan  6 15:33:35 2014
+11	CPU %	2	105120 Mon Jan  6 15:33:35 2014
+5	Total Output	0	106140 Mon Jan  6 15:33:36 2014
+6	Total Input	0	106140 Mon Jan  6 15:33:36 2014
+3	Output	0	106140 Mon Jan  6 15:33:36 2014
+4	Input	0	106140 Mon Jan  6 15:33:36 2014
+12	fps	32	106140 Mon Jan  6 15:33:36 2014
+13	Clients	0	106140 Mon Jan  6 15:33:36 2014
+11	CPU %	1	106140 Mon Jan  6 15:33:36 2014
+5	Total Output	0	107160 Mon Jan  6 15:33:37 2014
+6	Total Input	0	107160 Mon Jan  6 15:33:37 2014
+3	Output	0	107160 Mon Jan  6 15:33:37 2014
+4	Input	0	107160 Mon Jan  6 15:33:37 2014
+12	fps	32	107160 Mon Jan  6 15:33:37 2014
+13	Clients	0	107160 Mon Jan  6 15:33:37 2014
+11	CPU %	1	107160 Mon Jan  6 15:33:37 2014
+5	Total Output	0	108180 Mon Jan  6 15:33:38 2014
+6	Total Input	0	108180 Mon Jan  6 15:33:38 2014
+3	Output	0	108180 Mon Jan  6 15:33:38 2014
+4	Input	0	108180 Mon Jan  6 15:33:38 2014
+12	fps	33	108180 Mon Jan  6 15:33:38 2014
+13	Clients	0	108180 Mon Jan  6 15:33:38 2014
+11	CPU %	1	108180 Mon Jan  6 15:33:38 2014
+5	Total Output	0	109200 Mon Jan  6 15:33:39 2014
+6	Total Input	0	109200 Mon Jan  6 15:33:39 2014
+3	Output	0	109200 Mon Jan  6 15:33:39 2014
+4	Input	0	109200 Mon Jan  6 15:33:39 2014
+12	fps	33	109200 Mon Jan  6 15:33:39 2014
+13	Clients	0	109200 Mon Jan  6 15:33:39 2014
+11	CPU %	1	109200 Mon Jan  6 15:33:39 2014
+5	Total Output	0	110220 Mon Jan  6 15:33:40 2014
+6	Total Input	0	110220 Mon Jan  6 15:33:40 2014
+3	Output	0	110220 Mon Jan  6 15:33:40 2014
+4	Input	0	110220 Mon Jan  6 15:33:40 2014
+12	fps	33	110220 Mon Jan  6 15:33:40 2014
+13	Clients	0	110220 Mon Jan  6 15:33:40 2014
+11	CPU %	2	110220 Mon Jan  6 15:33:40 2014
+5	Total Output	0	111240 Mon Jan  6 15:33:41 2014
+6	Total Input	0	111240 Mon Jan  6 15:33:41 2014
+3	Output	0	111240 Mon Jan  6 15:33:41 2014
+4	Input	0	111240 Mon Jan  6 15:33:41 2014
+12	fps	33	111240 Mon Jan  6 15:33:41 2014
+13	Clients	0	111240 Mon Jan  6 15:33:41 2014
+11	CPU %	1	111240 Mon Jan  6 15:33:41 2014
+5	Total Output	0	112260 Mon Jan  6 15:33:42 2014
+6	Total Input	0	112260 Mon Jan  6 15:33:42 2014
+3	Output	0	112260 Mon Jan  6 15:33:42 2014
+4	Input	0	112260 Mon Jan  6 15:33:42 2014
+12	fps	33	112260 Mon Jan  6 15:33:42 2014
+13	Clients	0	112260 Mon Jan  6 15:33:42 2014
+11	CPU %	1	112260 Mon Jan  6 15:33:42 2014
+5	Total Output	0	113280 Mon Jan  6 15:33:43 2014
+6	Total Input	0	113280 Mon Jan  6 15:33:43 2014
+3	Output	0	113280 Mon Jan  6 15:33:43 2014
+4	Input	0	113280 Mon Jan  6 15:33:43 2014
+12	fps	33	113280 Mon Jan  6 15:33:43 2014
+13	Clients	0	113280 Mon Jan  6 15:33:43 2014
+11	CPU %	3	113280 Mon Jan  6 15:33:43 2014
+5	Total Output	0	114300 Mon Jan  6 15:33:44 2014
+6	Total Input	0	114300 Mon Jan  6 15:33:44 2014
+3	Output	0	114300 Mon Jan  6 15:33:44 2014
+4	Input	0	114300 Mon Jan  6 15:33:44 2014
+12	fps	33	114300 Mon Jan  6 15:33:44 2014
+13	Clients	0	114300 Mon Jan  6 15:33:44 2014
+11	CPU %	0	114300 Mon Jan  6 15:33:44 2014
+5	Total Output	0	115320 Mon Jan  6 15:33:45 2014
+6	Total Input	0	115320 Mon Jan  6 15:33:45 2014
+3	Output	0	115320 Mon Jan  6 15:33:45 2014
+4	Input	0	115320 Mon Jan  6 15:33:45 2014
+12	fps	32	115320 Mon Jan  6 15:33:45 2014
+13	Clients	0	115320 Mon Jan  6 15:33:45 2014
+11	CPU %	1	115320 Mon Jan  6 15:33:45 2014
+5	Total Output	0	116340 Mon Jan  6 15:33:46 2014
+6	Total Input	0	116340 Mon Jan  6 15:33:46 2014
+3	Output	0	116340 Mon Jan  6 15:33:46 2014
+4	Input	0	116340 Mon Jan  6 15:33:46 2014
+12	fps	32	116340 Mon Jan  6 15:33:46 2014
+13	Clients	0	116340 Mon Jan  6 15:33:46 2014
+11	CPU %	1	116340 Mon Jan  6 15:33:46 2014
+5	Total Output	0	117360 Mon Jan  6 15:33:47 2014
+6	Total Input	0	117360 Mon Jan  6 15:33:47 2014
+3	Output	0	117360 Mon Jan  6 15:33:47 2014
+4	Input	0	117360 Mon Jan  6 15:33:47 2014
+12	fps	32	117360 Mon Jan  6 15:33:47 2014
+13	Clients	0	117360 Mon Jan  6 15:33:47 2014
+11	CPU %	4	117360 Mon Jan  6 15:33:47 2014
+5	Total Output	0	118380 Mon Jan  6 15:33:48 2014
+6	Total Input	0	118380 Mon Jan  6 15:33:48 2014
+3	Output	0	118380 Mon Jan  6 15:33:48 2014
+4	Input	0	118380 Mon Jan  6 15:33:48 2014
+12	fps	32	118380 Mon Jan  6 15:33:48 2014
+13	Clients	0	118380 Mon Jan  6 15:33:48 2014
+11	CPU %	1	118380 Mon Jan  6 15:33:48 2014
+5	Total Output	0	119400 Mon Jan  6 15:33:49 2014
+6	Total Input	0	119400 Mon Jan  6 15:33:49 2014
+3	Output	0	119400 Mon Jan  6 15:33:49 2014
+4	Input	0	119400 Mon Jan  6 15:33:49 2014
+12	fps	32	119400 Mon Jan  6 15:33:49 2014
+13	Clients	0	119400 Mon Jan  6 15:33:49 2014
+11	CPU %	1	119400 Mon Jan  6 15:33:49 2014
+5	Total Output	0	120420 Mon Jan  6 15:33:50 2014
+6	Total Input	0	120420 Mon Jan  6 15:33:50 2014
+3	Output	0	120420 Mon Jan  6 15:33:50 2014
+4	Input	0	120420 Mon Jan  6 15:33:50 2014
+12	fps	32	120420 Mon Jan  6 15:33:50 2014
+13	Clients	0	120420 Mon Jan  6 15:33:50 2014
+11	CPU %	3	120420 Mon Jan  6 15:33:50 2014
+5	Total Output	0	121440 Mon Jan  6 15:33:51 2014
+6	Total Input	0	121440 Mon Jan  6 15:33:51 2014
+3	Output	0	121440 Mon Jan  6 15:33:51 2014
+4	Input	0	121440 Mon Jan  6 15:33:51 2014
+12	fps	33	121440 Mon Jan  6 15:33:51 2014
+13	Clients	0	121440 Mon Jan  6 15:33:51 2014
+11	CPU %	0	121440 Mon Jan  6 15:33:51 2014
+5	Total Output	0	122460 Mon Jan  6 15:33:52 2014
+6	Total Input	0	122460 Mon Jan  6 15:33:52 2014
+3	Output	0	122460 Mon Jan  6 15:33:52 2014
+4	Input	0	122460 Mon Jan  6 15:33:52 2014
+12	fps	33	122460 Mon Jan  6 15:33:52 2014
+13	Clients	0	122460 Mon Jan  6 15:33:52 2014
+11	CPU %	1	122460 Mon Jan  6 15:33:52 2014
+5	Total Output	0	123480 Mon Jan  6 15:33:53 2014
+6	Total Input	0	123480 Mon Jan  6 15:33:53 2014
+3	Output	0	123480 Mon Jan  6 15:33:53 2014
+4	Input	0	123480 Mon Jan  6 15:33:53 2014
+12	fps	33	123480 Mon Jan  6 15:33:53 2014
+13	Clients	0	123480 Mon Jan  6 15:33:53 2014
+11	CPU %	0	123480 Mon Jan  6 15:33:53 2014
+5	Total Output	0	124500 Mon Jan  6 15:33:54 2014
+6	Total Input	0	124500 Mon Jan  6 15:33:54 2014
+3	Output	0	124500 Mon Jan  6 15:33:54 2014
+4	Input	0	124500 Mon Jan  6 15:33:54 2014
+12	fps	32	124500 Mon Jan  6 15:33:54 2014
+13	Clients	0	124500 Mon Jan  6 15:33:54 2014
+11	CPU %	2	124500 Mon Jan  6 15:33:54 2014
+5	Total Output	0	125520 Mon Jan  6 15:33:55 2014
+6	Total Input	0	125520 Mon Jan  6 15:33:55 2014
+3	Output	0	125520 Mon Jan  6 15:33:55 2014
+4	Input	0	125520 Mon Jan  6 15:33:55 2014
+12	fps	33	125520 Mon Jan  6 15:33:55 2014
+13	Clients	0	125520 Mon Jan  6 15:33:55 2014
+11	CPU %	0	125520 Mon Jan  6 15:33:55 2014
+5	Total Output	0	126540 Mon Jan  6 15:33:56 2014
+6	Total Input	0	126540 Mon Jan  6 15:33:56 2014
+3	Output	0	126540 Mon Jan  6 15:33:56 2014
+4	Input	0	126540 Mon Jan  6 15:33:56 2014
+12	fps	33	126540 Mon Jan  6 15:33:56 2014
+13	Clients	0	126540 Mon Jan  6 15:33:56 2014
+11	CPU %	1	126540 Mon Jan  6 15:33:56 2014
+5	Total Output	0	127560 Mon Jan  6 15:33:57 2014
+6	Total Input	0	127560 Mon Jan  6 15:33:57 2014
+3	Output	0	127560 Mon Jan  6 15:33:57 2014
+4	Input	0	127560 Mon Jan  6 15:33:57 2014
+12	fps	33	127560 Mon Jan  6 15:33:57 2014
+13	Clients	0	127560 Mon Jan  6 15:33:57 2014
+11	CPU %	1	127560 Mon Jan  6 15:33:57 2014
+5	Total Output	0	128580 Mon Jan  6 15:33:58 2014
+6	Total Input	0	128580 Mon Jan  6 15:33:58 2014
+3	Output	0	128580 Mon Jan  6 15:33:58 2014
+4	Input	0	128580 Mon Jan  6 15:33:58 2014
+12	fps	33	128580 Mon Jan  6 15:33:58 2014
+13	Clients	0	128580 Mon Jan  6 15:33:58 2014
+11	CPU %	3	128580 Mon Jan  6 15:33:58 2014
+5	Total Output	0	129600 Mon Jan  6 15:33:59 2014
+6	Total Input	0	129600 Mon Jan  6 15:33:59 2014
+3	Output	0	129600 Mon Jan  6 15:33:59 2014
+4	Input	0	129600 Mon Jan  6 15:33:59 2014
+12	fps	33	129600 Mon Jan  6 15:33:59 2014
+13	Clients	0	129600 Mon Jan  6 15:33:59 2014
+11	CPU %	1	129600 Mon Jan  6 15:33:59 2014
+5	Total Output	0	130620 Mon Jan  6 15:34:01 2014
+6	Total Input	0	130620 Mon Jan  6 15:34:01 2014
+3	Output	0	130620 Mon Jan  6 15:34:01 2014
+4	Input	0	130620 Mon Jan  6 15:34:01 2014
+12	fps	32	130620 Mon Jan  6 15:34:01 2014
+13	Clients	0	130620 Mon Jan  6 15:34:01 2014
+11	CPU %	0	130620 Mon Jan  6 15:34:01 2014
+5	Total Output	0	131640 Mon Jan  6 15:34:02 2014
+6	Total Input	0	131640 Mon Jan  6 15:34:02 2014
+3	Output	0	131640 Mon Jan  6 15:34:02 2014
+4	Input	0	131640 Mon Jan  6 15:34:02 2014
+12	fps	32	131640 Mon Jan  6 15:34:02 2014
+13	Clients	0	131640 Mon Jan  6 15:34:02 2014
+11	CPU %	5	131640 Mon Jan  6 15:34:02 2014
+5	Total Output	0	132660 Mon Jan  6 15:34:03 2014
+6	Total Input	0	132660 Mon Jan  6 15:34:03 2014
+3	Output	0	132660 Mon Jan  6 15:34:03 2014
+4	Input	0	132660 Mon Jan  6 15:34:03 2014
+12	fps	32	132660 Mon Jan  6 15:34:03 2014
+13	Clients	0	132660 Mon Jan  6 15:34:03 2014
+11	CPU %	1	132660 Mon Jan  6 15:34:03 2014
+5	Total Output	0	133680 Mon Jan  6 15:34:04 2014
+6	Total Input	0	133680 Mon Jan  6 15:34:04 2014
+3	Output	0	133680 Mon Jan  6 15:34:04 2014
+4	Input	0	133680 Mon Jan  6 15:34:04 2014
+12	fps	32	133680 Mon Jan  6 15:34:04 2014
+13	Clients	0	133680 Mon Jan  6 15:34:04 2014
+11	CPU %	2	133680 Mon Jan  6 15:34:04 2014
+5	Total Output	0	134700 Mon Jan  6 15:34:05 2014
+6	Total Input	0	134700 Mon Jan  6 15:34:05 2014
+3	Output	0	134700 Mon Jan  6 15:34:05 2014
+4	Input	0	134700 Mon Jan  6 15:34:05 2014
+12	fps	32	134700 Mon Jan  6 15:34:05 2014
+13	Clients	0	134700 Mon Jan  6 15:34:05 2014
+11	CPU %	2	134700 Mon Jan  6 15:34:05 2014
+5	Total Output	0	135720 Mon Jan  6 15:34:06 2014
+6	Total Input	0	135720 Mon Jan  6 15:34:06 2014
+3	Output	0	135720 Mon Jan  6 15:34:06 2014
+4	Input	0	135720 Mon Jan  6 15:34:06 2014
+12	fps	32	135720 Mon Jan  6 15:34:06 2014
+13	Clients	0	135720 Mon Jan  6 15:34:06 2014
+11	CPU %	2	135720 Mon Jan  6 15:34:06 2014
+5	Total Output	0	136740 Mon Jan  6 15:34:07 2014
+6	Total Input	0	136740 Mon Jan  6 15:34:07 2014
+3	Output	0	136740 Mon Jan  6 15:34:07 2014
+4	Input	0	136740 Mon Jan  6 15:34:07 2014
+12	fps	33	136740 Mon Jan  6 15:34:07 2014
+13	Clients	0	136740 Mon Jan  6 15:34:07 2014
+11	CPU %	1	136740 Mon Jan  6 15:34:07 2014
+5	Total Output	0	137760 Mon Jan  6 15:34:08 2014
+6	Total Input	0	137760 Mon Jan  6 15:34:08 2014
+3	Output	0	137760 Mon Jan  6 15:34:08 2014
+4	Input	0	137760 Mon Jan  6 15:34:08 2014
+12	fps	33	137760 Mon Jan  6 15:34:08 2014
+13	Clients	0	137760 Mon Jan  6 15:34:08 2014
+11	CPU %	1	137760 Mon Jan  6 15:34:08 2014
+5	Total Output	0	138780 Mon Jan  6 15:34:09 2014
+6	Total Input	0	138780 Mon Jan  6 15:34:09 2014
+3	Output	0	138780 Mon Jan  6 15:34:09 2014
+4	Input	0	138780 Mon Jan  6 15:34:09 2014
+12	fps	33	138780 Mon Jan  6 15:34:09 2014
+13	Clients	0	138780 Mon Jan  6 15:34:09 2014
+11	CPU %	2	138780 Mon Jan  6 15:34:09 2014
+5	Total Output	0	139800 Mon Jan  6 15:34:10 2014
+6	Total Input	0	139800 Mon Jan  6 15:34:10 2014
+3	Output	0	139800 Mon Jan  6 15:34:10 2014
+4	Input	0	139800 Mon Jan  6 15:34:10 2014
+12	fps	33	139800 Mon Jan  6 15:34:10 2014
+13	Clients	0	139800 Mon Jan  6 15:34:10 2014
+11	CPU %	1	139800 Mon Jan  6 15:34:10 2014
+5	Total Output	0	140820 Mon Jan  6 15:34:11 2014
+6	Total Input	0	140820 Mon Jan  6 15:34:11 2014
+3	Output	0	140820 Mon Jan  6 15:34:11 2014
+4	Input	0	140820 Mon Jan  6 15:34:11 2014
+12	fps	33	140820 Mon Jan  6 15:34:11 2014
+13	Clients	0	140820 Mon Jan  6 15:34:11 2014
+11	CPU %	1	140820 Mon Jan  6 15:34:11 2014
+5	Total Output	0	141840 Mon Jan  6 15:34:12 2014
+6	Total Input	0	141840 Mon Jan  6 15:34:12 2014
+3	Output	0	141840 Mon Jan  6 15:34:12 2014
+4	Input	0	141840 Mon Jan  6 15:34:12 2014
+12	fps	33	141840 Mon Jan  6 15:34:12 2014
+13	Clients	0	141840 Mon Jan  6 15:34:12 2014
+11	CPU %	1	141840 Mon Jan  6 15:34:12 2014
+5	Total Output	0	142860 Mon Jan  6 15:34:13 2014
+6	Total Input	0	142860 Mon Jan  6 15:34:13 2014
+3	Output	0	142860 Mon Jan  6 15:34:13 2014
+4	Input	0	142860 Mon Jan  6 15:34:13 2014
+12	fps	33	142860 Mon Jan  6 15:34:13 2014
+13	Clients	0	142860 Mon Jan  6 15:34:13 2014
+11	CPU %	2	142860 Mon Jan  6 15:34:13 2014
+5	Total Output	0	143880 Mon Jan  6 15:34:14 2014
+6	Total Input	0	143880 Mon Jan  6 15:34:14 2014
+3	Output	0	143880 Mon Jan  6 15:34:14 2014
+4	Input	0	143880 Mon Jan  6 15:34:14 2014
+12	fps	33	143880 Mon Jan  6 15:34:14 2014
+13	Clients	0	143880 Mon Jan  6 15:34:14 2014
+11	CPU %	0	143880 Mon Jan  6 15:34:14 2014
+5	Total Output	0	144900 Mon Jan  6 15:34:15 2014
+6	Total Input	0	144900 Mon Jan  6 15:34:15 2014
+3	Output	0	144900 Mon Jan  6 15:34:15 2014
+4	Input	0	144900 Mon Jan  6 15:34:15 2014
+12	fps	33	144900 Mon Jan  6 15:34:15 2014
+13	Clients	0	144900 Mon Jan  6 15:34:15 2014
+11	CPU %	2	144900 Mon Jan  6 15:34:15 2014
+5	Total Output	0	145920 Mon Jan  6 15:34:16 2014
+6	Total Input	0	145920 Mon Jan  6 15:34:16 2014
+3	Output	0	145920 Mon Jan  6 15:34:16 2014
+4	Input	0	145920 Mon Jan  6 15:34:16 2014
+12	fps	32	145920 Mon Jan  6 15:34:16 2014
+13	Clients	0	145920 Mon Jan  6 15:34:16 2014
+11	CPU %	1	145920 Mon Jan  6 15:34:16 2014
+5	Total Output	0	146940 Mon Jan  6 15:34:17 2014
+6	Total Input	0	146940 Mon Jan  6 15:34:17 2014
+3	Output	0	146940 Mon Jan  6 15:34:17 2014
+4	Input	0	146940 Mon Jan  6 15:34:17 2014
+12	fps	32	146940 Mon Jan  6 15:34:17 2014
+13	Clients	0	146940 Mon Jan  6 15:34:17 2014
+11	CPU %	1	146940 Mon Jan  6 15:34:17 2014
+5	Total Output	0	147960 Mon Jan  6 15:34:18 2014
+6	Total Input	0	147960 Mon Jan  6 15:34:18 2014
+3	Output	0	147960 Mon Jan  6 15:34:18 2014
+4	Input	0	147960 Mon Jan  6 15:34:18 2014
+12	fps	32	147960 Mon Jan  6 15:34:18 2014
+13	Clients	0	147960 Mon Jan  6 15:34:18 2014
+11	CPU %	1	147960 Mon Jan  6 15:34:18 2014
+5	Total Output	0	148980 Mon Jan  6 15:34:19 2014
+6	Total Input	0	148980 Mon Jan  6 15:34:19 2014
+3	Output	0	148980 Mon Jan  6 15:34:19 2014
+4	Input	0	148980 Mon Jan  6 15:34:19 2014
+12	fps	32	148980 Mon Jan  6 15:34:19 2014
+13	Clients	0	148980 Mon Jan  6 15:34:19 2014
+11	CPU %	2	148980 Mon Jan  6 15:34:19 2014
+5	Total Output	0	150000 Mon Jan  6 15:34:20 2014
+6	Total Input	0	150000 Mon Jan  6 15:34:20 2014
+3	Output	0	150000 Mon Jan  6 15:34:20 2014
+4	Input	0	150000 Mon Jan  6 15:34:20 2014
+12	fps	32	150000 Mon Jan  6 15:34:20 2014
+13	Clients	0	150000 Mon Jan  6 15:34:20 2014
+11	CPU %	1	150000 Mon Jan  6 15:34:20 2014
+5	Total Output	0	151020 Mon Jan  6 15:34:21 2014
+6	Total Input	0	151020 Mon Jan  6 15:34:21 2014
+3	Output	0	151020 Mon Jan  6 15:34:21 2014
+4	Input	0	151020 Mon Jan  6 15:34:21 2014
+12	fps	32	151020 Mon Jan  6 15:34:21 2014
+13	Clients	0	151020 Mon Jan  6 15:34:21 2014
+11	CPU %	1	151020 Mon Jan  6 15:34:21 2014
+5	Total Output	0	152040 Mon Jan  6 15:34:22 2014
+6	Total Input	0	152040 Mon Jan  6 15:34:22 2014
+3	Output	0	152040 Mon Jan  6 15:34:22 2014
+4	Input	0	152040 Mon Jan  6 15:34:22 2014
+12	fps	33	152040 Mon Jan  6 15:34:22 2014
+13	Clients	0	152040 Mon Jan  6 15:34:22 2014
+11	CPU %	1	152040 Mon Jan  6 15:34:22 2014
+5	Total Output	0	153060 Mon Jan  6 15:34:23 2014
+6	Total Input	0	153060 Mon Jan  6 15:34:23 2014
+3	Output	0	153060 Mon Jan  6 15:34:23 2014
+4	Input	0	153060 Mon Jan  6 15:34:23 2014
+12	fps	32	153060 Mon Jan  6 15:34:23 2014
+13	Clients	0	153060 Mon Jan  6 15:34:23 2014
+11	CPU %	0	153060 Mon Jan  6 15:34:23 2014
+5	Total Output	0	154080 Mon Jan  6 15:34:24 2014
+6	Total Input	0	154080 Mon Jan  6 15:34:24 2014
+3	Output	0	154080 Mon Jan  6 15:34:24 2014
+4	Input	0	154080 Mon Jan  6 15:34:24 2014
+12	fps	33	154080 Mon Jan  6 15:34:24 2014
+13	Clients	0	154080 Mon Jan  6 15:34:24 2014
+11	CPU %	2	154080 Mon Jan  6 15:34:24 2014
+5	Total Output	0	155100 Mon Jan  6 15:34:25 2014
+6	Total Input	0	155100 Mon Jan  6 15:34:25 2014
+3	Output	0	155100 Mon Jan  6 15:34:25 2014
+4	Input	0	155100 Mon Jan  6 15:34:25 2014
+12	fps	32	155100 Mon Jan  6 15:34:25 2014
+13	Clients	0	155100 Mon Jan  6 15:34:25 2014
+11	CPU %	0	155100 Mon Jan  6 15:34:25 2014
+5	Total Output	0	156120 Mon Jan  6 15:34:26 2014
+6	Total Input	0	156120 Mon Jan  6 15:34:26 2014
+3	Output	0	156120 Mon Jan  6 15:34:26 2014
+4	Input	0	156120 Mon Jan  6 15:34:26 2014
+12	fps	33	156120 Mon Jan  6 15:34:26 2014
+13	Clients	0	156120 Mon Jan  6 15:34:26 2014
+11	CPU %	2	156120 Mon Jan  6 15:34:26 2014
+5	Total Output	0	157140 Mon Jan  6 15:34:27 2014
+6	Total Input	0	157140 Mon Jan  6 15:34:27 2014
+3	Output	0	157140 Mon Jan  6 15:34:27 2014
+4	Input	0	157140 Mon Jan  6 15:34:27 2014
+12	fps	32	157140 Mon Jan  6 15:34:27 2014
+13	Clients	0	157140 Mon Jan  6 15:34:27 2014
+11	CPU %	0	157140 Mon Jan  6 15:34:27 2014
+5	Total Output	0	158160 Mon Jan  6 15:34:29 2014
+6	Total Input	0	158160 Mon Jan  6 15:34:29 2014
+3	Output	0	158160 Mon Jan  6 15:34:29 2014
+4	Input	0	158160 Mon Jan  6 15:34:29 2014
+12	fps	33	158160 Mon Jan  6 15:34:29 2014
+13	Clients	0	158160 Mon Jan  6 15:34:29 2014
+11	CPU %	3	158160 Mon Jan  6 15:34:29 2014
+5	Total Output	0	159180 Mon Jan  6 15:34:30 2014
+6	Total Input	0	159180 Mon Jan  6 15:34:30 2014
+3	Output	0	159180 Mon Jan  6 15:34:30 2014
+4	Input	0	159180 Mon Jan  6 15:34:30 2014
+12	fps	33	159180 Mon Jan  6 15:34:30 2014
+13	Clients	0	159180 Mon Jan  6 15:34:30 2014
+11	CPU %	1	159180 Mon Jan  6 15:34:30 2014
+5	Total Output	0	160200 Mon Jan  6 15:34:31 2014
+6	Total Input	0	160200 Mon Jan  6 15:34:31 2014
+3	Output	0	160200 Mon Jan  6 15:34:31 2014
+4	Input	0	160200 Mon Jan  6 15:34:31 2014
+12	fps	32	160200 Mon Jan  6 15:34:31 2014
+13	Clients	0	160200 Mon Jan  6 15:34:31 2014
+11	CPU %	1	160200 Mon Jan  6 15:34:31 2014
+5	Total Output	0	161220 Mon Jan  6 15:34:32 2014
+6	Total Input	0	161220 Mon Jan  6 15:34:32 2014
+3	Output	0	161220 Mon Jan  6 15:34:32 2014
+4	Input	0	161220 Mon Jan  6 15:34:32 2014
+12	fps	32	161220 Mon Jan  6 15:34:32 2014
+13	Clients	0	161220 Mon Jan  6 15:34:32 2014
+11	CPU %	1	161220 Mon Jan  6 15:34:32 2014
+5	Total Output	0	162240 Mon Jan  6 15:34:33 2014
+6	Total Input	0	162240 Mon Jan  6 15:34:33 2014
+3	Output	0	162240 Mon Jan  6 15:34:33 2014
+4	Input	0	162240 Mon Jan  6 15:34:33 2014
+12	fps	32	162240 Mon Jan  6 15:34:33 2014
+13	Clients	0	162240 Mon Jan  6 15:34:33 2014
+11	CPU %	2	162240 Mon Jan  6 15:34:33 2014
+5	Total Output	0	163260 Mon Jan  6 15:34:34 2014
+6	Total Input	0	163260 Mon Jan  6 15:34:34 2014
+3	Output	0	163260 Mon Jan  6 15:34:34 2014
+4	Input	0	163260 Mon Jan  6 15:34:34 2014
+12	fps	32	163260 Mon Jan  6 15:34:34 2014
+13	Clients	0	163260 Mon Jan  6 15:34:34 2014
+11	CPU %	1	163260 Mon Jan  6 15:34:34 2014
+5	Total Output	0	164280 Mon Jan  6 15:34:35 2014
+6	Total Input	0	164280 Mon Jan  6 15:34:35 2014
+3	Output	0	164280 Mon Jan  6 15:34:35 2014
+4	Input	0	164280 Mon Jan  6 15:34:35 2014
+12	fps	32	164280 Mon Jan  6 15:34:35 2014
+13	Clients	0	164280 Mon Jan  6 15:34:35 2014
+11	CPU %	2	164280 Mon Jan  6 15:34:35 2014
+5	Total Output	0	165300 Mon Jan  6 15:34:36 2014
+6	Total Input	0	165300 Mon Jan  6 15:34:36 2014
+3	Output	0	165300 Mon Jan  6 15:34:36 2014
+4	Input	0	165300 Mon Jan  6 15:34:36 2014
+12	fps	32	165300 Mon Jan  6 15:34:36 2014
+13	Clients	0	165300 Mon Jan  6 15:34:36 2014
+11	CPU %	1	165300 Mon Jan  6 15:34:36 2014
+5	Total Output	0	166320 Mon Jan  6 15:34:37 2014
+6	Total Input	0	166320 Mon Jan  6 15:34:37 2014
+3	Output	0	166320 Mon Jan  6 15:34:37 2014
+4	Input	0	166320 Mon Jan  6 15:34:37 2014
+12	fps	32	166320 Mon Jan  6 15:34:37 2014
+13	Clients	0	166320 Mon Jan  6 15:34:37 2014
+11	CPU %	1	166320 Mon Jan  6 15:34:37 2014
+5	Total Output	0	167340 Mon Jan  6 15:34:38 2014
+6	Total Input	0	167340 Mon Jan  6 15:34:38 2014
+3	Output	0	167340 Mon Jan  6 15:34:38 2014
+4	Input	0	167340 Mon Jan  6 15:34:38 2014
+12	fps	33	167340 Mon Jan  6 15:34:38 2014
+13	Clients	0	167340 Mon Jan  6 15:34:38 2014
+11	CPU %	1	167340 Mon Jan  6 15:34:38 2014
+5	Total Output	0	168360 Mon Jan  6 15:34:39 2014
+6	Total Input	0	168360 Mon Jan  6 15:34:39 2014
+3	Output	0	168360 Mon Jan  6 15:34:39 2014
+4	Input	0	168360 Mon Jan  6 15:34:39 2014
+12	fps	33	168360 Mon Jan  6 15:34:39 2014
+13	Clients	0	168360 Mon Jan  6 15:34:39 2014
+11	CPU %	1	168360 Mon Jan  6 15:34:39 2014
+5	Total Output	0	169380 Mon Jan  6 15:34:40 2014
+6	Total Input	0	169380 Mon Jan  6 15:34:40 2014
+3	Output	0	169380 Mon Jan  6 15:34:40 2014
+4	Input	0	169380 Mon Jan  6 15:34:40 2014
+12	fps	33	169380 Mon Jan  6 15:34:40 2014
+13	Clients	0	169380 Mon Jan  6 15:34:40 2014
+11	CPU %	0	169380 Mon Jan  6 15:34:40 2014
+5	Total Output	0	170400 Mon Jan  6 15:34:41 2014
+6	Total Input	0	170400 Mon Jan  6 15:34:41 2014
+3	Output	0	170400 Mon Jan  6 15:34:41 2014
+4	Input	0	170400 Mon Jan  6 15:34:41 2014
+12	fps	32	170400 Mon Jan  6 15:34:41 2014
+13	Clients	0	170400 Mon Jan  6 15:34:41 2014
+11	CPU %	0	170400 Mon Jan  6 15:34:41 2014
+5	Total Output	0	171420 Mon Jan  6 15:34:42 2014
+6	Total Input	0	171420 Mon Jan  6 15:34:42 2014
+3	Output	0	171420 Mon Jan  6 15:34:42 2014
+4	Input	0	171420 Mon Jan  6 15:34:42 2014
+12	fps	33	171420 Mon Jan  6 15:34:42 2014
+13	Clients	0	171420 Mon Jan  6 15:34:42 2014
+11	CPU %	2	171420 Mon Jan  6 15:34:42 2014
+5	Total Output	0	172440 Mon Jan  6 15:34:43 2014
+6	Total Input	0	172440 Mon Jan  6 15:34:43 2014
+3	Output	0	172440 Mon Jan  6 15:34:43 2014
+4	Input	0	172440 Mon Jan  6 15:34:43 2014
+12	fps	32	172440 Mon Jan  6 15:34:43 2014
+13	Clients	0	172440 Mon Jan  6 15:34:43 2014
+11	CPU %	1	172440 Mon Jan  6 15:34:43 2014
+5	Total Output	0	173460 Mon Jan  6 15:34:44 2014
+6	Total Input	0	173460 Mon Jan  6 15:34:44 2014
+3	Output	0	173460 Mon Jan  6 15:34:44 2014
+4	Input	0	173460 Mon Jan  6 15:34:44 2014
+12	fps	33	173460 Mon Jan  6 15:34:44 2014
+13	Clients	0	173460 Mon Jan  6 15:34:44 2014
+11	CPU %	1	173460 Mon Jan  6 15:34:44 2014
+5	Total Output	0	174480 Mon Jan  6 15:34:45 2014
+6	Total Input	0	174480 Mon Jan  6 15:34:45 2014
+3	Output	0	174480 Mon Jan  6 15:34:45 2014
+4	Input	0	174480 Mon Jan  6 15:34:45 2014
+12	fps	33	174480 Mon Jan  6 15:34:45 2014
+13	Clients	0	174480 Mon Jan  6 15:34:45 2014
+11	CPU %	1	174480 Mon Jan  6 15:34:45 2014
+5	Total Output	0	175500 Mon Jan  6 15:34:46 2014
+6	Total Input	0	175500 Mon Jan  6 15:34:46 2014
+3	Output	0	175500 Mon Jan  6 15:34:46 2014
+4	Input	0	175500 Mon Jan  6 15:34:46 2014
+12	fps	32	175500 Mon Jan  6 15:34:46 2014
+13	Clients	0	175500 Mon Jan  6 15:34:46 2014
+11	CPU %	2	175500 Mon Jan  6 15:34:46 2014
+5	Total Output	0	176520 Mon Jan  6 15:34:47 2014
+6	Total Input	0	176520 Mon Jan  6 15:34:47 2014
+3	Output	0	176520 Mon Jan  6 15:34:47 2014
+4	Input	0	176520 Mon Jan  6 15:34:47 2014
+12	fps	32	176520 Mon Jan  6 15:34:47 2014
+13	Clients	0	176520 Mon Jan  6 15:34:47 2014
+11	CPU %	1	176520 Mon Jan  6 15:34:47 2014
+5	Total Output	0	177540 Mon Jan  6 15:34:48 2014
+6	Total Input	0	177540 Mon Jan  6 15:34:48 2014
+3	Output	0	177540 Mon Jan  6 15:34:48 2014
+4	Input	0	177540 Mon Jan  6 15:34:48 2014
+12	fps	32	177540 Mon Jan  6 15:34:48 2014
+13	Clients	0	177540 Mon Jan  6 15:34:48 2014
+11	CPU %	1	177540 Mon Jan  6 15:34:48 2014
+5	Total Output	0	178560 Mon Jan  6 15:34:49 2014
+6	Total Input	0	178560 Mon Jan  6 15:34:49 2014
+3	Output	0	178560 Mon Jan  6 15:34:49 2014
+4	Input	0	178560 Mon Jan  6 15:34:49 2014
+12	fps	32	178560 Mon Jan  6 15:34:49 2014
+13	Clients	0	178560 Mon Jan  6 15:34:49 2014
+11	CPU %	1	178560 Mon Jan  6 15:34:49 2014
+5	Total Output	0	179580 Mon Jan  6 15:34:50 2014
+6	Total Input	0	179580 Mon Jan  6 15:34:50 2014
+3	Output	0	179580 Mon Jan  6 15:34:50 2014
+4	Input	0	179580 Mon Jan  6 15:34:50 2014
+12	fps	32	179580 Mon Jan  6 15:34:50 2014
+13	Clients	0	179580 Mon Jan  6 15:34:50 2014
+11	CPU %	2	179580 Mon Jan  6 15:34:50 2014
+5	Total Output	0	180600 Mon Jan  6 15:34:51 2014
+6	Total Input	0	180600 Mon Jan  6 15:34:51 2014
+3	Output	0	180600 Mon Jan  6 15:34:51 2014
+4	Input	0	180600 Mon Jan  6 15:34:51 2014
+12	fps	32	180600 Mon Jan  6 15:34:51 2014
+13	Clients	0	180600 Mon Jan  6 15:34:51 2014
+11	CPU %	3	180600 Mon Jan  6 15:34:51 2014
+5	Total Output	0	181620 Mon Jan  6 15:34:52 2014
+6	Total Input	0	181620 Mon Jan  6 15:34:52 2014
+3	Output	0	181620 Mon Jan  6 15:34:52 2014
+4	Input	0	181620 Mon Jan  6 15:34:52 2014
+12	fps	32	181620 Mon Jan  6 15:34:52 2014
+13	Clients	0	181620 Mon Jan  6 15:34:52 2014
+11	CPU %	1	181620 Mon Jan  6 15:34:52 2014
+5	Total Output	0	182640 Mon Jan  6 15:34:53 2014
+6	Total Input	0	182640 Mon Jan  6 15:34:53 2014
+3	Output	0	182640 Mon Jan  6 15:34:53 2014
+4	Input	0	182640 Mon Jan  6 15:34:53 2014
+12	fps	33	182640 Mon Jan  6 15:34:53 2014
+13	Clients	0	182640 Mon Jan  6 15:34:53 2014
+11	CPU %	2	182640 Mon Jan  6 15:34:53 2014
+5	Total Output	0	183690 Mon Jan  6 15:34:55 2014
+6	Total Input	0	183690 Mon Jan  6 15:34:55 2014
+3	Output	0	183690 Mon Jan  6 15:34:55 2014
+4	Input	0	183690 Mon Jan  6 15:34:55 2014
+12	fps	32	183690 Mon Jan  6 15:34:55 2014
+13	Clients	0	183690 Mon Jan  6 15:34:55 2014
+11	CPU %	0	183690 Mon Jan  6 15:34:55 2014
+5	Total Output	0	184710 Mon Jan  6 15:34:56 2014
+6	Total Input	0	184710 Mon Jan  6 15:34:56 2014
+3	Output	0	184710 Mon Jan  6 15:34:56 2014
+4	Input	0	184710 Mon Jan  6 15:34:56 2014
+12	fps	33	184710 Mon Jan  6 15:34:56 2014
+13	Clients	0	184710 Mon Jan  6 15:34:56 2014
+11	CPU %	1	184710 Mon Jan  6 15:34:56 2014
+5	Total Output	0	185730 Mon Jan  6 15:34:57 2014
+6	Total Input	0	185730 Mon Jan  6 15:34:57 2014
+3	Output	0	185730 Mon Jan  6 15:34:57 2014
+4	Input	0	185730 Mon Jan  6 15:34:57 2014
+12	fps	33	185730 Mon Jan  6 15:34:57 2014
+13	Clients	0	185730 Mon Jan  6 15:34:57 2014
+11	CPU %	1	185730 Mon Jan  6 15:34:57 2014
+5	Total Output	0	186750 Mon Jan  6 15:34:58 2014
+6	Total Input	0	186750 Mon Jan  6 15:34:58 2014
+3	Output	0	186750 Mon Jan  6 15:34:58 2014
+4	Input	0	186750 Mon Jan  6 15:34:58 2014
+12	fps	33	186750 Mon Jan  6 15:34:58 2014
+13	Clients	0	186750 Mon Jan  6 15:34:58 2014
+11	CPU %	1	186750 Mon Jan  6 15:34:58 2014
+5	Total Output	0	187770 Mon Jan  6 15:34:59 2014
+6	Total Input	0	187770 Mon Jan  6 15:34:59 2014
+3	Output	0	187770 Mon Jan  6 15:34:59 2014
+4	Input	0	187770 Mon Jan  6 15:34:59 2014
+12	fps	33	187770 Mon Jan  6 15:34:59 2014
+13	Clients	0	187770 Mon Jan  6 15:34:59 2014
+11	CPU %	2	187770 Mon Jan  6 15:34:59 2014
+5	Total Output	0	188790 Mon Jan  6 15:35:00 2014
+6	Total Input	0	188790 Mon Jan  6 15:35:00 2014
+3	Output	0	188790 Mon Jan  6 15:35:00 2014
+4	Input	0	188790 Mon Jan  6 15:35:00 2014
+12	fps	33	188790 Mon Jan  6 15:35:00 2014
+13	Clients	0	188790 Mon Jan  6 15:35:00 2014
+11	CPU %	2	188790 Mon Jan  6 15:35:00 2014
+5	Total Output	0	189810 Mon Jan  6 15:35:01 2014
+6	Total Input	0	189810 Mon Jan  6 15:35:01 2014
+3	Output	0	189810 Mon Jan  6 15:35:01 2014
+4	Input	0	189810 Mon Jan  6 15:35:01 2014
+12	fps	33	189810 Mon Jan  6 15:35:01 2014
+13	Clients	0	189810 Mon Jan  6 15:35:01 2014
+11	CPU %	2	189810 Mon Jan  6 15:35:01 2014
+5	Total Output	0	190830 Mon Jan  6 15:35:02 2014
+6	Total Input	0	190830 Mon Jan  6 15:35:02 2014
+3	Output	0	190830 Mon Jan  6 15:35:02 2014
+4	Input	0	190830 Mon Jan  6 15:35:02 2014
+12	fps	32	190830 Mon Jan  6 15:35:02 2014
+13	Clients	0	190830 Mon Jan  6 15:35:02 2014
+11	CPU %	0	190830 Mon Jan  6 15:35:02 2014
+5	Total Output	0	191850 Mon Jan  6 15:35:03 2014
+6	Total Input	0	191850 Mon Jan  6 15:35:03 2014
+3	Output	0	191850 Mon Jan  6 15:35:03 2014
+4	Input	0	191850 Mon Jan  6 15:35:03 2014
+12	fps	32	191850 Mon Jan  6 15:35:03 2014
+13	Clients	0	191850 Mon Jan  6 15:35:03 2014
+11	CPU %	1	191850 Mon Jan  6 15:35:03 2014
+5	Total Output	0	192870 Mon Jan  6 15:35:04 2014
+6	Total Input	0	192870 Mon Jan  6 15:35:04 2014
+3	Output	0	192870 Mon Jan  6 15:35:04 2014
+4	Input	0	192870 Mon Jan  6 15:35:04 2014
+12	fps	32	192870 Mon Jan  6 15:35:04 2014
+13	Clients	0	192870 Mon Jan  6 15:35:04 2014
+11	CPU %	2	192870 Mon Jan  6 15:35:04 2014
+5	Total Output	0	193890 Mon Jan  6 15:35:05 2014
+6	Total Input	0	193890 Mon Jan  6 15:35:05 2014
+3	Output	0	193890 Mon Jan  6 15:35:05 2014
+4	Input	0	193890 Mon Jan  6 15:35:05 2014
+12	fps	32	193890 Mon Jan  6 15:35:05 2014
+13	Clients	0	193890 Mon Jan  6 15:35:05 2014
+11	CPU %	1	193890 Mon Jan  6 15:35:05 2014
+5	Total Output	0	194910 Mon Jan  6 15:35:06 2014
+6	Total Input	0	194910 Mon Jan  6 15:35:06 2014
+3	Output	0	194910 Mon Jan  6 15:35:06 2014
+4	Input	0	194910 Mon Jan  6 15:35:06 2014
+12	fps	32	194910 Mon Jan  6 15:35:06 2014
+13	Clients	0	194910 Mon Jan  6 15:35:06 2014
+11	CPU %	1	194910 Mon Jan  6 15:35:06 2014
+5	Total Output	0	195930 Mon Jan  6 15:35:07 2014
+6	Total Input	0	195930 Mon Jan  6 15:35:07 2014
+3	Output	0	195930 Mon Jan  6 15:35:07 2014
+4	Input	0	195930 Mon Jan  6 15:35:07 2014
+12	fps	32	195930 Mon Jan  6 15:35:07 2014
+13	Clients	0	195930 Mon Jan  6 15:35:07 2014
+11	CPU %	1	195930 Mon Jan  6 15:35:07 2014
+5	Total Output	0	196950 Mon Jan  6 15:35:08 2014
+6	Total Input	0	196950 Mon Jan  6 15:35:08 2014
+3	Output	0	196950 Mon Jan  6 15:35:08 2014
+4	Input	0	196950 Mon Jan  6 15:35:08 2014
+12	fps	32	196950 Mon Jan  6 15:35:08 2014
+13	Clients	0	196950 Mon Jan  6 15:35:08 2014
+11	CPU %	1	196950 Mon Jan  6 15:35:08 2014
+5	Total Output	0	197970 Mon Jan  6 15:35:09 2014
+6	Total Input	0	197970 Mon Jan  6 15:35:09 2014
+3	Output	0	197970 Mon Jan  6 15:35:09 2014
+4	Input	0	197970 Mon Jan  6 15:35:09 2014
+12	fps	32	197970 Mon Jan  6 15:35:09 2014
+13	Clients	0	197970 Mon Jan  6 15:35:09 2014
+11	CPU %	1	197970 Mon Jan  6 15:35:09 2014
+5	Total Output	0	198990 Mon Jan  6 15:35:10 2014
+6	Total Input	0	198990 Mon Jan  6 15:35:10 2014
+3	Output	0	198990 Mon Jan  6 15:35:10 2014
+4	Input	0	198990 Mon Jan  6 15:35:10 2014
+12	fps	32	198990 Mon Jan  6 15:35:10 2014
+13	Clients	0	198990 Mon Jan  6 15:35:10 2014
+11	CPU %	0	198990 Mon Jan  6 15:35:10 2014
+5	Total Output	0	200010 Mon Jan  6 15:35:11 2014
+6	Total Input	0	200010 Mon Jan  6 15:35:11 2014
+3	Output	0	200010 Mon Jan  6 15:35:11 2014
+4	Input	0	200010 Mon Jan  6 15:35:11 2014
+12	fps	33	200010 Mon Jan  6 15:35:11 2014
+13	Clients	0	200010 Mon Jan  6 15:35:11 2014
+11	CPU %	2	200010 Mon Jan  6 15:35:11 2014
+5	Total Output	0	201030 Mon Jan  6 15:35:12 2014
+6	Total Input	0	201030 Mon Jan  6 15:35:12 2014
+3	Output	0	201030 Mon Jan  6 15:35:12 2014
+4	Input	0	201030 Mon Jan  6 15:35:12 2014
+12	fps	33	201030 Mon Jan  6 15:35:12 2014
+13	Clients	0	201030 Mon Jan  6 15:35:12 2014
+11	CPU %	1	201030 Mon Jan  6 15:35:12 2014
+5	Total Output	0	202050 Mon Jan  6 15:35:13 2014
+6	Total Input	0	202050 Mon Jan  6 15:35:13 2014
+3	Output	0	202050 Mon Jan  6 15:35:13 2014
+4	Input	0	202050 Mon Jan  6 15:35:13 2014
+12	fps	33	202050 Mon Jan  6 15:35:13 2014
+13	Clients	0	202050 Mon Jan  6 15:35:13 2014
+11	CPU %	4	202050 Mon Jan  6 15:35:13 2014
+5	Total Output	0	203070 Mon Jan  6 15:35:14 2014
+6	Total Input	0	203070 Mon Jan  6 15:35:14 2014
+3	Output	0	203070 Mon Jan  6 15:35:14 2014
+4	Input	0	203070 Mon Jan  6 15:35:14 2014
+12	fps	33	203070 Mon Jan  6 15:35:14 2014
+13	Clients	0	203070 Mon Jan  6 15:35:14 2014
+11	CPU %	1	203070 Mon Jan  6 15:35:14 2014
+5	Total Output	0	204090 Mon Jan  6 15:35:15 2014
+6	Total Input	0	204090 Mon Jan  6 15:35:15 2014
+3	Output	0	204090 Mon Jan  6 15:35:15 2014
+4	Input	0	204090 Mon Jan  6 15:35:15 2014
+12	fps	32	204090 Mon Jan  6 15:35:15 2014
+13	Clients	0	204090 Mon Jan  6 15:35:15 2014
+11	CPU %	1	204090 Mon Jan  6 15:35:15 2014
+5	Total Output	0	205110 Mon Jan  6 15:35:16 2014
+6	Total Input	0	205110 Mon Jan  6 15:35:16 2014
+3	Output	0	205110 Mon Jan  6 15:35:16 2014
+4	Input	0	205110 Mon Jan  6 15:35:16 2014
+12	fps	32	205110 Mon Jan  6 15:35:16 2014
+13	Clients	0	205110 Mon Jan  6 15:35:16 2014
+11	CPU %	2	205110 Mon Jan  6 15:35:16 2014
+5	Total Output	0	206130 Mon Jan  6 15:35:17 2014
+6	Total Input	0	206130 Mon Jan  6 15:35:17 2014
+3	Output	0	206130 Mon Jan  6 15:35:17 2014
+4	Input	0	206130 Mon Jan  6 15:35:17 2014
+12	fps	32	206130 Mon Jan  6 15:35:17 2014
+13	Clients	0	206130 Mon Jan  6 15:35:17 2014
+11	CPU %	1	206130 Mon Jan  6 15:35:17 2014
+5	Total Output	0	207150 Mon Jan  6 15:35:18 2014
+6	Total Input	0	207150 Mon Jan  6 15:35:18 2014
+3	Output	0	207150 Mon Jan  6 15:35:18 2014
+4	Input	0	207150 Mon Jan  6 15:35:18 2014
+12	fps	32	207150 Mon Jan  6 15:35:18 2014
+13	Clients	0	207150 Mon Jan  6 15:35:18 2014
+11	CPU %	1	207150 Mon Jan  6 15:35:18 2014
+5	Total Output	0	208170 Mon Jan  6 15:35:19 2014
+6	Total Input	0	208170 Mon Jan  6 15:35:19 2014
+3	Output	0	208170 Mon Jan  6 15:35:19 2014
+4	Input	0	208170 Mon Jan  6 15:35:19 2014
+12	fps	32	208170 Mon Jan  6 15:35:19 2014
+13	Clients	0	208170 Mon Jan  6 15:35:19 2014
+11	CPU %	1	208170 Mon Jan  6 15:35:19 2014
+5	Total Output	0	209190 Mon Jan  6 15:35:20 2014
+6	Total Input	0	209190 Mon Jan  6 15:35:20 2014
+3	Output	0	209190 Mon Jan  6 15:35:20 2014
+4	Input	0	209190 Mon Jan  6 15:35:20 2014
+12	fps	32	209190 Mon Jan  6 15:35:20 2014
+13	Clients	0	209190 Mon Jan  6 15:35:20 2014
+11	CPU %	2	209190 Mon Jan  6 15:35:20 2014
+5	Total Output	0	210210 Mon Jan  6 15:35:21 2014
+6	Total Input	0	210210 Mon Jan  6 15:35:21 2014
+3	Output	0	210210 Mon Jan  6 15:35:21 2014
+4	Input	0	210210 Mon Jan  6 15:35:21 2014
+12	fps	32	210210 Mon Jan  6 15:35:21 2014
+13	Clients	0	210210 Mon Jan  6 15:35:21 2014
+11	CPU %	1	210210 Mon Jan  6 15:35:21 2014
+5	Total Output	0	211230 Mon Jan  6 15:35:23 2014
+6	Total Input	0	211230 Mon Jan  6 15:35:23 2014
+3	Output	0	211230 Mon Jan  6 15:35:23 2014
+4	Input	0	211230 Mon Jan  6 15:35:23 2014
+12	fps	32	211230 Mon Jan  6 15:35:23 2014
+13	Clients	0	211230 Mon Jan  6 15:35:23 2014
+11	CPU %	1	211230 Mon Jan  6 15:35:23 2014
+5	Total Output	0	212250 Mon Jan  6 15:35:24 2014
+6	Total Input	0	212250 Mon Jan  6 15:35:24 2014
+3	Output	0	212250 Mon Jan  6 15:35:24 2014
+4	Input	0	212250 Mon Jan  6 15:35:24 2014
+12	fps	32	212250 Mon Jan  6 15:35:24 2014
+13	Clients	0	212250 Mon Jan  6 15:35:24 2014
+11	CPU %	1	212250 Mon Jan  6 15:35:24 2014
+5	Total Output	0	213270 Mon Jan  6 15:35:25 2014
+6	Total Input	0	213270 Mon Jan  6 15:35:25 2014
+3	Output	0	213270 Mon Jan  6 15:35:25 2014
+4	Input	0	213270 Mon Jan  6 15:35:25 2014
+12	fps	32	213270 Mon Jan  6 15:35:25 2014
+13	Clients	0	213270 Mon Jan  6 15:35:25 2014
+11	CPU %	0	213270 Mon Jan  6 15:35:25 2014
+5	Total Output	0	214290 Mon Jan  6 15:35:26 2014
+6	Total Input	0	214290 Mon Jan  6 15:35:26 2014
+3	Output	0	214290 Mon Jan  6 15:35:26 2014
+4	Input	0	214290 Mon Jan  6 15:35:26 2014
+12	fps	33	214290 Mon Jan  6 15:35:26 2014
+13	Clients	0	214290 Mon Jan  6 15:35:26 2014
+11	CPU %	1	214290 Mon Jan  6 15:35:26 2014
+5	Total Output	0	215310 Mon Jan  6 15:35:27 2014
+6	Total Input	0	215310 Mon Jan  6 15:35:27 2014
+3	Output	0	215310 Mon Jan  6 15:35:27 2014
+4	Input	0	215310 Mon Jan  6 15:35:27 2014
+12	fps	32	215310 Mon Jan  6 15:35:27 2014
+13	Clients	0	215310 Mon Jan  6 15:35:27 2014
+11	CPU %	1	215310 Mon Jan  6 15:35:27 2014
+5	Total Output	0	216330 Mon Jan  6 15:35:28 2014
+6	Total Input	0	216330 Mon Jan  6 15:35:28 2014
+3	Output	0	216330 Mon Jan  6 15:35:28 2014
+4	Input	0	216330 Mon Jan  6 15:35:28 2014
+12	fps	33	216330 Mon Jan  6 15:35:28 2014
+13	Clients	0	216330 Mon Jan  6 15:35:28 2014
+11	CPU %	1	216330 Mon Jan  6 15:35:28 2014
+5	Total Output	0	217350 Mon Jan  6 15:35:29 2014
+6	Total Input	0	217350 Mon Jan  6 15:35:29 2014
+3	Output	0	217350 Mon Jan  6 15:35:29 2014
+4	Input	0	217350 Mon Jan  6 15:35:29 2014
+12	fps	33	217350 Mon Jan  6 15:35:29 2014
+13	Clients	0	217350 Mon Jan  6 15:35:29 2014
+11	CPU %	1	217350 Mon Jan  6 15:35:29 2014
+5	Total Output	0	218370 Mon Jan  6 15:35:30 2014
+6	Total Input	0	218370 Mon Jan  6 15:35:30 2014
+3	Output	0	218370 Mon Jan  6 15:35:30 2014
+4	Input	0	218370 Mon Jan  6 15:35:30 2014
+12	fps	33	218370 Mon Jan  6 15:35:30 2014
+13	Clients	0	218370 Mon Jan  6 15:35:30 2014
+11	CPU %	1	218370 Mon Jan  6 15:35:30 2014
+5	Total Output	0	219390 Mon Jan  6 15:35:31 2014
+6	Total Input	0	219390 Mon Jan  6 15:35:31 2014
+3	Output	0	219390 Mon Jan  6 15:35:31 2014
+4	Input	0	219390 Mon Jan  6 15:35:31 2014
+12	fps	33	219390 Mon Jan  6 15:35:31 2014
+13	Clients	0	219390 Mon Jan  6 15:35:31 2014
+11	CPU %	1	219390 Mon Jan  6 15:35:31 2014
+5	Total Output	0	220410 Mon Jan  6 15:35:32 2014
+6	Total Input	0	220410 Mon Jan  6 15:35:32 2014
+3	Output	0	220410 Mon Jan  6 15:35:32 2014
+4	Input	0	220410 Mon Jan  6 15:35:32 2014
+12	fps	33	220410 Mon Jan  6 15:35:32 2014
+13	Clients	0	220410 Mon Jan  6 15:35:32 2014
+11	CPU %	2	220410 Mon Jan  6 15:35:32 2014
+5	Total Output	0	221430 Mon Jan  6 15:35:33 2014
+6	Total Input	0	221430 Mon Jan  6 15:35:33 2014
+3	Output	0	221430 Mon Jan  6 15:35:33 2014
+4	Input	0	221430 Mon Jan  6 15:35:33 2014
+12	fps	32	221430 Mon Jan  6 15:35:33 2014
+13	Clients	0	221430 Mon Jan  6 15:35:33 2014
+11	CPU %	1	221430 Mon Jan  6 15:35:33 2014
+5	Total Output	0	222450 Mon Jan  6 15:35:34 2014
+6	Total Input	0	222450 Mon Jan  6 15:35:34 2014
+3	Output	0	222450 Mon Jan  6 15:35:34 2014
+4	Input	0	222450 Mon Jan  6 15:35:34 2014
+12	fps	32	222450 Mon Jan  6 15:35:34 2014
+13	Clients	0	222450 Mon Jan  6 15:35:34 2014
+11	CPU %	3	222450 Mon Jan  6 15:35:34 2014
+5	Total Output	0	223470 Mon Jan  6 15:35:35 2014
+6	Total Input	0	223470 Mon Jan  6 15:35:35 2014
+3	Output	0	223470 Mon Jan  6 15:35:35 2014
+4	Input	0	223470 Mon Jan  6 15:35:35 2014
+12	fps	32	223470 Mon Jan  6 15:35:35 2014
+13	Clients	0	223470 Mon Jan  6 15:35:35 2014
+11	CPU %	1	223470 Mon Jan  6 15:35:35 2014
+5	Total Output	0	224490 Mon Jan  6 15:35:36 2014
+6	Total Input	0	224490 Mon Jan  6 15:35:36 2014
+3	Output	0	224490 Mon Jan  6 15:35:36 2014
+4	Input	0	224490 Mon Jan  6 15:35:36 2014
+12	fps	32	224490 Mon Jan  6 15:35:36 2014
+13	Clients	0	224490 Mon Jan  6 15:35:36 2014
+11	CPU %	1	224490 Mon Jan  6 15:35:36 2014
+5	Total Output	0	225510 Mon Jan  6 15:35:37 2014
+6	Total Input	0	225510 Mon Jan  6 15:35:37 2014
+3	Output	0	225510 Mon Jan  6 15:35:37 2014
+4	Input	0	225510 Mon Jan  6 15:35:37 2014
+12	fps	32	225510 Mon Jan  6 15:35:37 2014
+13	Clients	0	225510 Mon Jan  6 15:35:37 2014
+11	CPU %	1	225510 Mon Jan  6 15:35:37 2014
+5	Total Output	0	226530 Mon Jan  6 15:35:38 2014
+6	Total Input	0	226530 Mon Jan  6 15:35:38 2014
+3	Output	0	226530 Mon Jan  6 15:35:38 2014
+4	Input	0	226530 Mon Jan  6 15:35:38 2014
+12	fps	32	226530 Mon Jan  6 15:35:38 2014
+13	Clients	0	226530 Mon Jan  6 15:35:38 2014
+11	CPU %	1	226530 Mon Jan  6 15:35:38 2014
+5	Total Output	0	227550 Mon Jan  6 15:35:39 2014
+6	Total Input	0	227550 Mon Jan  6 15:35:39 2014
+3	Output	0	227550 Mon Jan  6 15:35:39 2014
+4	Input	0	227550 Mon Jan  6 15:35:39 2014
+12	fps	32	227550 Mon Jan  6 15:35:39 2014
+13	Clients	0	227550 Mon Jan  6 15:35:39 2014
+11	CPU %	1	227550 Mon Jan  6 15:35:39 2014
+5	Total Output	0	228570 Mon Jan  6 15:35:40 2014
+6	Total Input	0	228570 Mon Jan  6 15:35:40 2014
+3	Output	0	228570 Mon Jan  6 15:35:40 2014
+4	Input	0	228570 Mon Jan  6 15:35:40 2014
+12	fps	32	228570 Mon Jan  6 15:35:40 2014
+13	Clients	0	228570 Mon Jan  6 15:35:40 2014
+11	CPU %	1	228570 Mon Jan  6 15:35:40 2014
+5	Total Output	0	229590 Mon Jan  6 15:35:41 2014
+6	Total Input	0	229590 Mon Jan  6 15:35:41 2014
+3	Output	0	229590 Mon Jan  6 15:35:41 2014
+4	Input	0	229590 Mon Jan  6 15:35:41 2014
+12	fps	33	229590 Mon Jan  6 15:35:41 2014
+13	Clients	0	229590 Mon Jan  6 15:35:41 2014
+11	CPU %	0	229590 Mon Jan  6 15:35:41 2014
+5	Total Output	0	230610 Mon Jan  6 15:35:42 2014
+6	Total Input	0	230610 Mon Jan  6 15:35:42 2014
+3	Output	0	230610 Mon Jan  6 15:35:42 2014
+4	Input	0	230610 Mon Jan  6 15:35:42 2014
+12	fps	33	230610 Mon Jan  6 15:35:42 2014
+13	Clients	0	230610 Mon Jan  6 15:35:42 2014
+11	CPU %	1	230610 Mon Jan  6 15:35:42 2014
+5	Total Output	0	231630 Mon Jan  6 15:35:43 2014
+6	Total Input	0	231630 Mon Jan  6 15:35:43 2014
+3	Output	0	231630 Mon Jan  6 15:35:43 2014
+4	Input	0	231630 Mon Jan  6 15:35:43 2014
+12	fps	33	231630 Mon Jan  6 15:35:43 2014
+13	Clients	0	231630 Mon Jan  6 15:35:43 2014
+11	CPU %	2	231630 Mon Jan  6 15:35:43 2014
+5	Total Output	0	232650 Mon Jan  6 15:35:44 2014
+6	Total Input	0	232650 Mon Jan  6 15:35:44 2014
+3	Output	0	232650 Mon Jan  6 15:35:44 2014
+4	Input	0	232650 Mon Jan  6 15:35:44 2014
+12	fps	33	232650 Mon Jan  6 15:35:44 2014
+13	Clients	0	232650 Mon Jan  6 15:35:44 2014
+11	CPU %	0	232650 Mon Jan  6 15:35:44 2014
+5	Total Output	0	233670 Mon Jan  6 15:35:45 2014
+6	Total Input	0	233670 Mon Jan  6 15:35:45 2014
+3	Output	0	233670 Mon Jan  6 15:35:45 2014
+4	Input	0	233670 Mon Jan  6 15:35:45 2014
+12	fps	33	233670 Mon Jan  6 15:35:45 2014
+13	Clients	0	233670 Mon Jan  6 15:35:45 2014
+11	CPU %	1	233670 Mon Jan  6 15:35:45 2014
+5	Total Output	0	234690 Mon Jan  6 15:35:46 2014
+6	Total Input	0	234690 Mon Jan  6 15:35:46 2014
+3	Output	0	234690 Mon Jan  6 15:35:46 2014
+4	Input	0	234690 Mon Jan  6 15:35:46 2014
+12	fps	33	234690 Mon Jan  6 15:35:46 2014
+13	Clients	0	234690 Mon Jan  6 15:35:46 2014
+11	CPU %	1	234690 Mon Jan  6 15:35:46 2014
+5	Total Output	0	235710 Mon Jan  6 15:35:47 2014
+6	Total Input	0	235710 Mon Jan  6 15:35:47 2014
+3	Output	0	235710 Mon Jan  6 15:35:47 2014
+4	Input	0	235710 Mon Jan  6 15:35:47 2014
+12	fps	33	235710 Mon Jan  6 15:35:47 2014
+13	Clients	0	235710 Mon Jan  6 15:35:47 2014
+11	CPU %	3	235710 Mon Jan  6 15:35:47 2014
+5	Total Output	0	236730 Mon Jan  6 15:35:48 2014
+6	Total Input	0	236730 Mon Jan  6 15:35:48 2014
+3	Output	0	236730 Mon Jan  6 15:35:48 2014
+4	Input	0	236730 Mon Jan  6 15:35:48 2014
+12	fps	32	236730 Mon Jan  6 15:35:48 2014
+13	Clients	0	236730 Mon Jan  6 15:35:48 2014
+11	CPU %	0	236730 Mon Jan  6 15:35:48 2014
+5	Total Output	0	237750 Mon Jan  6 15:35:49 2014
+6	Total Input	0	237750 Mon Jan  6 15:35:49 2014
+3	Output	0	237750 Mon Jan  6 15:35:49 2014
+4	Input	0	237750 Mon Jan  6 15:35:49 2014
+12	fps	32	237750 Mon Jan  6 15:35:49 2014
+13	Clients	0	237750 Mon Jan  6 15:35:49 2014
+11	CPU %	1	237750 Mon Jan  6 15:35:49 2014
+5	Total Output	0	238770 Mon Jan  6 15:35:50 2014
+6	Total Input	0	238770 Mon Jan  6 15:35:50 2014
+3	Output	0	238770 Mon Jan  6 15:35:50 2014
+4	Input	0	238770 Mon Jan  6 15:35:50 2014
+12	fps	32	238770 Mon Jan  6 15:35:50 2014
+13	Clients	0	238770 Mon Jan  6 15:35:50 2014
+11	CPU %	2	238770 Mon Jan  6 15:35:50 2014
+5	Total Output	0	239790 Mon Jan  6 15:35:52 2014
+6	Total Input	0	239790 Mon Jan  6 15:35:52 2014
+3	Output	0	239790 Mon Jan  6 15:35:52 2014
+4	Input	0	239790 Mon Jan  6 15:35:52 2014
+12	fps	32	239790 Mon Jan  6 15:35:52 2014
+13	Clients	0	239790 Mon Jan  6 15:35:52 2014
+11	CPU %	1	239790 Mon Jan  6 15:35:52 2014
+5	Total Output	0	240810 Mon Jan  6 15:35:53 2014
+6	Total Input	0	240810 Mon Jan  6 15:35:53 2014
+3	Output	0	240810 Mon Jan  6 15:35:53 2014
+4	Input	0	240810 Mon Jan  6 15:35:53 2014
+12	fps	32	240810 Mon Jan  6 15:35:53 2014
+13	Clients	0	240810 Mon Jan  6 15:35:53 2014
+11	CPU %	1	240810 Mon Jan  6 15:35:53 2014
+5	Total Output	0	241830 Mon Jan  6 15:35:54 2014
+6	Total Input	0	241830 Mon Jan  6 15:35:54 2014
+3	Output	0	241830 Mon Jan  6 15:35:54 2014
+4	Input	0	241830 Mon Jan  6 15:35:54 2014
+12	fps	32	241830 Mon Jan  6 15:35:54 2014
+13	Clients	0	241830 Mon Jan  6 15:35:54 2014
+11	CPU %	1	241830 Mon Jan  6 15:35:54 2014
+5	Total Output	0	242850 Mon Jan  6 15:35:55 2014
+6	Total Input	0	242850 Mon Jan  6 15:35:55 2014
+3	Output	0	242850 Mon Jan  6 15:35:55 2014
+4	Input	0	242850 Mon Jan  6 15:35:55 2014
+12	fps	32	242850 Mon Jan  6 15:35:55 2014
+13	Clients	0	242850 Mon Jan  6 15:35:55 2014
+11	CPU %	1	242850 Mon Jan  6 15:35:55 2014
+5	Total Output	0	243870 Mon Jan  6 15:35:56 2014
+6	Total Input	0	243870 Mon Jan  6 15:35:56 2014
+3	Output	0	243870 Mon Jan  6 15:35:56 2014
+4	Input	0	243870 Mon Jan  6 15:35:56 2014
+12	fps	33	243870 Mon Jan  6 15:35:56 2014
+13	Clients	0	243870 Mon Jan  6 15:35:56 2014
+11	CPU %	0	243870 Mon Jan  6 15:35:56 2014
+5	Total Output	0	244890 Mon Jan  6 15:35:57 2014
+6	Total Input	0	244890 Mon Jan  6 15:35:57 2014
+3	Output	0	244890 Mon Jan  6 15:35:57 2014
+4	Input	0	244890 Mon Jan  6 15:35:57 2014
+12	fps	33	244890 Mon Jan  6 15:35:57 2014
+13	Clients	0	244890 Mon Jan  6 15:35:57 2014
+11	CPU %	2	244890 Mon Jan  6 15:35:57 2014
+5	Total Output	0	245910 Mon Jan  6 15:35:58 2014
+6	Total Input	0	245910 Mon Jan  6 15:35:58 2014
+3	Output	0	245910 Mon Jan  6 15:35:58 2014
+4	Input	0	245910 Mon Jan  6 15:35:58 2014
+12	fps	33	245910 Mon Jan  6 15:35:58 2014
+13	Clients	0	245910 Mon Jan  6 15:35:58 2014
+11	CPU %	1	245910 Mon Jan  6 15:35:58 2014
+5	Total Output	0	246930 Mon Jan  6 15:35:59 2014
+6	Total Input	0	246930 Mon Jan  6 15:35:59 2014
+3	Output	0	246930 Mon Jan  6 15:35:59 2014
+4	Input	0	246930 Mon Jan  6 15:35:59 2014
+12	fps	32	246930 Mon Jan  6 15:35:59 2014
+13	Clients	0	246930 Mon Jan  6 15:35:59 2014
+11	CPU %	1	246930 Mon Jan  6 15:35:59 2014
+5	Total Output	0	247950 Mon Jan  6 15:36:00 2014
+6	Total Input	0	247950 Mon Jan  6 15:36:00 2014
+3	Output	0	247950 Mon Jan  6 15:36:00 2014
+4	Input	0	247950 Mon Jan  6 15:36:00 2014
+12	fps	33	247950 Mon Jan  6 15:36:00 2014
+13	Clients	0	247950 Mon Jan  6 15:36:00 2014
+11	CPU %	1	247950 Mon Jan  6 15:36:00 2014
+5	Total Output	0	248970 Mon Jan  6 15:36:01 2014
+6	Total Input	0	248970 Mon Jan  6 15:36:01 2014
+3	Output	0	248970 Mon Jan  6 15:36:01 2014
+4	Input	0	248970 Mon Jan  6 15:36:01 2014
+12	fps	33	248970 Mon Jan  6 15:36:01 2014
+13	Clients	0	248970 Mon Jan  6 15:36:01 2014
+11	CPU %	2	248970 Mon Jan  6 15:36:01 2014
+5	Total Output	0	249990 Mon Jan  6 15:36:02 2014
+6	Total Input	0	249990 Mon Jan  6 15:36:02 2014
+3	Output	0	249990 Mon Jan  6 15:36:02 2014
+4	Input	0	249990 Mon Jan  6 15:36:02 2014
+12	fps	32	249990 Mon Jan  6 15:36:02 2014
+13	Clients	0	249990 Mon Jan  6 15:36:02 2014
+11	CPU %	2	249990 Mon Jan  6 15:36:02 2014
+5	Total Output	0	251010 Mon Jan  6 15:36:03 2014
+6	Total Input	0	251010 Mon Jan  6 15:36:03 2014
+3	Output	0	251010 Mon Jan  6 15:36:03 2014
+4	Input	0	251010 Mon Jan  6 15:36:03 2014
+12	fps	32	251010 Mon Jan  6 15:36:03 2014
+13	Clients	0	251010 Mon Jan  6 15:36:03 2014
+11	CPU %	3	251010 Mon Jan  6 15:36:03 2014
+5	Total Output	0	252030 Mon Jan  6 15:36:04 2014
+6	Total Input	0	252030 Mon Jan  6 15:36:04 2014
+3	Output	0	252030 Mon Jan  6 15:36:04 2014
+4	Input	0	252030 Mon Jan  6 15:36:04 2014
+12	fps	32	252030 Mon Jan  6 15:36:04 2014
+13	Clients	0	252030 Mon Jan  6 15:36:04 2014
+11	CPU %	0	252030 Mon Jan  6 15:36:04 2014
+5	Total Output	0	253050 Mon Jan  6 15:36:05 2014
+6	Total Input	0	253050 Mon Jan  6 15:36:05 2014
+3	Output	0	253050 Mon Jan  6 15:36:05 2014
+4	Input	0	253050 Mon Jan  6 15:36:05 2014
+12	fps	32	253050 Mon Jan  6 15:36:05 2014
+13	Clients	0	253050 Mon Jan  6 15:36:05 2014
+11	CPU %	1	253050 Mon Jan  6 15:36:05 2014
+5	Total Output	0	254070 Mon Jan  6 15:36:06 2014
+6	Total Input	0	254070 Mon Jan  6 15:36:06 2014
+3	Output	0	254070 Mon Jan  6 15:36:06 2014
+4	Input	0	254070 Mon Jan  6 15:36:06 2014
+12	fps	31	254070 Mon Jan  6 15:36:06 2014
+13	Clients	0	254070 Mon Jan  6 15:36:06 2014
+11	CPU %	3	254070 Mon Jan  6 15:36:06 2014
+5	Total Output	0	255090 Mon Jan  6 15:36:07 2014
+6	Total Input	0	255090 Mon Jan  6 15:36:07 2014
+3	Output	0	255090 Mon Jan  6 15:36:07 2014
+4	Input	0	255090 Mon Jan  6 15:36:07 2014
+12	fps	31	255090 Mon Jan  6 15:36:07 2014
+13	Clients	0	255090 Mon Jan  6 15:36:07 2014
+11	CPU %	2	255090 Mon Jan  6 15:36:07 2014
+5	Total Output	0	256110 Mon Jan  6 15:36:08 2014
+6	Total Input	0	256110 Mon Jan  6 15:36:08 2014
+3	Output	0	256110 Mon Jan  6 15:36:08 2014
+4	Input	0	256110 Mon Jan  6 15:36:08 2014
+12	fps	32	256110 Mon Jan  6 15:36:08 2014
+13	Clients	0	256110 Mon Jan  6 15:36:08 2014
+11	CPU %	1	256110 Mon Jan  6 15:36:08 2014
+5	Total Output	0	257130 Mon Jan  6 15:36:09 2014
+6	Total Input	0	257130 Mon Jan  6 15:36:09 2014
+3	Output	0	257130 Mon Jan  6 15:36:09 2014
+4	Input	0	257130 Mon Jan  6 15:36:09 2014
+12	fps	32	257130 Mon Jan  6 15:36:09 2014
+13	Clients	0	257130 Mon Jan  6 15:36:09 2014
+11	CPU %	1	257130 Mon Jan  6 15:36:09 2014
+5	Total Output	0	258150 Mon Jan  6 15:36:10 2014
+6	Total Input	0	258150 Mon Jan  6 15:36:10 2014
+3	Output	0	258150 Mon Jan  6 15:36:10 2014
+4	Input	0	258150 Mon Jan  6 15:36:10 2014
+12	fps	32	258150 Mon Jan  6 15:36:10 2014
+13	Clients	0	258150 Mon Jan  6 15:36:10 2014
+11	CPU %	1	258150 Mon Jan  6 15:36:10 2014
+5	Total Output	0	259170 Mon Jan  6 15:36:11 2014
+6	Total Input	0	259170 Mon Jan  6 15:36:11 2014
+3	Output	0	259170 Mon Jan  6 15:36:11 2014
+4	Input	0	259170 Mon Jan  6 15:36:11 2014
+12	fps	33	259170 Mon Jan  6 15:36:11 2014
+13	Clients	0	259170 Mon Jan  6 15:36:11 2014
+11	CPU %	0	259170 Mon Jan  6 15:36:11 2014
+5	Total Output	0	260190 Mon Jan  6 15:36:12 2014
+6	Total Input	0	260190 Mon Jan  6 15:36:12 2014
+3	Output	0	260190 Mon Jan  6 15:36:12 2014
+4	Input	0	260190 Mon Jan  6 15:36:12 2014
+12	fps	33	260190 Mon Jan  6 15:36:12 2014
+13	Clients	0	260190 Mon Jan  6 15:36:12 2014
+11	CPU %	2	260190 Mon Jan  6 15:36:12 2014
+5	Total Output	0	261210 Mon Jan  6 15:36:13 2014
+6	Total Input	0	261210 Mon Jan  6 15:36:13 2014
+3	Output	0	261210 Mon Jan  6 15:36:13 2014
+4	Input	0	261210 Mon Jan  6 15:36:13 2014
+12	fps	33	261210 Mon Jan  6 15:36:13 2014
+13	Clients	0	261210 Mon Jan  6 15:36:13 2014
+11	CPU %	0	261210 Mon Jan  6 15:36:13 2014
+5	Total Output	0	262230 Mon Jan  6 15:36:14 2014
+6	Total Input	0	262230 Mon Jan  6 15:36:14 2014
+3	Output	0	262230 Mon Jan  6 15:36:14 2014
+4	Input	0	262230 Mon Jan  6 15:36:14 2014
+12	fps	33	262230 Mon Jan  6 15:36:14 2014
+13	Clients	0	262230 Mon Jan  6 15:36:14 2014
+11	CPU %	2	262230 Mon Jan  6 15:36:14 2014
+5	Total Output	0	263250 Mon Jan  6 15:36:15 2014
+6	Total Input	0	263250 Mon Jan  6 15:36:15 2014
+3	Output	0	263250 Mon Jan  6 15:36:15 2014
+4	Input	0	263250 Mon Jan  6 15:36:15 2014
+12	fps	33	263250 Mon Jan  6 15:36:15 2014
+13	Clients	0	263250 Mon Jan  6 15:36:15 2014
+11	CPU %	1	263250 Mon Jan  6 15:36:15 2014
+5	Total Output	0	264270 Mon Jan  6 15:36:16 2014
+6	Total Input	0	264270 Mon Jan  6 15:36:16 2014
+3	Output	0	264270 Mon Jan  6 15:36:16 2014
+4	Input	0	264270 Mon Jan  6 15:36:16 2014
+12	fps	33	264270 Mon Jan  6 15:36:16 2014
+13	Clients	0	264270 Mon Jan  6 15:36:16 2014
+11	CPU %	1	264270 Mon Jan  6 15:36:16 2014
+5	Total Output	0	265290 Mon Jan  6 15:36:17 2014
+6	Total Input	0	265290 Mon Jan  6 15:36:17 2014
+3	Output	0	265290 Mon Jan  6 15:36:17 2014
+4	Input	0	265290 Mon Jan  6 15:36:17 2014
+12	fps	33	265290 Mon Jan  6 15:36:17 2014
+13	Clients	0	265290 Mon Jan  6 15:36:17 2014
+11	CPU %	2	265290 Mon Jan  6 15:36:17 2014
+5	Total Output	0	266310 Mon Jan  6 15:36:18 2014
+6	Total Input	0	266310 Mon Jan  6 15:36:18 2014
+3	Output	0	266310 Mon Jan  6 15:36:18 2014
+4	Input	0	266310 Mon Jan  6 15:36:18 2014
+12	fps	33	266310 Mon Jan  6 15:36:18 2014
+13	Clients	0	266310 Mon Jan  6 15:36:18 2014
+11	CPU %	1	266310 Mon Jan  6 15:36:18 2014
+5	Total Output	0	267330 Mon Jan  6 15:36:19 2014
+6	Total Input	0	267330 Mon Jan  6 15:36:19 2014
+3	Output	0	267330 Mon Jan  6 15:36:19 2014
+4	Input	0	267330 Mon Jan  6 15:36:19 2014
+12	fps	32	267330 Mon Jan  6 15:36:19 2014
+13	Clients	0	267330 Mon Jan  6 15:36:19 2014
+11	CPU %	1	267330 Mon Jan  6 15:36:19 2014
+5	Total Output	0	268350 Mon Jan  6 15:36:21 2014
+6	Total Input	0	268350 Mon Jan  6 15:36:21 2014
+3	Output	0	268350 Mon Jan  6 15:36:21 2014
+4	Input	0	268350 Mon Jan  6 15:36:21 2014
+12	fps	32	268350 Mon Jan  6 15:36:21 2014
+13	Clients	0	268350 Mon Jan  6 15:36:21 2014
+11	CPU %	2	268350 Mon Jan  6 15:36:21 2014
+5	Total Output	0	269370 Mon Jan  6 15:36:22 2014
+6	Total Input	0	269370 Mon Jan  6 15:36:22 2014
+3	Output	0	269370 Mon Jan  6 15:36:22 2014
+4	Input	0	269370 Mon Jan  6 15:36:22 2014
+12	fps	32	269370 Mon Jan  6 15:36:22 2014
+13	Clients	0	269370 Mon Jan  6 15:36:22 2014
+11	CPU %	1	269370 Mon Jan  6 15:36:22 2014
+5	Total Output	0	270390 Mon Jan  6 15:36:23 2014
+6	Total Input	0	270390 Mon Jan  6 15:36:23 2014
+3	Output	0	270390 Mon Jan  6 15:36:23 2014
+4	Input	0	270390 Mon Jan  6 15:36:23 2014
+12	fps	32	270390 Mon Jan  6 15:36:23 2014
+13	Clients	0	270390 Mon Jan  6 15:36:23 2014
+11	CPU %	2	270390 Mon Jan  6 15:36:23 2014
+5	Total Output	0	271410 Mon Jan  6 15:36:24 2014
+6	Total Input	0	271410 Mon Jan  6 15:36:24 2014
+3	Output	0	271410 Mon Jan  6 15:36:24 2014
+4	Input	0	271410 Mon Jan  6 15:36:24 2014
+12	fps	32	271410 Mon Jan  6 15:36:24 2014
+13	Clients	0	271410 Mon Jan  6 15:36:24 2014
+11	CPU %	1	271410 Mon Jan  6 15:36:24 2014
+5	Total Output	0	272430 Mon Jan  6 15:36:25 2014
+6	Total Input	0	272430 Mon Jan  6 15:36:25 2014
+3	Output	0	272430 Mon Jan  6 15:36:25 2014
+4	Input	0	272430 Mon Jan  6 15:36:25 2014
+12	fps	32	272430 Mon Jan  6 15:36:25 2014
+13	Clients	0	272430 Mon Jan  6 15:36:25 2014
+11	CPU %	1	272430 Mon Jan  6 15:36:25 2014
+5	Total Output	0	273450 Mon Jan  6 15:36:26 2014
+6	Total Input	0	273450 Mon Jan  6 15:36:26 2014
+3	Output	0	273450 Mon Jan  6 15:36:26 2014
+4	Input	0	273450 Mon Jan  6 15:36:26 2014
+12	fps	32	273450 Mon Jan  6 15:36:26 2014
+13	Clients	0	273450 Mon Jan  6 15:36:26 2014
+11	CPU %	1	273450 Mon Jan  6 15:36:26 2014
+5	Total Output	0	274470 Mon Jan  6 15:36:27 2014
+6	Total Input	0	274470 Mon Jan  6 15:36:27 2014
+3	Output	0	274470 Mon Jan  6 15:36:27 2014
+4	Input	0	274470 Mon Jan  6 15:36:27 2014
+12	fps	33	274470 Mon Jan  6 15:36:27 2014
+13	Clients	0	274470 Mon Jan  6 15:36:27 2014
+11	CPU %	1	274470 Mon Jan  6 15:36:27 2014
+5	Total Output	0	275490 Mon Jan  6 15:36:28 2014
+6	Total Input	0	275490 Mon Jan  6 15:36:28 2014
+3	Output	0	275490 Mon Jan  6 15:36:28 2014
+4	Input	0	275490 Mon Jan  6 15:36:28 2014
+12	fps	33	275490 Mon Jan  6 15:36:28 2014
+13	Clients	0	275490 Mon Jan  6 15:36:28 2014
+11	CPU %	0	275490 Mon Jan  6 15:36:28 2014
+5	Total Output	0	276510 Mon Jan  6 15:36:29 2014
+6	Total Input	0	276510 Mon Jan  6 15:36:29 2014
+3	Output	0	276510 Mon Jan  6 15:36:29 2014
+4	Input	0	276510 Mon Jan  6 15:36:29 2014
+12	fps	33	276510 Mon Jan  6 15:36:29 2014
+13	Clients	0	276510 Mon Jan  6 15:36:29 2014
+11	CPU %	2	276510 Mon Jan  6 15:36:29 2014
+5	Total Output	0	277530 Mon Jan  6 15:36:30 2014
+6	Total Input	0	277530 Mon Jan  6 15:36:30 2014
+3	Output	0	277530 Mon Jan  6 15:36:30 2014
+4	Input	0	277530 Mon Jan  6 15:36:30 2014
+12	fps	33	277530 Mon Jan  6 15:36:30 2014
+13	Clients	0	277530 Mon Jan  6 15:36:30 2014
+11	CPU %	2	277530 Mon Jan  6 15:36:30 2014
+5	Total Output	0	278550 Mon Jan  6 15:36:31 2014
+6	Total Input	0	278550 Mon Jan  6 15:36:31 2014
+3	Output	0	278550 Mon Jan  6 15:36:31 2014
+4	Input	0	278550 Mon Jan  6 15:36:31 2014
+12	fps	33	278550 Mon Jan  6 15:36:31 2014
+13	Clients	0	278550 Mon Jan  6 15:36:31 2014
+11	CPU %	0	278550 Mon Jan  6 15:36:31 2014
+5	Total Output	0	279570 Mon Jan  6 15:36:32 2014
+6	Total Input	0	279570 Mon Jan  6 15:36:32 2014
+3	Output	0	279570 Mon Jan  6 15:36:32 2014
+4	Input	0	279570 Mon Jan  6 15:36:32 2014
+12	fps	33	279570 Mon Jan  6 15:36:32 2014
+13	Clients	0	279570 Mon Jan  6 15:36:32 2014
+11	CPU %	2	279570 Mon Jan  6 15:36:32 2014
+5	Total Output	0	280590 Mon Jan  6 15:36:33 2014
+6	Total Input	0	280590 Mon Jan  6 15:36:33 2014
+3	Output	0	280590 Mon Jan  6 15:36:33 2014
+4	Input	0	280590 Mon Jan  6 15:36:33 2014
+12	fps	32	280590 Mon Jan  6 15:36:33 2014
+13	Clients	0	280590 Mon Jan  6 15:36:33 2014
+11	CPU %	1	280590 Mon Jan  6 15:36:33 2014
+5	Total Output	0	281610 Mon Jan  6 15:36:34 2014
+6	Total Input	0	281610 Mon Jan  6 15:36:34 2014
+3	Output	0	281610 Mon Jan  6 15:36:34 2014
+4	Input	0	281610 Mon Jan  6 15:36:34 2014
+12	fps	32	281610 Mon Jan  6 15:36:34 2014
+13	Clients	0	281610 Mon Jan  6 15:36:34 2014
+11	CPU %	1	281610 Mon Jan  6 15:36:34 2014
+5	Total Output	0	282630 Mon Jan  6 15:36:35 2014
+6	Total Input	0	282630 Mon Jan  6 15:36:35 2014
+3	Output	0	282630 Mon Jan  6 15:36:35 2014
+4	Input	0	282630 Mon Jan  6 15:36:35 2014
+12	fps	32	282630 Mon Jan  6 15:36:35 2014
+13	Clients	0	282630 Mon Jan  6 15:36:35 2014
+11	CPU %	1	282630 Mon Jan  6 15:36:35 2014
+5	Total Output	0	283650 Mon Jan  6 15:36:36 2014
+6	Total Input	0	283650 Mon Jan  6 15:36:36 2014
+3	Output	0	283650 Mon Jan  6 15:36:36 2014
+4	Input	0	283650 Mon Jan  6 15:36:36 2014
+12	fps	32	283650 Mon Jan  6 15:36:36 2014
+13	Clients	0	283650 Mon Jan  6 15:36:36 2014
+11	CPU %	1	283650 Mon Jan  6 15:36:36 2014
+5	Total Output	0	284670 Mon Jan  6 15:36:37 2014
+6	Total Input	0	284670 Mon Jan  6 15:36:37 2014
+3	Output	0	284670 Mon Jan  6 15:36:37 2014
+4	Input	0	284670 Mon Jan  6 15:36:37 2014
+12	fps	32	284670 Mon Jan  6 15:36:37 2014
+13	Clients	0	284670 Mon Jan  6 15:36:37 2014
+11	CPU %	1	284670 Mon Jan  6 15:36:37 2014
+5	Total Output	0	285690 Mon Jan  6 15:36:38 2014
+6	Total Input	0	285690 Mon Jan  6 15:36:38 2014
+3	Output	0	285690 Mon Jan  6 15:36:38 2014
+4	Input	0	285690 Mon Jan  6 15:36:38 2014
+12	fps	32	285690 Mon Jan  6 15:36:38 2014
+13	Clients	0	285690 Mon Jan  6 15:36:38 2014
+11	CPU %	1	285690 Mon Jan  6 15:36:38 2014
+5	Total Output	0	286710 Mon Jan  6 15:36:39 2014
+6	Total Input	0	286710 Mon Jan  6 15:36:39 2014
+3	Output	0	286710 Mon Jan  6 15:36:39 2014
+4	Input	0	286710 Mon Jan  6 15:36:39 2014
+12	fps	32	286710 Mon Jan  6 15:36:39 2014
+13	Clients	0	286710 Mon Jan  6 15:36:39 2014
+11	CPU %	1	286710 Mon Jan  6 15:36:39 2014
+5	Total Output	0	287730 Mon Jan  6 15:36:40 2014
+6	Total Input	0	287730 Mon Jan  6 15:36:40 2014
+3	Output	0	287730 Mon Jan  6 15:36:40 2014
+4	Input	0	287730 Mon Jan  6 15:36:40 2014
+12	fps	32	287730 Mon Jan  6 15:36:40 2014
+13	Clients	0	287730 Mon Jan  6 15:36:40 2014
+11	CPU %	2	287730 Mon Jan  6 15:36:40 2014
+5	Total Output	0	288750 Mon Jan  6 15:36:41 2014
+6	Total Input	0	288750 Mon Jan  6 15:36:41 2014
+3	Output	0	288750 Mon Jan  6 15:36:41 2014
+4	Input	0	288750 Mon Jan  6 15:36:41 2014
+12	fps	33	288750 Mon Jan  6 15:36:41 2014
+13	Clients	0	288750 Mon Jan  6 15:36:41 2014
+11	CPU %	0	288750 Mon Jan  6 15:36:41 2014
+5	Total Output	0	289770 Mon Jan  6 15:36:42 2014
+6	Total Input	0	289770 Mon Jan  6 15:36:42 2014
+3	Output	0	289770 Mon Jan  6 15:36:42 2014
+4	Input	0	289770 Mon Jan  6 15:36:42 2014
+12	fps	33	289770 Mon Jan  6 15:36:42 2014
+13	Clients	0	289770 Mon Jan  6 15:36:42 2014
+11	CPU %	1	289770 Mon Jan  6 15:36:42 2014
+5	Total Output	0	290790 Mon Jan  6 15:36:43 2014
+6	Total Input	0	290790 Mon Jan  6 15:36:43 2014
+3	Output	0	290790 Mon Jan  6 15:36:43 2014
+4	Input	0	290790 Mon Jan  6 15:36:43 2014
+12	fps	33	290790 Mon Jan  6 15:36:43 2014
+13	Clients	0	290790 Mon Jan  6 15:36:43 2014
+11	CPU %	1	290790 Mon Jan  6 15:36:43 2014
+5	Total Output	0	291810 Mon Jan  6 15:36:44 2014
+6	Total Input	0	291810 Mon Jan  6 15:36:44 2014
+3	Output	0	291810 Mon Jan  6 15:36:44 2014
+4	Input	0	291810 Mon Jan  6 15:36:44 2014
+12	fps	33	291810 Mon Jan  6 15:36:44 2014
+13	Clients	0	291810 Mon Jan  6 15:36:44 2014
+11	CPU %	1	291810 Mon Jan  6 15:36:44 2014
+5	Total Output	0	292830 Mon Jan  6 15:36:45 2014
+6	Total Input	0	292830 Mon Jan  6 15:36:45 2014
+3	Output	0	292830 Mon Jan  6 15:36:45 2014
+4	Input	0	292830 Mon Jan  6 15:36:45 2014
+12	fps	33	292830 Mon Jan  6 15:36:45 2014
+13	Clients	0	292830 Mon Jan  6 15:36:45 2014
+11	CPU %	1	292830 Mon Jan  6 15:36:45 2014
+5	Total Output	0	293850 Mon Jan  6 15:36:46 2014
+6	Total Input	0	293850 Mon Jan  6 15:36:46 2014
+3	Output	0	293850 Mon Jan  6 15:36:46 2014
+4	Input	0	293850 Mon Jan  6 15:36:46 2014
+12	fps	33	293850 Mon Jan  6 15:36:46 2014
+13	Clients	0	293850 Mon Jan  6 15:36:46 2014
+11	CPU %	1	293850 Mon Jan  6 15:36:46 2014
+5	Total Output	0	294870 Mon Jan  6 15:36:47 2014
+6	Total Input	0	294870 Mon Jan  6 15:36:47 2014
+3	Output	0	294870 Mon Jan  6 15:36:47 2014
+4	Input	0	294870 Mon Jan  6 15:36:47 2014
+12	fps	33	294870 Mon Jan  6 15:36:47 2014
+13	Clients	0	294870 Mon Jan  6 15:36:47 2014
+11	CPU %	2	294870 Mon Jan  6 15:36:47 2014
+5	Total Output	0	295890 Mon Jan  6 15:36:48 2014
+6	Total Input	0	295890 Mon Jan  6 15:36:48 2014
+3	Output	0	295890 Mon Jan  6 15:36:48 2014
+4	Input	0	295890 Mon Jan  6 15:36:48 2014
+12	fps	32	295890 Mon Jan  6 15:36:48 2014
+13	Clients	0	295890 Mon Jan  6 15:36:48 2014
+11	CPU %	4	295890 Mon Jan  6 15:36:48 2014
+5	Total Output	0	296910 Mon Jan  6 15:36:50 2014
+6	Total Input	0	296910 Mon Jan  6 15:36:50 2014
+3	Output	0	296910 Mon Jan  6 15:36:50 2014
+4	Input	0	296910 Mon Jan  6 15:36:50 2014
+12	fps	32	296910 Mon Jan  6 15:36:50 2014
+13	Clients	0	296910 Mon Jan  6 15:36:50 2014
+11	CPU %	2	296910 Mon Jan  6 15:36:50 2014
+5	Total Output	0	297930 Mon Jan  6 15:36:51 2014
+6	Total Input	0	297930 Mon Jan  6 15:36:51 2014
+3	Output	0	297930 Mon Jan  6 15:36:51 2014
+4	Input	0	297930 Mon Jan  6 15:36:51 2014
+12	fps	32	297930 Mon Jan  6 15:36:51 2014
+13	Clients	0	297930 Mon Jan  6 15:36:51 2014
+11	CPU %	2	297930 Mon Jan  6 15:36:51 2014
+5	Total Output	0	298950 Mon Jan  6 15:36:52 2014
+6	Total Input	0	298950 Mon Jan  6 15:36:52 2014
+3	Output	0	298950 Mon Jan  6 15:36:52 2014
+4	Input	0	298950 Mon Jan  6 15:36:52 2014
+12	fps	32	298950 Mon Jan  6 15:36:52 2014
+13	Clients	0	298950 Mon Jan  6 15:36:52 2014
+11	CPU %	1	298950 Mon Jan  6 15:36:52 2014
+5	Total Output	0	299970 Mon Jan  6 15:36:53 2014
+6	Total Input	0	299970 Mon Jan  6 15:36:53 2014
+3	Output	0	299970 Mon Jan  6 15:36:53 2014
+4	Input	0	299970 Mon Jan  6 15:36:53 2014
+12	fps	32	299970 Mon Jan  6 15:36:53 2014
+13	Clients	0	299970 Mon Jan  6 15:36:53 2014
+11	CPU %	1	299970 Mon Jan  6 15:36:53 2014
+5	Total Output	0	300990 Mon Jan  6 15:36:54 2014
+6	Total Input	0	300990 Mon Jan  6 15:36:54 2014
+3	Output	0	300990 Mon Jan  6 15:36:54 2014
+4	Input	0	300990 Mon Jan  6 15:36:54 2014
+12	fps	32	300990 Mon Jan  6 15:36:54 2014
+13	Clients	0	300990 Mon Jan  6 15:36:54 2014
+11	CPU %	2	300990 Mon Jan  6 15:36:54 2014
+5	Total Output	0	302010 Mon Jan  6 15:36:55 2014
+6	Total Input	0	302010 Mon Jan  6 15:36:55 2014
+3	Output	0	302010 Mon Jan  6 15:36:55 2014
+4	Input	0	302010 Mon Jan  6 15:36:55 2014
+12	fps	32	302010 Mon Jan  6 15:36:55 2014
+13	Clients	0	302010 Mon Jan  6 15:36:55 2014
+11	CPU %	2	302010 Mon Jan  6 15:36:55 2014
+5	Total Output	0	303030 Mon Jan  6 15:36:56 2014
+6	Total Input	0	303030 Mon Jan  6 15:36:56 2014
+3	Output	0	303030 Mon Jan  6 15:36:56 2014
+4	Input	0	303030 Mon Jan  6 15:36:56 2014
+12	fps	33	303030 Mon Jan  6 15:36:56 2014
+13	Clients	0	303030 Mon Jan  6 15:36:56 2014
+11	CPU %	1	303030 Mon Jan  6 15:36:56 2014
+5	Total Output	0	304050 Mon Jan  6 15:36:57 2014
+6	Total Input	0	304050 Mon Jan  6 15:36:57 2014
+3	Output	0	304050 Mon Jan  6 15:36:57 2014
+4	Input	0	304050 Mon Jan  6 15:36:57 2014
+12	fps	32	304050 Mon Jan  6 15:36:57 2014
+13	Clients	0	304050 Mon Jan  6 15:36:57 2014
+11	CPU %	0	304050 Mon Jan  6 15:36:57 2014
+5	Total Output	0	305070 Mon Jan  6 15:36:58 2014
+6	Total Input	0	305070 Mon Jan  6 15:36:58 2014
+3	Output	0	305070 Mon Jan  6 15:36:58 2014
+4	Input	0	305070 Mon Jan  6 15:36:58 2014
+12	fps	32	305070 Mon Jan  6 15:36:58 2014
+13	Clients	0	305070 Mon Jan  6 15:36:58 2014
+11	CPU %	2	305070 Mon Jan  6 15:36:58 2014
+5	Total Output	0	306090 Mon Jan  6 15:36:59 2014
+6	Total Input	0	306090 Mon Jan  6 15:36:59 2014
+3	Output	0	306090 Mon Jan  6 15:36:59 2014
+4	Input	0	306090 Mon Jan  6 15:36:59 2014
+12	fps	33	306090 Mon Jan  6 15:36:59 2014
+13	Clients	0	306090 Mon Jan  6 15:36:59 2014
+11	CPU %	1	306090 Mon Jan  6 15:36:59 2014
+5	Total Output	0	307110 Mon Jan  6 15:37:00 2014
+6	Total Input	0	307110 Mon Jan  6 15:37:00 2014
+3	Output	0	307110 Mon Jan  6 15:37:00 2014
+4	Input	0	307110 Mon Jan  6 15:37:00 2014
+12	fps	33	307110 Mon Jan  6 15:37:00 2014
+13	Clients	0	307110 Mon Jan  6 15:37:00 2014
+11	CPU %	2	307110 Mon Jan  6 15:37:00 2014
+5	Total Output	0	308130 Mon Jan  6 15:37:01 2014
+6	Total Input	0	308130 Mon Jan  6 15:37:01 2014
+3	Output	0	308130 Mon Jan  6 15:37:01 2014
+4	Input	0	308130 Mon Jan  6 15:37:01 2014
+12	fps	33	308130 Mon Jan  6 15:37:01 2014
+13	Clients	0	308130 Mon Jan  6 15:37:01 2014
+11	CPU %	0	308130 Mon Jan  6 15:37:01 2014
+5	Total Output	0	309150 Mon Jan  6 15:37:02 2014
+6	Total Input	0	309150 Mon Jan  6 15:37:02 2014
+3	Output	0	309150 Mon Jan  6 15:37:02 2014
+4	Input	0	309150 Mon Jan  6 15:37:02 2014
+12	fps	32	309150 Mon Jan  6 15:37:02 2014
+13	Clients	0	309150 Mon Jan  6 15:37:02 2014
+11	CPU %	1	309150 Mon Jan  6 15:37:02 2014
+5	Total Output	0	310170 Mon Jan  6 15:37:03 2014
+6	Total Input	0	310170 Mon Jan  6 15:37:03 2014
+3	Output	0	310170 Mon Jan  6 15:37:03 2014
+4	Input	0	310170 Mon Jan  6 15:37:03 2014
+12	fps	33	310170 Mon Jan  6 15:37:03 2014
+13	Clients	0	310170 Mon Jan  6 15:37:03 2014
+11	CPU %	2	310170 Mon Jan  6 15:37:03 2014
+5	Total Output	0	311190 Mon Jan  6 15:37:04 2014
+6	Total Input	0	311190 Mon Jan  6 15:37:04 2014
+3	Output	0	311190 Mon Jan  6 15:37:04 2014
+4	Input	0	311190 Mon Jan  6 15:37:04 2014
+12	fps	33	311190 Mon Jan  6 15:37:04 2014
+13	Clients	0	311190 Mon Jan  6 15:37:04 2014
+11	CPU %	1	311190 Mon Jan  6 15:37:04 2014
+5	Total Output	0	312210 Mon Jan  6 15:37:05 2014
+6	Total Input	0	312210 Mon Jan  6 15:37:05 2014
+3	Output	0	312210 Mon Jan  6 15:37:05 2014
+4	Input	0	312210 Mon Jan  6 15:37:05 2014
+12	fps	32	312210 Mon Jan  6 15:37:05 2014
+13	Clients	0	312210 Mon Jan  6 15:37:05 2014
+11	CPU %	1	312210 Mon Jan  6 15:37:05 2014
+5	Total Output	0	313230 Mon Jan  6 15:37:06 2014
+6	Total Input	0	313230 Mon Jan  6 15:37:06 2014
+3	Output	0	313230 Mon Jan  6 15:37:06 2014
+4	Input	0	313230 Mon Jan  6 15:37:06 2014
+12	fps	31	313230 Mon Jan  6 15:37:06 2014
+13	Clients	0	313230 Mon Jan  6 15:37:06 2014
+11	CPU %	3	313230 Mon Jan  6 15:37:06 2014
+5	Total Output	0	314250 Mon Jan  6 15:37:07 2014
+6	Total Input	0	314250 Mon Jan  6 15:37:07 2014
+3	Output	0	314250 Mon Jan  6 15:37:07 2014
+4	Input	0	314250 Mon Jan  6 15:37:07 2014
+12	fps	32	314250 Mon Jan  6 15:37:07 2014
+13	Clients	0	314250 Mon Jan  6 15:37:07 2014
+11	CPU %	2	314250 Mon Jan  6 15:37:07 2014
+5	Total Output	0	315270 Mon Jan  6 15:37:08 2014
+6	Total Input	0	315270 Mon Jan  6 15:37:08 2014
+3	Output	0	315270 Mon Jan  6 15:37:08 2014
+4	Input	0	315270 Mon Jan  6 15:37:08 2014
+12	fps	32	315270 Mon Jan  6 15:37:08 2014
+13	Clients	0	315270 Mon Jan  6 15:37:08 2014
+11	CPU %	1	315270 Mon Jan  6 15:37:08 2014
+5	Total Output	0	316290 Mon Jan  6 15:37:09 2014
+6	Total Input	0	316290 Mon Jan  6 15:37:09 2014
+3	Output	0	316290 Mon Jan  6 15:37:09 2014
+4	Input	0	316290 Mon Jan  6 15:37:09 2014
+12	fps	32	316290 Mon Jan  6 15:37:09 2014
+13	Clients	0	316290 Mon Jan  6 15:37:09 2014
+11	CPU %	1	316290 Mon Jan  6 15:37:09 2014
+5	Total Output	0	317310 Mon Jan  6 15:37:10 2014
+6	Total Input	0	317310 Mon Jan  6 15:37:10 2014
+3	Output	0	317310 Mon Jan  6 15:37:10 2014
+4	Input	0	317310 Mon Jan  6 15:37:10 2014
+12	fps	32	317310 Mon Jan  6 15:37:10 2014
+13	Clients	0	317310 Mon Jan  6 15:37:10 2014
+11	CPU %	1	317310 Mon Jan  6 15:37:10 2014
+5	Total Output	0	318330 Mon Jan  6 15:37:11 2014
+6	Total Input	0	318330 Mon Jan  6 15:37:11 2014
+3	Output	0	318330 Mon Jan  6 15:37:11 2014
+4	Input	0	318330 Mon Jan  6 15:37:11 2014
+12	fps	33	318330 Mon Jan  6 15:37:11 2014
+13	Clients	0	318330 Mon Jan  6 15:37:11 2014
+11	CPU %	1	318330 Mon Jan  6 15:37:11 2014
+5	Total Output	0	319350 Mon Jan  6 15:37:12 2014
+6	Total Input	0	319350 Mon Jan  6 15:37:12 2014
+3	Output	0	319350 Mon Jan  6 15:37:12 2014
+4	Input	0	319350 Mon Jan  6 15:37:12 2014
+12	fps	33	319350 Mon Jan  6 15:37:12 2014
+13	Clients	0	319350 Mon Jan  6 15:37:12 2014
+11	CPU %	0	319350 Mon Jan  6 15:37:12 2014
+5	Total Output	0	320370 Mon Jan  6 15:37:13 2014
+6	Total Input	0	320370 Mon Jan  6 15:37:13 2014
+3	Output	0	320370 Mon Jan  6 15:37:13 2014
+4	Input	0	320370 Mon Jan  6 15:37:13 2014
+12	fps	33	320370 Mon Jan  6 15:37:13 2014
+13	Clients	0	320370 Mon Jan  6 15:37:13 2014
+11	CPU %	2	320370 Mon Jan  6 15:37:13 2014
+5	Total Output	0	321390 Mon Jan  6 15:37:14 2014
+6	Total Input	0	321390 Mon Jan  6 15:37:14 2014
+3	Output	0	321390 Mon Jan  6 15:37:14 2014
+4	Input	0	321390 Mon Jan  6 15:37:14 2014
+12	fps	33	321390 Mon Jan  6 15:37:14 2014
+13	Clients	0	321390 Mon Jan  6 15:37:14 2014
+11	CPU %	1	321390 Mon Jan  6 15:37:14 2014
+5	Total Output	0	322410 Mon Jan  6 15:37:15 2014
+6	Total Input	0	322410 Mon Jan  6 15:37:15 2014
+3	Output	0	322410 Mon Jan  6 15:37:15 2014
+4	Input	0	322410 Mon Jan  6 15:37:15 2014
+12	fps	33	322410 Mon Jan  6 15:37:15 2014
+13	Clients	0	322410 Mon Jan  6 15:37:15 2014
+11	CPU %	2	322410 Mon Jan  6 15:37:15 2014
+5	Total Output	0	323430 Mon Jan  6 15:37:17 2014
+6	Total Input	0	323430 Mon Jan  6 15:37:17 2014
+3	Output	0	323430 Mon Jan  6 15:37:17 2014
+4	Input	0	323430 Mon Jan  6 15:37:17 2014
+12	fps	32	323430 Mon Jan  6 15:37:17 2014
+13	Clients	0	323430 Mon Jan  6 15:37:17 2014
+11	CPU %	1	323430 Mon Jan  6 15:37:17 2014
+5	Total Output	0	324450 Mon Jan  6 15:37:18 2014
+6	Total Input	0	324450 Mon Jan  6 15:37:18 2014
+3	Output	0	324450 Mon Jan  6 15:37:18 2014
+4	Input	0	324450 Mon Jan  6 15:37:18 2014
+12	fps	33	324450 Mon Jan  6 15:37:18 2014
+13	Clients	0	324450 Mon Jan  6 15:37:18 2014
+11	CPU %	1	324450 Mon Jan  6 15:37:18 2014
+5	Total Output	0	325470 Mon Jan  6 15:37:19 2014
+6	Total Input	0	325470 Mon Jan  6 15:37:19 2014
+3	Output	0	325470 Mon Jan  6 15:37:19 2014
+4	Input	0	325470 Mon Jan  6 15:37:19 2014
+12	fps	32	325470 Mon Jan  6 15:37:19 2014
+13	Clients	0	325470 Mon Jan  6 15:37:19 2014
+11	CPU %	1	325470 Mon Jan  6 15:37:19 2014
+5	Total Output	0	326490 Mon Jan  6 15:37:20 2014
+6	Total Input	0	326490 Mon Jan  6 15:37:20 2014
+3	Output	0	326490 Mon Jan  6 15:37:20 2014
+4	Input	0	326490 Mon Jan  6 15:37:20 2014
+12	fps	33	326490 Mon Jan  6 15:37:20 2014
+13	Clients	0	326490 Mon Jan  6 15:37:20 2014
+11	CPU %	2	326490 Mon Jan  6 15:37:20 2014
+5	Total Output	0	327510 Mon Jan  6 15:37:21 2014
+6	Total Input	0	327510 Mon Jan  6 15:37:21 2014
+3	Output	0	327510 Mon Jan  6 15:37:21 2014
+4	Input	0	327510 Mon Jan  6 15:37:21 2014
+12	fps	32	327510 Mon Jan  6 15:37:21 2014
+13	Clients	0	327510 Mon Jan  6 15:37:21 2014
+11	CPU %	1	327510 Mon Jan  6 15:37:21 2014
+5	Total Output	0	328530 Mon Jan  6 15:37:22 2014
+6	Total Input	0	328530 Mon Jan  6 15:37:22 2014
+3	Output	0	328530 Mon Jan  6 15:37:22 2014
+4	Input	0	328530 Mon Jan  6 15:37:22 2014
+12	fps	32	328530 Mon Jan  6 15:37:22 2014
+13	Clients	0	328530 Mon Jan  6 15:37:22 2014
+11	CPU %	1	328530 Mon Jan  6 15:37:22 2014
+5	Total Output	0	329550 Mon Jan  6 15:37:23 2014
+6	Total Input	0	329550 Mon Jan  6 15:37:23 2014
+3	Output	0	329550 Mon Jan  6 15:37:23 2014
+4	Input	0	329550 Mon Jan  6 15:37:23 2014
+12	fps	32	329550 Mon Jan  6 15:37:23 2014
+13	Clients	0	329550 Mon Jan  6 15:37:23 2014
+11	CPU %	1	329550 Mon Jan  6 15:37:23 2014

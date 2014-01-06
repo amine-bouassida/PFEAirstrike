@@ -1,27 +1,28 @@
-SH_LIB_PATH=../../Photon_libs
-
+LIB_PATH=../PhotonSDK
+#headfile
 CFLAGS:= -g -O2 -Wall -Wno-unused $(OPTIONS)
-# CFLAGS:=-g -O2 -Wall -Wno-unused -pthread $(OPTIONS)
-#
-# CFLAGS += $(shell sdl-config --cflags) -Isprite -I. -Isupport -I../enet/include -DINLINE=inline -lm -lfoo
-CFLAGS += -I$(SH_LIB_PATH) -L$(SH_LIB_PATH)/Common-cpp -L$(SH_LIB_PATH)/Photon-cpp
-CFLAGS += $(shell sdl-config --cflags) -Isprite -I. -Isupport -I../enet/include -DINLINE=inline -lm
-# CFLAGS += -pthread -I../../Photon_libs
+CFLAGS += $(shell sdl-config --cflags) -Isprite -I$(LIB_PATH) -I. -Isupport -I../enet/include -DINLINE=inline -lm
+#lib
+CLIB:= -L$(LIB_PATH)/Common-cpp -L$(LIB_PATH)/Photon-cpp -lSDL_image -lSDL_mixer -lm -lenet -pthread -lPhotonRelease32 -lCommonRelease32
+#C Files
 CFILES:= $(shell find . -name '*.c') 
-# CFILES:= $(shell find . -type f \( -iname "*.c" ! -iname "airstrike.c" \)) 
-OBJECTS_LIST:= $(CFILES:.c=.o)
-OBJECTS:= $(CFILES:.c=.o) ./photon_arch1.o 
-#./airstrike.o
+COBJECTS:= $(CFILES:.c=.o)
+#cpp files
+CPPFILES:= $(shell find . -name '*.cpp')
+CPPOBJECTS:= $(CPPFILES:.cpp=.o)
 
-airstrike: $(OBJECTS_LIST)
-	# g++ $(CFLAGS) -pthread -lPhotonDebug32 -lCommonDebug32 -c airstrike.c -o airstrike.o
-	g++ -o $@ $(CFLAGS) $(OBJECTS) `sdl-config --libs` -lSDL_image -lSDL_mixer -lm -lenet -pthread -lPhotonDebug32 -lCommonDebug32
+airstrike: $(COBJECTS) $(CPPOBJECTS)
+	g++ -o $@ $(CFLAGS) $(COBJECTS) $(CPPOBJECTS) `sdl-config --libs` $(CLIB)
 
-airstrike-sound: $(OBJECTS)
-	g++ -o $@ $(CFLAGS) $(OBJECTS) `sdl-config --libs` -lSDL_image -lSDL_mixer -lm -lenet -pthread -lPhotonDebug32 -lCommonDebug32
+airstrike-sound: $(COBJECTS) $(CPPOBJECTS)
+	g++ -o $@ $(CFLAGS) $(COBJECTS) $(CPPOBJECTS) `sdl-config --libs` $(CLIB)
+#-lSDL_image -lSDL_mixer -lm -lenet -pthread -lPhotonRelease32 -lCommonRelease32
 
-photon:
-	g++ -I$(SH_LIB_PATH) -L$(SH_LIB_PATH)/Common-cpp -L$(SH_LIB_PATH)/Photon-cpp -pthread -lPhotonDebug32 -lCommonDebug32 -c -o photon_arch1.o photon_arch1.cpp
+$(COBJECTS): %.o: %.c
+	gcc $(CFLAGS) -c $< -o $@
+
+$(CPPOBJECTS): %.o: %.cpp
+	g++ -c $(CFLAGS) $< -o $@
 
 # Use the rule below when coding new sprite types
 #sprites_autogen.h: sprite_types/*.c
